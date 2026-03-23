@@ -1,0 +1,336 @@
+{
+  "judul": "Ujian Biologi dan Lingkungan",
+  "total_soal": 30,
+  "soal_list": [
+    {
+      "no": 1,
+      "pertanyaan": "Manfaat mendaur ulang suatu barang bekas atau limbah adalah sebagai berikut kecuali…",
+      "pilihan": [
+        "Mencegah pencemaran yang lebih parah dari limbah yang dihasilkan",
+        "Menghemat penggunaan sumber daya alam",
+        "Ikut Menjaga keseimbangan ekosistem lingkungan hidup",
+        "Tingginya polusi yang dihasilkan dari daur ulang limbah tersebut sangat membahayakan",
+        "Tidak Menjaga kelestarian ekosistem"
+      ]
+    },
+    {
+      "no": 2,
+      "pertanyaan": "Energi utama dalam suatu ekosistem yang merupakan komponen abiotik adalah..",
+      "pilihan": [
+        "Cahaya Matahari",
+        "Udara",
+        "Suhu",
+        "Air",
+        "Tanah"
+      ]
+    },
+    {
+      "no": 3,
+      "pertanyaan": "Walaupun tanaman tomat berada dalam genus yang sama dengan terung, tetapi keduanya mempunyai perbedaan. Hal ini menunjukkan adanya keanekaragaman hayati tingkat…..",
+      "pilihan": [
+        "Gen",
+        "Kingdom",
+        "Jenis",
+        "Ekosistem",
+        "Ordo"
+      ]
+    },
+    {
+      "no": 4,
+      "pertanyaan": "Proses fermentasi dalam bioteknologi dilakukan dengan bantuan .....",
+      "pilihan": [
+        "Bakteri",
+        "Hewan",
+        "Tanaman",
+        "Mikroorganisme",
+        "Virus"
+      ]
+    },
+    {
+      "no": 5,
+      "pertanyaan": "Citrus nobilis adalah nama ilmiah dari jeruk keprok. Kata citrus menunjukkan takson...",
+      "pilihan": [
+        "filum",
+        "genus",
+        "famili",
+        "spesies",
+        "Ordo"
+      ]
+    },
+    {
+      "no": 6,
+      "pertanyaan": "Dalam suatu ekosistem darat ditemukan tumbuhan yang dominan adalah jenis sukulen. Ekosistem tersebut adalah bioma…..",
+      "pilihan": [
+        "Tundra",
+        "taiga",
+        "padang rumput",
+        "gurun",
+        "Bioma"
+      ]
+    },
+    {
+      "no": 7,
+      "pertanyaan": "Virus golongan orthomyxovirus yang berbentuk seperti bola, ditularkan lewat udara dan masuk ke tubuh manusia melalui alat pernafasan menyebabkan penyakit…..",
+      "pilihan": [
+        "Hepatitis",
+        "flu burung",
+        "influenza",
+        "rabies",
+        "SARS"
+      ]
+    },
+    {
+      "no": 8,
+      "pertanyaan": "Golongan paramyxovirus virus ini hanya memiliki RNA dan dapat tumbuh di jaringan otak, selaput otak dan radang di hati menyebabkan penyakit………",
+      "pilihan": [
+        "Aids",
+        "herpes simplek",
+        "gondong",
+        "SARS",
+        "Hepatitis"
+      ]
+    },
+    {
+      "no": 9,
+      "pertanyaan": "Escherichia coli adalah bakteri yang dapat diserang oleh……. ",
+      "pilihan": [
+        "bakteriofag",
+        "adenovirus",
+        "retrovirus",
+        "rhabdovirus",
+        "DNA dan RNA"
+      ]
+    },
+    {
+      "no": 10,
+      "pertanyaan": "Partikel yang hanya dapat berkembang biak dalam sel hidup, tidak melakukan metabolisme, dapat dikristalkan, dan memiliki struktur tubuh sederhana adalah…….",
+      "pilihan": [
+        "Bakteri",
+        "virus",
+        "Fag",
+        "litik",
+        "Lisogenik"
+      ]
+    },
+    {
+      "no": 11,
+      "pertanyaan": "Organel yang berfungsi untuk menghasilkan energi sel melalui respirasi seluler adalah....",
+      "pilihan": [
+        "Mitokondria",
+        "Badan Golgi",
+        "Kloroplas",
+        "Amiloplas",
+        "Lisosom"
+      ]
+    },
+    {
+      "no": 12,
+      "pertanyaan": "Orang yang pertama kali melihat sel dari sayatan tipis gabus batang dari tumbuhan di bawah mikroskop adalah.....",
+      "pilihan": [
+        "Scheleiden",
+        "Schwan",
+        "Robert Brown",
+        "Felix Durjadin",
+        "Robert Hooke"
+      ]
+    },
+    {
+      "no": 13,
+      "pertanyaan": "Proses masuknya zat padat ke dalam sel dengan cara membungkusnya melalui membran sel disebut......",
+      "pilihan": [
+        "Fagositosis",
+        "Pinositosis",
+        "Eksositosis",
+        "Osmosis",
+        "Endositosis"
+      ]
+    },
+    {
+      "no": 14,
+      "pertanyaan": "Peristiwa terlepasnya sitoplasma dari dinding sel disebut......",
+      "pilihan": [
+        "Krenasi",
+        "Lisis",
+        "Difusi",
+        "Osmosis",
+        "Plasmolisis"
+      ]
+    },
+    {
+      "no": 15,
+      "pertanyaan": "Pembuahan gametofit betina dengan dua gamet jantan terjadi pada tumbuhan.....",
+      "pilihan": [
+        "Gymnospermae",
+        "Angiospermae",
+        "Anemokari",
+        "Zookari",
+        "Spermatozoa"
+      ]
+    },
+    {
+      "no": 16,
+      "pertanyaan": "Selain menghasilkan sel sperma, testis juga berfungsi sebagai tempat pembentukan hormon.....",
+      "pilihan": [
+        "Insulin",
+        "Estrogen",
+        "Progesteron",
+        "LH",
+        "Testosteron"
+      ]
+    },
+    {
+      "no": 17,
+      "pertanyaan": "Bagian dari sistem reproduksi wanita yang berfungsi untuk menerima sel telur dari ovarium dan merupakan tempat pertemuan antara sperma dan sel telur adalah......",
+      "pilihan": [
+        "Vagina",
+        "Serviks",
+        "Tuba Fallopii",
+        "Vulva",
+        "Uterus"
+      ]
+    },
+    {
+      "no": 18,
+      "pertanyaan": "Gangguan pada organ reproduksi wanita yang menyebabkan sel telur tidak dapat bertemu dengan sperma karena terdapat sumbatan pada saluran tuba fallopi disebut....",
+      "pilihan": [
+        "Endometriosis",
+        "Kista Ovarium",
+        "Polip Rahim",
+        "Etopik Kehamilan",
+        "Infertilitas"
+      ]
+    },
+    {
+      "no": 19,
+      "pertanyaan": "Hormon yang dibutuhkan untuk menghilangkan sifat kerdil pada tumbuhan secara genetik, yaitu....",
+      "pilihan": [
+        "Kaukalin",
+        "Auksin",
+        "Giberalin",
+        "Traumalin",
+        "Sitokinin"
+      ]
+    },
+    {
+      "no": 20,
+      "pertanyaan": "Hormon yang membantu tanaman memperbaiki kerusakan atau luka yang terjadi pada tubuhnya disebut.....",
+      "pilihan": [
+        "Kalin",
+        "Asam Traumalin",
+        "Asam Absisat",
+        "Sitokinin",
+        "Gas Etilen"
+      ]
+    },
+    {
+      "no": 21,
+      "pertanyaan": "Terbentuknya bakal batang yang muncul ke permukaan tanah, tetapi kotiledon tetap berada di dalam tanah adalah tipe perkecambahan....",
+      "pilihan": [
+        "Hipogeal",
+        "Epigeal",
+        "Jaringan Meristem",
+        "Auksanometer",
+        "Xilem"
+      ]
+    },
+    {
+      "no": 22,
+      "pertanyaan": "Reaksi penguraian senyawa-senyawa kompleks menjadi senyawa-senyawa yang lebih sederhana dan menghasilkan energi adalah….",
+      "pilihan": [
+        "Reaksi Kimia",
+        "Reaksi Endorgenik",
+        "Katabolisme",
+        "Anabolisme",
+        "Metabolisme"
+      ]
+    },
+    {
+      "no": 23,
+      "pertanyaan": "Pembelahan yang hanya membagi-bagi sitoplasma zigot yang besar menjadi banyak sel yang berukuran lebih kecil dan masing-masing berinti disebut.....",
+      "pilihan": [
+        "Morula",
+        "Morulasi",
+        "Zigot",
+        "Blastula",
+        "Blastomer"
+      ]
+    },
+    {
+      "no": 24,
+      "pertanyaan": "Kadar garam air tanah yang terlalu tinggi menyebabkan sel tumbuhan kehilangan cairan karena sel akan mengalami.......",
+      "pilihan": [
+        "Imbibisi",
+        "Hidrolisis",
+        "Gravitasi",
+        "Fluktuasi",
+        "Plasmolisis"
+      ]
+    },
+    {
+      "no": 25,
+      "pertanyaan": "Fase telur → nimfa (serangga muda yang tidak bersayap) → dewasa adalah tahap pasca embrio dari…….",
+      "pilihan": [
+        "Metagenesis",
+        "Holometabola",
+        "Metamorfosis",
+        "Regenerasi",
+        "Hemimetabola"
+      ]
+    },
+    {
+      "no": 26,
+      "pertanyaan": "Mutasi adalah peristiwa perubahan materi genetik kromosom atau DNA di dalam inti sel. Organisme yang mengalami mutasi disebut ………",
+      "pilihan": [
+        "Mutan",
+        "Mutagen",
+        "Sindrom Down",
+        "Mutatus",
+        "teratogen"
+      ]
+    },
+    {
+      "no": 27,
+      "pertanyaan": "Jika terjadi mutasi di mana urutan basa berubah menjadi ACC – GTG – CTA – A (misal penyisipan basa), ini disebut….",
+      "pilihan": [
+        "Duplikasi",
+        "Insersi",
+        "Adisi",
+        "Sel Somatik",
+        "Delesi"
+      ]
+    },
+    {
+      "no": 28,
+      "pertanyaan": "Perubahan pada seluruh materi genetik dalam satu set (genom) sehingga jumlah kromosom menjadi kelipatan dari set kromosom haploidnya adalah……",
+      "pilihan": [
+        "Monoploid",
+        "Diploid",
+        "Poliploid",
+        "Triploid",
+        "Euploid"
+      ]
+    },
+    {
+      "no": 29,
+      "pertanyaan": "Laki-laki bertubuh tinggi, testis mengecil saat masa pubertas, payudara berkembang dan tingkat kecerdasan di bawah normal adalah ciri dari sindrom……..",
+      "pilihan": [
+        "Klinefelter",
+        "Turner",
+        "Down",
+        "tautomeric",
+        "XXX"
+      ]
+    },
+    {
+      "no": 30,
+      "pertanyaan": "Penggantian suatu pasangan basa nitrogen dengan pasangan nitrogen lainnya yang tidak sejenis (misal purin diganti pirimidin) adalah...",
+      "pilihan": [
+        "Substitusi transisi",
+        "Substitusi transversi",
+        "Transposisi",
+        "Defisiensi",
+        "Translokasi"
+      ]
+    }
+  ]
+}
