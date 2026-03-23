@@ -89,3 +89,25 @@ function renderSoal() {
     });
     $("boxSoal").innerHTML = html + `<button class="btn-utama" style="background:#10b981; margin-bottom:50px;" onclick="location.reload()">KIRIM JAWABAN</button>`;
 }
+// --- FITUR KEAMANAN WEB ---
+
+// 1. Matikan Klik Kanan
+document.addEventListener('contextmenu', event => event.preventDefault());
+
+// 2. Matikan Shortcut Keyboard (F12, Ctrl+U, Ctrl+Shift+I, dll)
+document.onkeydown = function(e) {
+    if (e.ctrlKey && 
+        (e.keyCode === 67 || e.keyCode === 86 || e.keyCode === 85 || e.keyCode === 117)) {
+        return false;
+    }
+    if (e.keyCode === 123) { // F12
+        return false;
+    }
+};
+
+// 3. Deteksi jika siswa pindah Tab (Peringatan)
+document.addEventListener("visibilitychange", function() {
+    if (document.hidden) {
+        alert("PERINGATAN: Jangan meninggalkan halaman ujian atau skor Anda akan dibatalkan!");
+    }
+});
