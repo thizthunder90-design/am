@@ -1,68 +1,72 @@
-// CONFIGURATION
 const GITHUB_BASE = "./bank-soal/"; 
-const TOKEN_RESET_ADMIN = "ADMIN99"; // Token untuk buka kunci jika siswa nakal
+const TOKEN_RESET_ADMIN = "ADMIN99"; // Token Pengawas
 const DAFTAR_TOKEN = {
     "ekonomi": "EKO123",
     "matematika": "MAT123"
 };
 
-// GLOBAL VARIABLES
 let listSoal = [];
 let detikSisa = 3600; // 1 Jam
 let intervalTimer;
 let isExamStarted = false;
 
-// HELPER SELECTOR
 const $ = id => document.getElementById(id);
 
-// 1. LOGIN VALIDATION
+// 1. Fungsi Pemicu Fullscreen
+function triggerFullscreen() {
+    const elem = document.documentElement;
+    if (elem.requestFullscreen) {
+        elem.requestFullscreen();
+    } else if (elem.webkitRequestFullscreen) { // Chrome, Safari, Opera
+        elem.webkitRequestFullscreen();
+    } else if (elem.msRequestFullscreen) { // IE/Edge
+        elem.msRequestFullscreen();
+    }
+}
+
+// 2. Validasi Login
 async function validasiDanMulai() {
     const nama = $("inNama").value.trim();
     const token = $("inToken").value.trim().toUpperCase();
     const mapel = $("selectMapel").value;
 
-    if (!nama || !mapel) return alert("Lengkapi Nama dan Mapel!");
+    if (!nama || !mapel) return alert("Mohon lengkapi data!");
     if (token !== DAFTAR_TOKEN[mapel]) return alert("Token Ujian Salah!");
 
     mulaiLoadSoal(mapel);
 }
 
-// 2. LOAD DATA FROM GITHUB
+// 3. Load Soal dari GitHub
 async function mulaiLoadSoal(mapel) {
     try {
         const response = await fetch(`${GITHUB_BASE}${mapel}.json`);
-        
-        if (!response.ok) {
-            throw new Error(`File ${mapel}.json tidak ditemukan di folder bank-soal.`);
-        }
+        if (!response.ok) throw new Error("File soal tidak ditemukan.");
         
         listSoal = await response.json();
-        
-        if (!listSoal || listSoal.length === 0) {
-            throw new Error("Data soal kosong atau format salah.");
-        }
+        if (!listSoal || listSoal.length === 0) throw new Error("Data soal kosong.");
 
-        // Tampilkan Identitas di Header
+        // Aktifkan Fullscreen
+        triggerFullscreen();
+
+        // Update Header
         $("outNama").innerText = $("inNama").value.toUpperCase();
         $("outMapel").innerText = "UJIAN: " + mapel.toUpperCase();
         
-        // Render Soal ke Layar
+        // Tampilkan Soal
         renderSoalKeLayar();
         
         // Pindah Layar
         $("loginScreen").style.display = "none";
         $("examArea").style.display = "block";
         
-        // Aktifkan Fitur
         isExamStarted = true;
         startTimer();
-        
     } catch (e) {
-        alert("GAGAL MEMUAT SOAL: " + e.message);
+        alert("Gagal memuat: " + e.message);
     }
 }
 
-// 3. RENDER SOAL (Memperbaiki tampilan kosong)
+// 4. Render Soal (Solusi Layar Kosong)
 function renderSoalKeLayar() {
     let html = "";
     const huruf = ['A', 'B', 'C', 'D', 'E'];
@@ -75,26 +79,17 @@ function renderSoalKeLayar() {
                 ${s.a.map((opt, idx) => `
                     <label class="opt-item">
                         <input type="radio" name="soal${i}" value="${huruf[idx]}">
-                        <span class="alphabet">${huruf[idx]}.</span>
-                        <span class="opt-text">${opt}</span>
+                        <b style="color:#2563eb; margin: 0 10px;">${huruf[idx]}.</b> ${opt}
                     </label>
                 `).join("")}
             </div>
         </div>`;
     });
     
-    // Tombol Kirim di bawah
-    const btnSelesai = `
-        <button class="btn-utama" 
-                style="background:#10b981; margin-top:30px; margin-bottom:100px;" 
-                onclick="konfirmasiSelesai()">
-            KIRIM JAWABAN SEKARANG
-        </button>`;
-
-    $("boxSoal").innerHTML = html + btnSelesai;
+    $("boxSoal").innerHTML = html + `<button class="btn-utama" style="background:#10b981; margin-top:30px; margin-bottom:100px;" onclick="location.reload()">KIRIM JAWABAN</button>`;
 }
 
-// 4. TIMER ENGINE
+// 5. Timer Engine
 function startTimer() {
     clearInterval(intervalTimer);
     intervalTimer = setInterval(() => {
@@ -103,84 +98,40 @@ function startTimer() {
         let detik = detikSisa % 60;
 
         $("outTimer").innerText = 
-            `${String(jam).padStart(2, '0')}:${String(menit).padStart(2, '0')}:${String(detik).padStart(2, '0')}`;
+            `${String(jam).padStart(2,'0')}:${String(menit).padStart(2,'0')}:${String(detik).padStart(2,'0')}`;
 
         if (detikSisa <= 0) {
             clearInterval(intervalTimer);
-            alert("WAKTU HABIS!");
+            alert("Waktu Habis!");
             location.reload();
         }
         detikSisa--;
     }, 1000);
 }
 
-// 5. SECURITY: DETECT TAB SWITCHING
+// 6. Keamanan: Deteksi Pindah Tab
 document.addEventListener("visibilitychange", () => {
     if (document.hidden && isExamStarted) {
         $("lockScreen").style.display = "flex";
-        clearInterval(intervalTimer); // Pause timer saat terkunci
+        clearInterval(intervalTimer);
     }
 });
 
+// 7. Buka Kunci (Tetap Fullscreen)
 function bukaKunciUjian() {
-    const tokenInput = $("adminToken").value;
-    if (tokenInput === TOKEN_RESET_ADMIN) {
+    if ($("adminToken").value === TOKEN_RESET_ADMIN) {
+        triggerFullscreen(); // Paksa masuk fullscreen lagi
         $("lockScreen").style.display = "none";
         $("adminToken").value = "";
-        startTimer(); // Lanjut timer
+        startTimer();
     } else {
         alert("Token Admin Salah!");
     }
 }
 
-function konfirmasiSelesai() {
-    if(confirm("Apakah Anda yakin ingin mengakhiri ujian?")) {
-        alert("Jawaban berhasil dikirim!");
-        location.reload();
-    }
-}
-
-// Disable Right Click & Inspect
+// 8. Proteksi Tambahan
 document.addEventListener('contextmenu', e => e.preventDefault());
 document.onkeydown = e => {
-    if (e.ctrlKey && (e.keyCode === 85 || e.keyCode === 83 || e.keyCode === 73)) return false;
-    if (e.keyCode === 123) return false; // F12
+    if (e.ctrlKey && (e.keyCode === 85 || e.keyCode === 73 || e.keyCode === 83)) return false;
+    if (e.keyCode === 123) return false;
 };
-// Fungsi untuk memicu Fullscreen
-function triggerFullscreen() {
-    const elem = document.documentElement;
-    if (elem.requestFullscreen) {
-        elem.requestFullscreen();
-    } else if (elem.webkitRequestFullscreen) { /* Safari */
-        elem.webkitRequestFullscreen();
-    } else if (elem.msRequestFullscreen) { /* IE11 */
-        elem.msRequestFullscreen();
-    }
-}
-
-// Update fungsi mulaiLoadSoal Anda
-async function mulaiLoadSoal(mapel) {
-    try {
-        const response = await fetch(`${GITHUB_BASE}${mapel}.json`);
-        if (!response.ok) throw new Error("File tidak ditemukan!");
-        
-        listSoal = await response.json();
-
-        // --- TAMBAHKAN INI ---
-        triggerFullscreen(); 
-        
-        $("outNama").innerText = $("inNama").value.toUpperCase();
-        $("outMapel").innerText = "UJIAN: " + mapel.toUpperCase();
-        
-        renderSoalKeLayar();
-        
-        $("loginScreen").style.display = "none";
-        $("examArea").style.display = "block";
-        
-        isExamStarted = true;
-        startTimer();
-        
-    } catch (e) {
-        alert("Gagal: " + e.message);
-    }
-}
