@@ -1,89 +1,118 @@
 :root {
     --primary: #2563eb;
-    --bg-body: #f1f5f9;
-    --border: #e2e8f0;
+    --primary-glow: rgba(37, 99, 235, 0.2);
+    --bg-gradient: linear-gradient(135deg, #f1f5f9 0%, #e2e8f0 100%);
     --white: #ffffff;
+    --text-main: #1e293b;
+    --text-muted: #64748b;
 }
 
-body { font-family: sans-serif; background: var(--bg-body); margin: 0; }
+* { 
+    margin: 0; padding: 0; box-sizing: border-box; 
+    font-family: 'Inter', -apple-system, sans-serif;
+}
 
+body { 
+    background: var(--bg-gradient); 
+    min-height: 100vh;
+    color: var(--text-main);
+}
+
+/* Container Center */
 .container-center {
     display: flex; justify-content: center; align-items: center;
-    min-height: 100vh;
+    min-height: 100vh; padding: 20px;
 }
 
+/* Card Panel dengan Efek Glassmorphism */
 .card-panel {
-    background: var(--white); padding: 30px; border-radius: 20px;
-    width: 90%; max-width: 400px; box-shadow: 0 10px 15px rgba(0,0,0,0.1);
+    background: rgba(255, 255, 255, 0.9);
+    backdrop-filter: blur(10px);
+    padding: 40px 30px;
+    border-radius: 28px;
+    width: 100%;
+    max-width: 420px;
+    box-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.1), 0 10px 10px -5px rgba(0, 0, 0, 0.04);
+    border: 1px solid rgba(255, 255, 255, 0.5);
+    text-align: center;
 }
 
-.input-group { margin-bottom: 15px; text-align: left; }
+.card-panel h1 {
+    font-size: 2rem;
+    font-weight: 800;
+    background: linear-gradient(to right, #2563eb, #7c3aed);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    margin-bottom: 8px;
+}
+
+.card-panel p {
+    color: var(--text-muted);
+    font-size: 0.9rem;
+    margin-bottom: 30px;
+}
+
+/* Input Styling */
+.input-group {
+    text-align: left;
+    margin-bottom: 20px;
+}
+
+.input-group label {
+    display: block;
+    font-size: 0.75rem;
+    font-weight: 700;
+    color: var(--primary);
+    margin-bottom: 8px;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+}
 
 input, .custom-select {
-    width: 100%; padding: 12px; border-radius: 8px;
-    border: 1px solid var(--border); box-sizing: border-box;
-}
-
-.btn-utama {
-    width: 100%; padding: 15px; background: var(--primary);
-    color: white; border: none; border-radius: 10px;
-    font-weight: bold; cursor: pointer;
-}
-
-header {
-    background: white; padding: 15px; border-bottom: 1px solid var(--border);
-    display: flex; justify-content: space-between; position: sticky; top: 0;
-}
-
-.q-card { background: white; margin: 20px; padding: 20px; border-radius: 15px; }
-.opt-item { display: block; padding: 10px; border: 1px solid var(--border); margin-top: 5px; border-radius: 8px; }
-/* Container daftar opsi */
-.opt-list {
-    display: flex;
-    flex-direction: column;
-    gap: 10px;
-}
-
-/* Kotak label untuk tiap opsi */
-.opt-item {
-    display: flex;
-    align-items: center; /* Menyejajarkan bulatan, huruf, dan teks di tengah secara vertikal */
-    padding: 15px;
-    background: #f8fafc;
+    width: 100%;
+    padding: 14px 18px;
+    border-radius: 14px;
     border: 2px solid #e2e8f0;
-    border-radius: 12px;
-    cursor: pointer;
-    transition: 0.2s;
-}
-
-.opt-item:hover {
-    background: #f1f5f9;
-}
-
-/* Sembunyikan bulatan radio asli jika ingin tampilan lebih modern, 
-   atau biarkan jika ingin standar. Di sini kita beri jarak: */
-.opt-item input[type="radio"] {
-    margin-right: 15px;
-    width: 18px;
-    height: 18px;
-}
-
-/* Styling Huruf A, B, C, D, E */
-.alphabet {
-    font-weight: 800;
-    color: var(--primary);
-    margin-right: 10px;
-    min-width: 25px; /* Agar huruf sejajar vertikal */
-}
-
-.opt-text {
     font-size: 1rem;
-    color: var(--text-main);
-    line-height: 1.4;
+    transition: all 0.3s ease;
+    background: #f8fafc;
+    outline: none;
 }
 
-/* Efek warna saat opsi diklik (opsional, tambahkan lewat JS jika mau lebih mantap) */
-.opt-item:has(input:checked) {
-    background: #eff6ff;
+input:focus, .custom-select:focus {
     border-color: var(--primary);
+    background: #ffffff;
+    box-shadow: 0 0 0 4px var(--primary-glow);
+}
+
+/* Tombol Mulai yang Mewah */
+.btn-utama {
+    width: 100%;
+    padding: 18px;
+    background: linear-gradient(to right, #2563eb, #1d4ed8);
+    color: white;
+    border: none;
+    border-radius: 16px;
+    font-weight: 800;
+    font-size: 1.1rem;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    box-shadow: 0 10px 15px -3px rgba(37, 99, 235, 0.3);
+    margin-top: 10px;
+}
+
+.btn-utama:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 20px 25px -5px rgba(37, 99, 235, 0.4);
+}
+
+.btn-utama:active {
+    transform: translateY(0);
+}
+
+/* Responsif Mobile */
+@media (max-width: 480px) {
+    .card-panel {
+        padding: 30px 20px;
+    }
 }
