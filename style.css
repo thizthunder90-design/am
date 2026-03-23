@@ -37,3 +37,53 @@ header {
 
 .q-card { background: white; margin: 20px; padding: 20px; border-radius: 15px; }
 .opt-item { display: block; padding: 10px; border: 1px solid var(--border); margin-top: 5px; border-radius: 8px; }
+/* Container daftar opsi */
+.opt-list {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+/* Kotak label untuk tiap opsi */
+.opt-item {
+    display: flex;
+    align-items: center; /* Menyejajarkan bulatan, huruf, dan teks di tengah secara vertikal */
+    padding: 15px;
+    background: #f8fafc;
+    border: 2px solid #e2e8f0;
+    border-radius: 12px;
+    cursor: pointer;
+    transition: 0.2s;
+}
+
+.opt-item:hover {
+    background: #f1f5f9;
+}
+
+/* Sembunyikan bulatan radio asli jika ingin tampilan lebih modern, 
+   atau biarkan jika ingin standar. Di sini kita beri jarak: */
+.opt-item input[type="radio"] {
+    margin-right: 15px;
+    width: 18px;
+    height: 18px;
+}
+
+/* Styling Huruf A, B, C, D, E */
+.alphabet {
+    font-weight: 800;
+    color: var(--primary);
+    margin-right: 10px;
+    min-width: 25px; /* Agar huruf sejajar vertikal */
+}
+
+.opt-text {
+    font-size: 1rem;
+    color: var(--text-main);
+    line-height: 1.4;
+}
+
+/* Efek warna saat opsi diklik (opsional, tambahkan lewat JS jika mau lebih mantap) */
+.opt-item:has(input:checked) {
+    background: #eff6ff;
+    border-color: var(--primary);
+}
