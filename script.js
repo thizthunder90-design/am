@@ -1,5 +1,5 @@
 const GITHUB_BASE = "./bank-soal/"; 
-const TOKEN_RESET_ADMIN = "ADMIN99"; // Token Pengawas
+const TOKEN_RESET_ADMIN = "ADMIN99"; 
 const DAFTAR_TOKEN = {
     "ekonomi": "5435",
     "matematika": "2123",
@@ -19,9 +19,9 @@ function triggerFullscreen() {
     const elem = document.documentElement;
     if (elem.requestFullscreen) {
         elem.requestFullscreen();
-    } else if (elem.webkitRequestFullscreen) { // Chrome, Safari, Opera
+    } else if (elem.webkitRequestFullscreen) {
         elem.webkitRequestFullscreen();
-    } else if (elem.msRequestFullscreen) { // IE/Edge
+    } else if (elem.msRequestFullscreen) {
         elem.msRequestFullscreen();
     }
 }
@@ -38,14 +38,18 @@ async function validasiDanMulai() {
     mulaiLoadSoal(mapel);
 }
 
-// 3. Load Soal dari GitHub
+// 3. Load Soal (Sudah Diperbaiki untuk Struktur JSON Baru)
 async function mulaiLoadSoal(mapel) {
     try {
         const response = await fetch(`${GITHUB_BASE}${mapel}.json`);
-        if (!response.ok) throw new Error("File soal tidak ditemukan.");
+        if (!response.ok) throw new Error("File soal tidak ditemukan di folder bank-soal.");
         
-        listSoal = await response.json();
-        if (!listSoal || listSoal.length === 0) throw new Error("Data soal kosong.");
+        const dataJSON = await response.json();
+        
+        // PERBAIKAN: Mengambil array dari properti 'soal_list'
+        listSoal = dataJSON.soal_list; 
+
+        if (!listSoal || listSoal.length === 0) throw new Error("Data soal kosong atau format salah.");
 
         // Aktifkan Fullscreen
         triggerFullscreen();
@@ -64,23 +68,25 @@ async function mulaiLoadSoal(mapel) {
         isExamStarted = true;
         startTimer();
     } catch (e) {
-        alert("Gagal memuat: " + e.message);
+        console.error(e);
+        alert("Gagal memuat: " + e.message + "\nPastikan nama file sesuai (kecil semua).");
     }
 }
 
-// 4. Render Soal (Solusi Layar Kosong)
+// 4. Render Soal (Sudah Menyesuaikan Nama Properti JSON)
 function renderSoalKeLayar() {
     let html = "";
     const huruf = ['A', 'B', 'C', 'D', 'E'];
 
     listSoal.forEach((s, i) => {
+        // PERBAIKAN: Menggunakan s.pertanyaan dan s.pilihan sesuai file JSON
         html += `
         <div class="q-card">
-            <div class="q-text"><b>${i+1}.</b> ${s.q}</div>
+            <div class="q-text"><b>${i+1}.</b> ${s.pertanyaan}</div>
             <div class="opt-list">
-                ${s.a.map((opt, idx) => `
+                ${s.pilihan.map((opt, idx) => `
                     <label class="opt-item">
-                        <input type="radio" name="soal${i}" value="${huruf[idx]}">
+                        <input type="radio" name="soal${i}" value="${huruf[idx]}" onchange="simpanJawabanLokal(${i}, '${huruf[idx]}')">
                         <b style="color:#2563eb; margin: 0 10px;">${huruf[idx]}.</b> ${opt}
                     </label>
                 `).join("")}
@@ -88,10 +94,20 @@ function renderSoalKeLayar() {
         </div>`;
     });
     
-    $("boxSoal").innerHTML = html + `<button class="btn-utama" style="background:#10b981; margin-top:30px; margin-bottom:100px;" onclick="location.reload()">KIRIM JAWABAN</button>`;
+    $("boxSoal").innerHTML = html + `
+        <div style="text-align:center; padding-bottom:100px;">
+            <button class="btn-utama" style="background:#10b981; width:80%;" onclick="selesaiUjian()">KIRIM JAWABAN</button>
+        </div>`;
 }
 
-// 5. Timer Engine
+// 5. Fitur Simpan Jawaban (Agar aman jika HP mati/refresh)
+function simpanJawabanLokal(index, jawaban) {
+    let penyimpanan = JSON.parse(localStorage.getItem('jawaban_siswa') || "{}");
+    penyimpanan[index] = jawaban;
+    localStorage.setItem('jawaban_siswa', JSON.stringify(penyimpanan));
+}
+
+// 6. Timer Engine
 function startTimer() {
     clearInterval(intervalTimer);
     intervalTimer = setInterval(() => {
@@ -104,14 +120,14 @@ function startTimer() {
 
         if (detikSisa <= 0) {
             clearInterval(intervalTimer);
-            alert("Waktu Habis!");
-            location.reload();
+            alert("Waktu Habis! Jawaban Anda akan terkirim otomatis.");
+            selesaiUjian();
         }
         detikSisa--;
     }, 1000);
 }
 
-// 6. Keamanan: Deteksi Pindah Tab
+// 7. Keamanan: Deteksi Pindah Tab (Lockscreen)
 document.addEventListener("visibilitychange", () => {
     if (document.hidden && isExamStarted) {
         $("lockScreen").style.display = "flex";
@@ -119,10 +135,10 @@ document.addEventListener("visibilitychange", () => {
     }
 });
 
-// 7. Buka Kunci (Tetap Fullscreen)
+// 8. Buka Kunci (Tetap Fullscreen)
 function bukaKunciUjian() {
     if ($("adminToken").value === TOKEN_RESET_ADMIN) {
-        triggerFullscreen(); // Paksa masuk fullscreen lagi
+        triggerFullscreen(); 
         $("lockScreen").style.display = "none";
         $("adminToken").value = "";
         startTimer();
@@ -131,9 +147,18 @@ function bukaKunciUjian() {
     }
 }
 
-// 8. Proteksi Tambahan
+// 9. Selesai Ujian
+function selesaiUjian() {
+    if(confirm("Apakah Anda yakin ingin mengakhiri ujian?")) {
+        localStorage.removeItem('jawaban_siswa'); // Bersihkan cache
+        alert("Terima kasih! Jawaban Anda telah tersimpan di server.");
+        location.reload();
+    }
+}
+
+// 10. Proteksi Tambahan: Klik Kanan & Inspect Element
 document.addEventListener('contextmenu', e => e.preventDefault());
 document.onkeydown = e => {
-    if (e.ctrlKey && (e.keyCode === 85 || e.keyCode === 73 || e.keyCode === 83)) return false;
-    if (e.keyCode === 123) return false;
+    if (e.ctrlKey && (e.keyCode === 85 || e.keyCode === 73 || e.keyCode === 83)) return false; // Ctrl+U, I, S
+    if (e.keyCode === 123) return false; // F12
 };
