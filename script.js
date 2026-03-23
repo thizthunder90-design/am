@@ -146,3 +146,41 @@ document.onkeydown = e => {
     if (e.ctrlKey && (e.keyCode === 85 || e.keyCode === 83 || e.keyCode === 73)) return false;
     if (e.keyCode === 123) return false; // F12
 };
+// Fungsi untuk memicu Fullscreen
+function triggerFullscreen() {
+    const elem = document.documentElement;
+    if (elem.requestFullscreen) {
+        elem.requestFullscreen();
+    } else if (elem.webkitRequestFullscreen) { /* Safari */
+        elem.webkitRequestFullscreen();
+    } else if (elem.msRequestFullscreen) { /* IE11 */
+        elem.msRequestFullscreen();
+    }
+}
+
+// Update fungsi mulaiLoadSoal Anda
+async function mulaiLoadSoal(mapel) {
+    try {
+        const response = await fetch(`${GITHUB_BASE}${mapel}.json`);
+        if (!response.ok) throw new Error("File tidak ditemukan!");
+        
+        listSoal = await response.json();
+
+        // --- TAMBAHKAN INI ---
+        triggerFullscreen(); 
+        
+        $("outNama").innerText = $("inNama").value.toUpperCase();
+        $("outMapel").innerText = "UJIAN: " + mapel.toUpperCase();
+        
+        renderSoalKeLayar();
+        
+        $("loginScreen").style.display = "none";
+        $("examArea").style.display = "block";
+        
+        isExamStarted = true;
+        startTimer();
+        
+    } catch (e) {
+        alert("Gagal: " + e.message);
+    }
+}
