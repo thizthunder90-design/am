@@ -1,182 +1,231 @@
-[
-  {
-    "q": "Segala sesuatu yang dapat diterima secara umum sebagai alat tukar dan alat pembayaran yang sah disebut......",
-    "a": ["Barter", "Emas", "Uang", "Cek", "Saham"]
-  },
-  {
-    "q": "Sebelum adanya uang, manusia melakukan tukar-menukar barang yang disebut dengan......",
-    "a": ["Jual beli", "Barter", "Transaksi", "Sewa", "Pinjaman"]
-  },
-  {
-    "q": "Uang logam dan uang kertas yang digunakan sehari-hari disebut uang......",
-    "a": ["Giral", "Kartal", "Kuasi", "Barang", "Riil"]
-  },
-  {
-    "q": "Nilai yang tertulis pada mata uang disebut nilai......",
-    "a": ["Intrinsik", "Riil", "Nominal", "Eksternal", "Internal"]
-  },
-  {
-    "q": "Berikut ini yang termasuk fungsi turunan uang adalah......",
-    "a": ["Alat tukar", "Alat satuan hitung", "Alat penimbun kekayaan", "Alat bahan baku", "Alat transaksi"]
-  },
-  {
-    "q": "Uang yang dikeluarkan oleh bank umum berupa surat-surat berharga disebut......",
-    "a": ["Uang kartal", "Uang logam", "Uang giral", "Uang logam emas", "Tabungan"]
-  },
-  {
-    "q": "Lembaga yang berwenang mencetak dan mengedarkan uang kartal di Indonesia adalah......",
-    "a": ["Bank Indonesia", "Bank Umum", "Bappenas", "Menteri Keuangan", "Badan Pemeriksa keuangan"]
-  },
-  {
-    "q": "Tujuan utama adanya perhitungan pertumbuhan ekonomi adalah ….",
-    "a": ["Meningkatkan inflasi", "Melihat kemajuan kondisi perekonomian", "Memakmurkan negara", "Meningkatkan kesejahteraan rakyat", "Mengurangi pengangguran"]
-  },
-  {
-    "q": "Menurut Teori klasik yang dikemukakan oleh Adam Smith dan David Ricardo pertumbuhan ekonomi didasarkan pada faktor......",
-    "a": ["Pertumbuhan penduduknya", "Teknologi", "Barang dan jasa", "Kegiatan ekonomi", "Modal"]
-  },
-  {
-    "q": "Proses perubahan kondisi perekonomian di suatu negara menuju kearah yang lebih baik dalam waktu tertentu pengertian dari......",
-    "a": ["Pertumbuhan ekonomi", "Pembangunan ekonomi", "Laju pertumbuhan ekonomi", "Sistem ekonomi", "Teori ekonomi"]
-  },
-  {
-    "q": "Teori yang dikenal sebagai model pertumbuhan ekonomi Solow-Swan sebab munculnya diperkenankan Adam Smith adalah......",
-    "a": ["Teori neoklasik", "Teori klasik", "Teori historis", "Teori multidimensi", "Teori multikultural"]
-  },
-  {
-    "q": "Teori klasik mulai berkembang pada abad ke......",
-    "a": ["17", "18", "19", "20", "21"]
-  },
-  {
-    "q": "Diketahui PDB negara tetangga sebagai berikut: 2016: Rp. 300 T, 2017: Rp. 325 T, 2018: Rp. 340 T. Berapa laju pertumbuhan ekonomi pada tahun 2017......",
-    "a": ["7,9 %", "2,6 %", "3,7 %", "6 %", "8,3 %"]
-  },
-  {
-    "q": "Laju pertumbuhan ekonomi diukur dalam persentase dengan membandingkan produk domestik bruto (PDB) pada......",
-    "a": ["Periode tertentu dengan periode sebelumnya", "Periode pada tahun lalu dengan periode pada tahun depan", "Periode selama triwulan dengan periode selama setengah tahun", "Periode di tahun yang sama", "Periode lima tahun sekali"]
-  },
-  {
-    "q": "Laju pertumbuhan ekonomi merujuk pada kecepatan di mana produk domestik bruto (PDB) atau produk nasional bruto (PNB) suatu negara ...... Dari tahun ke tahun.",
-    "a": ["Stabil", "Menurun", "Meningkat", "Konstan", "Tetap"]
-  },
-  {
-    "q": "Tiga masalah utama pembangunan ekonomi di Negara berkembang, yaitu......",
-    "a": ["Kemiskinan, kebodohan, dan keterbelakangan", "Pengangguran, kemiskinan, dan ketimpangan pangan distribusi pendapatan", "Kemiskinan, kebodohan, dan pengangguran", "Kemiskinan, ketimpangan pendapatan, dan kerusakan lingkungan", "Kemiskinan, rendahnya produktivitas, dan kebodohan"]
-  },
-  {
-    "q": "PDB Negara X: 2007: Rp. 200 T, 2008: Rp. 212 T. Berapa pertumbuhan ekonomi pada tahun 2008.....",
-    "a": ["7,9 %", "2,6 %", "3,7 %", "6 %", "8,3 %"]
-  },
-  {
-    "q": "PDB Negara X: 2008: Rp. 212 T, 2009: Rp. 220 T. Berapa pertumbuhan ekonomi pada tahun 2009......",
-    "a": ["7,9 %", "2,6 %", "3,7 %", "6 %", "8,3 %"]
-  },
-  {
-    "q": "Pertumbuhan ekonomi suatu negara berdasarkan......",
-    "a": ["Tingkat pembangunannya", "Produk domestik bruto (PDB)", "Sistem ekonomi yang diterapkan", "Keadaan tenaga kerjanya", "Sistem upah tenaga kerjanya"]
-  },
-  {
-    "q": "Tujuan pembangunan ekonomi dalam jangka panjang yaitu......",
-    "a": ["Terselenggaranya kehidupan bangsa yang merata", "Terwujudnya sistem perekonomian yang adil dan merata", "Adanya keadilan sosial bagi masyarakat", "Menciptakan lapangan pekerjaan", "Mewujudkan masyarakat yang adil dan makmur"]
-  },
-  {
-    "q": "Salah satu faktor utama yang mempengaruhi pertumbuhan ekonomi suatu negara adalah, kecuali .....",
-    "a": ["Sumber daya manusia", "Sumber daya alam", "Kebijakan pemerintah", "Teknologi", "Modal"]
-  },
-  {
-    "q": "Komponen perhitungan pendapatan nasional jika menggunakan pendekatan pendapatan, yaitu......",
-    "a": ["Rumah tangga, perusahaan, dan konsumen", "Produksi, konsumsi, dan distribusi", "Upah, sewa, dan laba", "Pertambangan, pertanian, dan peternakan", "Kota, kabupaten, dan provinsi"]
-  },
-  {
-    "q": "Data PDB: 2021: 8.300.000 T, 2022: 8.520.000 T. Berapa pertumbuhan ekonomi pada tahun 2022.....",
-    "a": ["7,9 %", "2,6 %", "3,7 %", "6 %", "8,3 %"]
-  },
-  {
-    "q": "Data PDB: 2022: 8.520.000 T, 2023: 9.200.000 T. Berapa pertumbuhan ekonomi pada tahun 2023......",
-    "a": ["7,9 %", "2,6 %", "3,7 %", "6 %", "8,3 %"]
-  },
-  {
-    "q": "Menurut Robert Solow pertumbuhan ekonomi dipengaruhi oleh tiga faktor, yaitu......",
-    "a": ["Modal, pertumbuhan penduduk, dan kegiatan ekonomi", "Masa berburu, berternak, dan bertani", "Masa rumah tangga tertutup, kota, dan dunia", "Zaman ekonomi tertutup, industri, dan kapitalis", "Modal, tenaga kerja, dan teknologi"]
-  },
-  {
-    "q": "Menurut Adam Smith pada teori klasik pertumbuhan ekonomi dipengaruhi oleh faktor, yaitu......",
-    "a": ["Penduduk bertambah, output juga bertambah", "Penduduk besar, tenaga kerja banyak tapi upah turun", "Kegiatan ekonomi meningkatkan", "Adanya teknologi mempermudah kinerja", "Adanya ekspor impor"]
-  },
-  {
-    "q": "Di bawah ini yang termasuk tahap pertumbuhan ekonomi menurut Werner Sombart adalah zaman......",
-    "a": ["Berburu dan meramu", "Bertani", "Industri", "Niaga", "Pedesaan"]
-  },
-  {
-    "q": "Jika PDB negara Z 2016: 280 T dan 2017: 300 T, maka laju pertumbuhan ekonomi adalah…",
-    "a": ["Sekitar 6,9%", "Sekitar 7.1%", "Sekitar 8%", "Sekitar 10%", "Sekitar 12%"]
-  },
-  {
-    "q": "PDB negara X 2022: 230 T, 2023: 250 T. Berdasarkan data tersebut pertumbuhan ekonomi adalah .....",
-    "a": ["6,48%", "6,89%", "8,48%", "8,69%", "9,69%"]
-  },
-  {
-    "q": "Kenaikan PDB tanpa memperhatikan apakah kenaikan itu lebih besar atau lebih kecil dari pertumbuhan penduduk adalah ....",
-    "a": ["perkembangan ekonomi", "pertumbuhan ekonomi", "pembangunan ekonomi", "pendapatan ekonomi", "pendapatan nasional"]
-  },
-  {
-    "q": "Diketahui PDB negara Kasih 2019: 100 T, 2020: 110 T. Berapakah pertumbuhan ekonomi pada negara Kasih......",
-    "a": ["10 %", "12 %", "9,9 %", "7,6 %", "15 %"]
-  },
-  {
-    "q": "Faktor yang mempengaruhi pertumbuhan ekonomi, kecuali....",
-    "a": ["Sumber daya manusia", "Sumber daya alam", "Akumulasi modal", "Data statistik", "Teknologi"]
-  },
-  {
-    "q": "Memberikan program pelatihan kepada sumber daya manusia akan membantu meningkatkan......",
-    "a": ["Pengetahuan", "Rasa ingin tahu", "Keterampilan", "Kreatifitas", "Pendapatan"]
-  },
-  {
-    "q": "Menurut J.M. Keynes, terdapat tiga motif utama masyarakat memegang uang tunai, yaitu......",
-    "a": ["Motif konsumsi, produksi, dan distribusi", "Motif transaksi, berjaga-jaga, dan spekulasi", "Motif mencari laba, investasi, dan menabung", "Motif bertransaksi, investasi, dan sosial", "Motif berjaga-jaga, spekulasi, dan konsumsi"]
-  },
-  {
-    "q": "Semakin tinggi tingkat suku bunga, maka permintaan uang untuk motif spekulasi akan......",
-    "a": ["Semakin meningkat karena keuntungan besar", "Semakin menurun karena masyarakat lebih memilih berinvestasi di bank", "Tetap tidak berpengaruh", "Meningkat seiring inflasi", "Menurun karena konsumsi berkurang"]
-  },
-  {
-    "q": "Pak Budi selalu menyisihkan sebagian pendapatannya untuk dana darurat kesehatan. Dalam teori Keynes termasuk motif......",
-    "a": ["Transaksi", "Spekulasi", "Berjaga-jaga", "Investasi", "Pendapatan"]
-  },
-  {
-    "q": "Kegiatan utama dari perusahaan dagang adalah......",
-    "a": ["Membeli bahan baku menjadi produk jadi", "Memberikan layanan jasa kepada masyarakat", "Membeli barang dagang dan menjual kembali tanpa mengubah bentuk", "Memproduksi barang dan menjual langsung ke konsumen", "Menjual barang setengah jadi"]
-  },
-  {
-    "q": "Akun yang hanya terdapat pada perusahaan dagang dan tidak dijumpai pada perusahaan jasa adalah......",
-    "a": ["Beban gaji", "Pendapatan jasa", "Kas", "Harga Pokok Penjualan (HPP)", "Perlengkapan"]
-  },
-  {
-    "q": "Dibawah ini contoh dari perusahaan dagang adalah......",
-    "a": ["Toko buku, kafetaria", "Rumah makan, toko bangunan", "Pedagang rokok, penjahit pakaian", "Pasar swalayan bioskop", "Toko sepatu, toko buku"]
-  },
-  {
-    "q": "Berikut ini yang termasuk ke dalam jenis perusahaan dagang adalah ......",
-    "a": ["Salon", "Warung sembako", "Bengkel", "Bioskop", "Laundry"]
-  },
-  {
-    "q": "Berikut ini yang termasuk ke dalam ciri-ciri perusahaan dagang adalah…...",
-    "a": ["Membeli Barang Dagang untuk dijual kembali tanpa merubah bentuk", "Memproduksi sendiri barang yang akan dijual", "Barang yang dibeli merupakan bahan baku", "Produk berupa keahlian/skill", "Tidak terdapat akun Retur Penjualan"]
-  },
-  {
-    "q": "Pada perusahaan dagang ada Syarat pembayaran 2/10, n/30 artinya......",
-    "a": ["Potongan 10% jika bayar dalam 2 hari", "Potongan 2% jika bayar dalam 10 hari, jatuh tempo 30 hari", "Potongan 30% jika bayar dalam 2 hari", "Bunga 2% selama 10 hari", "Pembayaran paling lambat 30 hari"]
-  },
-  {
-    "q": "Saat melakukan pembelian barang dagang, beberapa hal yang harus diperhatikan adalah......",
-    "a": ["Harga faktur, syarat pembayaran, dan syarat penyerahan barang", "Harga faktur dan jenis barang", "Syarat pembayaran, HPP, dan syarat pembayaran", "Harga faktur, ongkos angkut, dan HPP", "Ongkos angkut, persediaan, dan harga faktur"]
-  },
-  {
-    "q": "Ciri perusahaan dagang: 1) Cari untung, 2) Barang abstrak, 3) Bentuk barang sama, 4) Pendapatan jasa, 5) Tidak ada produksi. Manakah yang benar?",
-    "a": ["1, 2, dan 3", "2, 3, dan 4", "1, 3, dan 5", "3, 4, dan 5", "1, 4, dan 5"]
-  },
-  {
-    "q": "Perusahaan dagang yang menjual barang kepada perusahaan lain dalam jumlah besar disebut......",
-    "a": ["Retailer (Pengecer)", "Distributor", "Grosir", "Agen", "Toko kelontong"]
-  }
-]
+{
+  "judul": "Ujian Ekonomi & Akuntansi 2026",
+  "total_soal": 45,
+  "soal_list": [
+    {
+      "no": 1,
+      "pertanyaan": "Segala sesuatu yang dapat diterima secara umum sebagai alat tukar dan alat pembayaran yang sah disebut......",
+      "pilihan": ["Barter", "Emas", "Uang", "Cek", "Saham"]
+    },
+    {
+      "no": 2,
+      "pertanyaan": "Sebelum adanya uang, manusia melakukan tukar-menukar barang yang disebut dengan......",
+      "pilihan": ["Jual beli", "Barter", "Transaksi", "Sewa", "Pinjaman"]
+    },
+    {
+      "no": 3,
+      "pertanyaan": "Uang logam dan uang kertas yang digunakan sehari-hari disebut uang......",
+      "pilihan": ["Giral", "Kartal", "Kuasi", "Barang", "Riil"]
+    },
+    {
+      "no": 4,
+      "pertanyaan": "Nilai yang tertulis pada mata uang disebut nilai......",
+      "pilihan": ["Intrinsik", "Riil", "Nominal", "Eksternal", "Internal"]
+    },
+    {
+      "no": 5,
+      "pertanyaan": "Berikut ini yang termasuk fungsi turunan uang adalah......",
+      "pilihan": ["Alat tukar", "Alat satuan hitung", "Alat penimbun kekayaan", "Alat bahan baku", "Alat transaksi"]
+    },
+    {
+      "no": 6,
+      "pertanyaan": "Uang yang dikeluarkan oleh bank umum berupa surat-surat berharga disebut......",
+      "pilihan": ["Uang kartal", "Uang logam", "Uang giral", "Uang logam emas", "Tabungan"]
+    },
+    {
+      "no": 7,
+      "pertanyaan": "Lembaga yang berwenang mencetak dan mengedarkan uang kartal di Indonesia adalah......",
+      "pilihan": ["Bank Indonesia", "Bank Umum", "Bappenas", "Menteri Keuangan", "Badan Pemeriksa keuangan"]
+    },
+    {
+      "no": 8,
+      "pertanyaan": "Tujuan utama adanya perhitungan pertumbuhan ekonomi adalah ….",
+      "pilihan": ["Meningkatkan inflasi", "Melihat kemajuan kondisi perekonomian", "Memakmurkan negara", "Meningkatkan kesejahteraan rakyat", "Mengurangi pengangguran"]
+    },
+    {
+      "no": 9,
+      "pertanyaan": "Menurut Teori klasik yang dikemukakan oleh Adam Smith dan David Ricardo pertumbuhan ekonomi didasarkan pada faktor......",
+      "pilihan": ["Pertumbuhan penduduknya", "Teknologi", "Barang dan jasa", "Kegiatan ekonomi", "Modal"]
+    },
+    {
+      "no": 10,
+      "pertanyaan": "Proses perubahan kondisi perekonomian di suatu negara menuju kearah yang lebih baik dalam waktu tertentu pengertian dari......",
+      "pilihan": ["Pertumbuhan ekonomi", "Pembangunan ekonomi", "Laju pertumbuhan ekonomi", "Sistem ekonomi", "Teori ekonomi"]
+    },
+    {
+      "no": 11,
+      "pertanyaan": "Teori yang dikenal sebagai model pertumbuhan ekonomi Solow-Swan sebab munculnya diperkenankan Adam Smith adalah......",
+      "pilihan": ["Teori neoklasik", "Teori klasik", "Teori historis", "Teori multidimensi", "Teori multikultural"]
+    },
+    {
+      "no": 12,
+      "pertanyaan": "Teori klasik mulai berkembang pada abad ke......",
+      "pilihan": ["17", "18", "19", "20", "21"]
+    },
+    {
+      "no": 13,
+      "pertanyaan": "Diketahui PDB tahun 2016: Rp 300 T dan tahun 2017: Rp 325 T. Berapa laju pertumbuhan ekonomi pada tahun 2017......",
+      "pilihan": ["7,9 %", "2,6 %", "3,7 %", "6 %", "8,3 %"]
+    },
+    {
+      "no": 14,
+      "pertanyaan": "Laju pertumbuhan ekonomi diukur dalam persentase dengan membandingkan produk domestik bruto (PDB) pada......",
+      "pilihan": ["Periode tertentu dengan periode sebelumnya", "Periode pada tahun lalu dengan periode pada tahun depan", "Periode selama triwulan dengan periode selama setengah tahun", "Periode di tahun yang sama", "Periode lima tahun sekali"]
+    },
+    {
+      "no": 15,
+      "pertanyaan": "Laju pertumbuhan ekonomi merujuk pada kecepatan di mana PDB atau PNB suatu negara ...... Dari tahun ke tahun.",
+      "pilihan": ["Stabil", "Menurun", "Meningkat", "Konstan", "Tetap"]
+    },
+    {
+      "no": 16,
+      "pertanyaan": "Tiga masalah utama pembangunan ekonomi di Negara berkembang, yaitu......",
+      "pilihan": ["Kemiskinan, kebodohan, dan keterbelakangan", "Pengangguran, kemiskinan, dan ketimpangan distribusi pendapatan", "Kemiskinan, kebodohan, dan pengangguran", "Kemiskinan, ketimpangan pendapatan, dan kerusakan lingkungan", "Kemiskinan, rendahnya produktivitas, dan kebodohan"]
+    },
+    {
+      "no": 17,
+      "pertanyaan": "(Data Soal 17 & 18) PDB 2007: 200T, 2008: 212T, 2009: 220T. Berapa pertumbuhan ekonomi pada tahun 2008.....",
+      "pilihan": ["7,9 %", "2,6 %", "3,7 %", "6 %", "8,3 %"]
+    },
+    {
+      "no": 18,
+      "pertanyaan": "Berdasarkan data di atas, berapa pertumbuhan ekonomi pada tahun 2009......",
+      "pilihan": ["7,9 %", "2,6 %", "3,7 %", "6 %", "8,3 %"]
+    },
+    {
+      "no": 19,
+      "pertanyaan": "Pertumbuhan ekonomi suatu negara diukur berdasarkan......",
+      "pilihan": ["Tingkat pembangunannya", "Produk domestik bruto (PDB)", "Sistem ekonomi yang diterapkan", "Keadaan tenaga kerjanya", "Sistem upah tenaga kerjanya"]
+    },
+    {
+      "no": 20,
+      "pertanyaan": "Tujuan pembangunan ekonomi dalam jangka panjang yaitu......",
+      "pilihan": ["Terselenggaranya kehidupan bangsa yang merata", "Terwujudnya sistem perekonomian yang adil dan merata", "Adanya keadilan sosial bagi masyarakat", "Menciptakan lapangan pekerjaan", "Mewujudkan masyarakat yang adil dan makmur"]
+    },
+    {
+      "no": 21,
+      "pertanyaan": "Salah satu faktor utama yang mempengaruhi pertumbuhan ekonomi suatu negara adalah, kecuali .....",
+      "pilihan": ["Sumber daya manusia", "Sumber daya alam", "Kebijakan pemerintah", "Teknologi", "Modal"]
+    },
+    {
+      "no": 22,
+      "pertanyaan": "Komponen perhitungan pendapatan nasional jika menggunakan pendekatan pendapatan, yaitu......",
+      "pilihan": ["Rumah tangga, perusahaan, dan konsumen", "Produksi, konsumsi, dan distribusi", "Upah, sewa, dan laba", "Pertambangan, pertanian, dan peternakan", "Kota, kabupaten, dan provinsi"]
+    },
+    {
+      "no": 23,
+      "pertanyaan": "(Data Soal 23 & 24) PDB 2021: 8.300.000T, 2022: 8.520.000T, 2023: 9.200.000T. Berapa pertumbuhan ekonomi tahun 2022.....",
+      "pilihan": ["7,9 %", "2,6 %", "3,7 %", "6 %", "8,3 %"]
+    },
+    {
+      "no": 24,
+      "pertanyaan": "Berdasarkan data di atas, berapa pertumbuhan ekonomi pada tahun 2023......",
+      "pilihan": ["7,9 %", "2,6 %", "3,7 %", "6 %", "8,3 %"]
+    },
+    {
+      "no": 25,
+      "pertanyaan": "Menurut Robert Solow pertumbuhan ekonomi dipengaruhi oleh tiga faktor, yaitu......",
+      "pilihan": ["Modal, pertumbuhan penduduk, dan kegiatan ekonomi", "Masa berburu, berternak, dan bertani", "Rumah tangga tertutup, kota, dan dunia", "Perekonomian tertutup, industri, dan kapitalis", "Modal, tenaga kerja, dan teknologi"]
+    },
+    {
+      "no": 26,
+      "pertanyaan": "Menurut Adam Smith pada teori klasik pertumbuhan ekonomi dipengaruhi oleh faktor, yaitu......",
+      "pilihan": ["Penduduk bertambah, output juga bertambah", "Penduduk besar, upah menurun", "Kegiatan ekonomi meningkat", "Teknologi mempermudah kinerja", "Adanya ekspor impor"]
+    },
+    {
+      "no": 27,
+      "pertanyaan": "Di bawah ini yang termasuk tahap pertumbuhan ekonomi menurut Werner Sombart adalah zaman......",
+      "pilihan": ["Berburu dan meramu", "Bertani", "Industri", "Niaga", "Pedesaan"]
+    },
+    {
+      "no": 28,
+      "pertanyaan": "Jika PDB 2016: 280T dan 2017: 300T, maka laju pertumbuhan ekonomi negara Z adalah…",
+      "pilihan": ["Sekitar 6,9%", "Sekitar 7.1%", "Sekitar 8%", "Sekitar 10%", "Sekitar 12%"]
+    },
+    {
+      "no": 29,
+      "pertanyaan": "PDB negara X 2022: 230T, 2023: 250T. Berdasarkan data tersebut pertumbuhan ekonomi adalah .....",
+      "pilihan": ["6,48%", "6,89%", "8,48%", "8,69%", "9,69%"]
+    },
+    {
+      "no": 30,
+      "pertanyaan": "Kenaikan PDB tanpa memperhatikan apakah kenaikan itu lebih besar atau lebih kecil dari pertumbuhan penduduk adalah ....",
+      "pilihan": ["perkembangan ekonomi", "pertumbuhan ekonomi", "pembangunan ekonomi", "pendapatan ekonomi", "pendapatan nasional"]
+    },
+    {
+      "no": 31,
+      "pertanyaan": "Diketahui PDB negara Kasih tahun 2019: 100T, sedangkan tahun 2020: 110T. Berapakah pertumbuhan ekonominya......",
+      "pilihan": ["10 %", "12 %", "9,9 %", "7,6 %", "15 %"]
+    },
+    {
+      "no": 32,
+      "pertanyaan": "Faktor yang mempengaruhi pertumbuhan ekonomi, kecuali....",
+      "pilihan": ["Sumber daya manusia", "Sumber daya alam", "Akumulasi modal", "Data statistik", "Teknologi"]
+    },
+    {
+      "no": 33,
+      "pertanyaan": "Memberikan program pelatihan kepada sumber daya manusia akan membantu meningkatkan......",
+      "pilihan": ["Pengetahuan", "Rasa ingin tahu", "Keterampilan", "Kreatifitas", "Pendapatan"]
+    },
+    {
+      "no": 34,
+      "pertanyaan": "Menurut J.M. Keynes, terdapat tiga motif utama masyarakat memegang uang tunai, yaitu......",
+      "pilihan": ["Motif konsumsi, produksi, dan distribusi", "Motif transaksi, berjaga-jaga, dan spekulasi", "Motif mencari laba, investasi, dan menabung", "Motif bertransaksi, investasi, dan sosial", "Motif berjaga-jaga, spekulasi, dan konsumsi"]
+    },
+    {
+      "no": 35,
+      "pertanyaan": "Semakin tinggi tingkat suku bunga, maka permintaan uang untuk motif spekulasi akan......",
+      "pilihan": ["Meningkat karena keuntungan besar", "Menurun karena masyarakat lebih memilih menabung", "Tetap tidak berpengaruh", "Meningkat seiring inflasi", "Menurun karena konsumsi berkurang"]
+    },
+    {
+      "no": 36,
+      "pertanyaan": "Pak Budi menyisihkan pendapatan untuk dana darurat kesehatan. Dalam teori Keynes, ini termasuk motif......",
+      "pilihan": ["Transaksi", "Spekulasi", "Berjaga-jaga", "Investasi", "Pendapatan"]
+    },
+    {
+      "no": 37,
+      "pertanyaan": "Kegiatan utama dari perusahaan dagang adalah......",
+      "pilihan": ["Membeli bahan baku dan mengolahnya", "Memberikan layanan jasa", "Membeli barang dan menjual kembali tanpa mengubah bentuk", "Memproduksi barang", "Menjual barang setengah jadi"]
+    },
+    {
+      "no": 38,
+      "pertanyaan": "Akun yang hanya terdapat pada perusahaan dagang dan tidak dijumpai pada perusahaan jasa adalah......",
+      "pilihan": ["Beban gaji", "Pendapatan jasa", "Kas", "Harga Pokok Penjualan (HPP)", "Perlengkapan"]
+    },
+    {
+      "no": 39,
+      "pertanyaan": "Dibawah ini contoh dari perusahaan dagang adalah......",
+      "pilihan": ["Toko buku, kafetaria", "Rumah makan, toko bangunan", "Pedagang rokok, penjahit", "Pasar swalayan, bioskop", "Toko sepatu, toko buku"]
+    },
+    {
+      "no": 40,
+      "pertanyaan": "Berikut ini yang termasuk ke dalam jenis perusahaan dagang adalah ......",
+      "pilihan": ["Salon", "Warung sembako", "Bengkel", "Bioskop", "Laundry"]
+    },
+    {
+      "no": 41,
+      "pertanyaan": "Berikut ini yang termasuk ke dalam ciri-ciri perusahaan dagang adalah…...",
+      "pilihan": ["Membeli barang untuk dijual kembali tanpa merubah bentuk", "Memproduksi sendiri barang", "Membeli bahan baku untuk diproses", "Produk tak kasat mata (skill)", "Tidak ada Retur Penjualan"]
+    },
+    {
+      "no": 42,
+      "pertanyaan": "Pada perusahaan dagang ada Syarat pembayaran 2/10, n/30 artinya......",
+      "pilihan": ["Potongan 10% jika bayar dalam 2 hari", "Potongan 2% jika bayar dalam 10 hari, jatuh tempo 30 hari", "Potongan 30% jika bayar dalam 2 hari", "Bunga 2% selama 10 hari", "Paling lambat 30 hari"]
+    },
+    {
+      "no": 43,
+      "pertanyaan": "Saat melakukan pembelian barang dagang, hal yang harus diperhatikan perusahaan adalah......",
+      "pilihan": ["Harga faktur, syarat pembayaran, dan penyerahan barang", "Harga faktur dan jenis barang", "Syarat pembayaran dan HPP", "Harga faktur dan ongkos angkut", "Ongkos angkut dan persediaan"]
+    },
+    {
+      "no": 44,
+      "pertanyaan": "Ciri perusahaan dagang: (1) Cari untung, (2) Barang abstrak, (3) Bentuk barang tetap, (4) Jasa, (5) Tanpa produksi. Yang benar adalah......",
+      "pilihan": ["1, 2, dan 3", "2, 3, dan 4", "1, 3, dan 5", "3, 4, dan 5", "1, 4, dan 5"]
+    },
+    {
+      "no": 45,
+      "pertanyaan": "Perusahaan dagang yang menjual barang dalam jumlah besar kepada perusahaan lain disebut......",
+      "pilihan": ["Retailer", "Distributor", "Grosir", "Agen", "Toko kelontong"]
+    }
+  ]
+}
