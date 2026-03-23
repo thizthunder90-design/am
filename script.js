@@ -2,7 +2,9 @@ const GITHUB_BASE = "./bank-soal/";
 const TOKEN_RESET_ADMIN = "ADMIN99"; // Token Pengawas
 const DAFTAR_TOKEN = {
     "ekonomi": "EKO123",
-    "matematika": "MAT123"
+    "matematika": "mate123"
+    "biologi": "alam"
+    "sosiologi": "akudankamu"
 };
 
 let listSoal = [];
