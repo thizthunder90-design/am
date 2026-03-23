@@ -122,6 +122,16 @@ document.addEventListener("visibilitychange", function() {
     }
 });
 
+// Matikan Klik Kanan
+document.addEventListener('contextmenu', event => event.preventDefault());
+
+// Matikan Shortcut Copy, Paste, dan Inspect Element
+document.onkeydown = function(e) {
+    if (e.ctrlKey && (e.keyCode === 67 || e.keyCode === 86 || e.keyCode === 85 || e.keyCode === 73)) {
+        return false; 
+    }
+};
+
 // Fungsi untuk mengunci layar
 function kunciUjian() {
     $("lockScreen").style.display = "flex";
