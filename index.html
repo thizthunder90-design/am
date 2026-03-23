@@ -2,35 +2,38 @@
 <html lang="id">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
-    <title>Exambro HD - Digital Examination</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Exambro Local Test</title>
     <link rel="stylesheet" href="style.css">
-    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;800&display=swap" rel="stylesheet">
 </head>
 <body>
 
     <div id="loginScreen" class="container-center">
         <div class="card-panel">
             <h1>Exambro HD</h1>
-            <p>Silakan isi identitas dan masukkan token ujian</p>
+            <p>Sistem Ujian Terintegrasi</p>
             
             <div class="input-group">
-                <label>NAMA LENGKAP SISWA</label>
-                <input type="text" id="inNama" placeholder="Nama sesuai absen...">
+                <label>NAMA LENGKAP</label>
+                <input type="text" id="inNama" placeholder="Nama Siswa...">
             </div>
 
             <div class="input-group">
-                <label>TOKEN UJIAN (DARI PENGAWAS)</label>
-                <input type="text" id="inToken" placeholder="CONTOH: EKO123">
+                <label>TOKEN UJIAN</label>
+                <input type="text" id="inToken" placeholder="Masukkan Token...">
             </div>
 
-            <div class="menu-label">PILIH MATA PELAJARAN</div>
-            <div class="grid-menu" id="menuMapel">
-                <button class="btn-mapel" onclick="mulaiUjian('ekonomi')">📖 EKONOMI</button>
-                <button class="btn-mapel" onclick="mulaiUjian('matematika')">📐 MATEMATIKA</button>
-                <button class="btn-mapel" onclick="mulaiUjian('fisika')">⚡ FISIKA</button>
-                <button class="btn-mapel" onclick="mulaiUjian('sejarah')">🏺 SEJARAH</button>
-                </div>
+            <div class="input-group">
+                <label>MATA PELAJARAN</label>
+                <select id="selectMapel" class="custom-select">
+                    <option value="" disabled selected>-- Pilih Mapel --</option>
+                    <option value="ekonomi">📖 Ekonomi</option>
+                    <option value="matematika">📐 Matematika</option>
+                    <option value="fisika">⚡ Fisika</option>
+                    </select>
+            </div>
+
+            <button class="btn-utama" onclick="validasiDanMulai()">MULAI UJIAN</button>
         </div>
     </div>
 
@@ -40,11 +43,9 @@
                 <b id="outNama">-</b>
                 <span id="outMapel">-</span>
             </div>
-            <div class="timer" id="outTimer">00:00:00</div>
+            <div class="timer">01:00:00</div>
         </header>
-
-        <div class="content-soal" id="boxSoal">
-            </div>
+        <div class="content-soal" id="boxSoal"></div>
     </div>
 
     <script src="script.js"></script>
