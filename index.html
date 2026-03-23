@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
-    <title>Exambro HD v3.0</title>
+    <title>AM 2026 MASDIMAN</title>
     <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;600;800&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="style.css">
 </head>
@@ -14,13 +14,13 @@
             <div class="logo-area">
                 <div class="icon-app">📝</div>
                 <h1>AM 2026</h1>
-                <p>Computer Based Test System</p>
+                <p>CBT System • MAS DIMAN</p>
             </div>
             
             <div class="form-area">
                 <div class="input-group">
                     <label>Nama Lengkap Siswa</label>
-                    <input type="text" id="inNama" placeholder="Ketik nama sesuai absen..." autocomplete="off">
+                    <input type="text" id="inNama" placeholder="Nama sesuai absen..." autocomplete="off">
                 </div>
 
                 <div class="input-group">
@@ -30,22 +30,18 @@
 
                 <div class="input-group">
                     <label>Pilih Mata Pelajaran</label>
-                    <div class="select-wrapper">
-                        <select id="selectMapel" class="custom-select">
-                            <option value="" disabled selected>-- Pilih Mapel --</option>
-                            <option value="ekonomi">📖 EKONOMI</option>
-                            <option value="matematika">📐 MATEMATIKA</option>
-                            <option value="fisika">⚡ FISIKA</option>
-                            <option value="biologi">🧬 BIOLOGI</option>
-                            <option value="sejarah">🏺 SEJARAH</option>
-                            <option value="geografi">🌍 GEOGRAFI</option>
-                            <option value="sosiologi">👥 SOSIOLOGI</option>
-                        </select>
-                    </div>
+                    <select id="selectMapel" class="custom-select">
+                        <option value="" disabled selected>-- Pilih Mapel --</option>
+                        <option value="ekonomi">📖 EKONOMI</option>
+                        <option value="matematika">📐 MATEMATIKA</option>
+                        <option value="fisika">⚡ FISIKA</option>
+                        <option value="biologi">🧬 BIOLOGI</option>
+                        <option value="sejarah">🏺 SEJARAH</option>
+                    </select>
                 </div>
 
                 <button class="btn-utama" onclick="validasiDanMulai()">MASUK UJIAN</button>
-                <div class="footer-note">MAS DARUL IMAN-design © 2026</div>
+                <div class="footer-note">MASDIMAN-design © 2026</div>
             </div>
         </div>
     </div>
@@ -54,10 +50,10 @@
         <header>
             <div class="header-content">
                 <div class="info-siswa">
-                    <b id="outNama">NAMA SISWA</b>
-                    <span id="outMapel">MATA PELAJARAN</span>
+                    <b id="outNama">SISWA</b>
+                    <span id="outMapel">MAPEL</span>
                 </div>
-                <div class="timer-box">
+                <div class="timer-box" id="timerContainer">
                     <span id="outTimer">01:00:00</span>
                 </div>
             </div>
