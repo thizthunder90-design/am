@@ -2,49 +2,69 @@
 <html lang="id">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Exambro Local Test</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <title>Exambro HD v3.0</title>
+    <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;600;800&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
 
     <div id="loginScreen" class="container-center">
         <div class="card-panel">
-            <h1>Exambro HD</h1>
-            <p>Sistem Ujian Terintegrasi</p>
+            <div class="logo-area">
+                <div class="icon-app">📝</div>
+                <h1>HD-Exam</h1>
+                <p>Computer Based Test System</p>
+            </div>
             
-            <div class="input-group">
-                <label>NAMA LENGKAP</label>
-                <input type="text" id="inNama" placeholder="Nama Siswa...">
-            </div>
+            <div class="form-area">
+                <div class="input-group">
+                    <label>Nama Lengkap Siswa</label>
+                    <input type="text" id="inNama" placeholder="Ketik nama sesuai absen..." autocomplete="off">
+                </div>
 
-            <div class="input-group">
-                <label>TOKEN UJIAN</label>
-                <input type="text" id="inToken" placeholder="Masukkan Token...">
-            </div>
+                <div class="input-group">
+                    <label>Token Ujian</label>
+                    <input type="text" id="inToken" placeholder="Contoh: EKO123" style="text-transform: uppercase; letter-spacing: 2px;">
+                </div>
 
-            <div class="input-group">
-                <label>MATA PELAJARAN</label>
-                <select id="selectMapel" class="custom-select">
-    <option value="" disabled selected>-- Pilih Mapel --</option>
-    <option value="ekonomi">📖 Ekonomi</option>
-    <option value="matematika">📐 Matematika</option>
-</select>
-            </div>
+                <div class="input-group">
+                    <label>Pilih Mata Pelajaran</label>
+                    <div class="select-wrapper">
+                        <select id="selectMapel" class="custom-select">
+                            <option value="" disabled selected>-- Pilih Mapel --</option>
+                            <option value="ekonomi">📖 EKONOMI</option>
+                            <option value="matematika">📐 MATEMATIKA</option>
+                            <option value="fisika">⚡ FISIKA</option>
+                            <option value="biologi">🧬 BIOLOGI</option>
+                            <option value="sejarah">🏺 SEJARAH</option>
+                            <option value="geografi">🌍 GEOGRAFI</option>
+                            <option value="sosiologi">👥 SOSIOLOGI</option>
+                        </select>
+                    </div>
+                </div>
 
-            <button class="btn-utama" onclick="validasiDanMulai()">MULAI UJIAN</button>
+                <button class="btn-utama" onclick="validasiDanMulai()">MASUK UJIAN</button>
+                <div class="footer-note">thizthunder90-design © 2026</div>
+            </div>
         </div>
     </div>
 
     <div id="examArea" style="display: none;">
         <header>
-            <div class="info-siswa">
-                <b id="outNama">-</b>
-                <span id="outMapel">-</span>
+            <div class="header-content">
+                <div class="info-siswa">
+                    <b id="outNama">NAMA SISWA</b>
+                    <span id="outMapel">MATA PELAJARAN</span>
+                </div>
+                <div class="timer-box">
+                    <span id="outTimer">01:00:00</span>
+                </div>
             </div>
-            <div class="timer">01:00:00</div>
         </header>
-        <div class="content-soal" id="boxSoal"></div>
+
+        <main class="content-soal" id="boxSoal">
+            </main>
     </div>
 
     <script src="script.js"></script>
