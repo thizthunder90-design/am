@@ -1,81 +1,50 @@
-// --- KONFIGURASI ---
-const GITHUB_BASE = "https://raw.githubusercontent.com/username/repo/main/bank-soal/";
+// Jika mencoba di laptop, gunakan jalur relatif
+// Nanti jika sudah di GitHub, ganti ke "https://raw.githubusercontent.com/..."
+const GITHUB_BASE = "./bank-soal/"; 
 
 const DAFTAR_TOKEN = {
-    "ekonomi": "TOKEN_EKO",
-    "matematika": "TOKEN_MAT",
-    "fisika": "TOKEN_FIS",
-    "sejarah": "TOKEN_SEJ"
+    "ekonomi": "EKO123",
+    "matematika": "MAT123"
 };
 
-let listSoal = [];
-let dataJawaban = {};
 const $ = id => document.getElementById(id);
+let listSoal = [];
 
-// --- FUNGSI UTAMA ---
+function validasiDanMulai() {
+    const mapel = $("selectMapel").value;
+    const token = $("inToken").value;
+    const nama = $("inNama").value;
+
+    if (!nama || !mapel) return alert("Lengkapi data!");
+    if (token !== DAFTAR_TOKEN[mapel]) return alert("Token Salah!");
+
+    mulaiUjian(mapel);
+}
+
 async function mulaiUjian(mapel) {
-    const nama = $('inNama').value;
-    const token = $('inToken').value.toUpperCase();
-
-    if(!nama) return alert("Isi nama Anda!");
-    if(token !== DAFTAR_TOKEN[mapel]) return alert("Token Salah!");
-
     try {
-        const res = await fetch(GITHUB_BASE + mapel + ".json");
-        listSoal = await res.json();
+        const response = await fetch(`${GITHUB_BASE}${mapel}.json`);
+        listSoal = await response.json();
         
-        $('outNama').innerText = nama;
-        $('outMapel').innerText = "UJIAN: " + mapel.toUpperCase();
+        $("outNama").innerText = $("inNama").value;
+        $("outMapel").innerText = mapel.toUpperCase();
         
         renderSoal();
         
-        $('loginScreen').style.display = 'none';
-        $('examArea').style.display = 'block';
-        document.documentElement.requestFullscreen().catch(() => {});
+        $("loginScreen").style.display = "none";
+        $("examArea").style.display = "block";
     } catch (e) {
-        alert("Gagal memuat soal. Periksa koneksi.");
+        alert("Gagal memuat file JSON. Gunakan 'Live Server' di VS Code!");
     }
 }
 
 function renderSoal() {
-    let html = '';
-    const huruf = ['A', 'B', 'C', 'D', 'E'];
-
-    listSoal.forEach((soal, sIdx) => {
-        html += `
-        <div class="q-card">
-            <div style="font-weight:800; margin-bottom:15px;">${sIdx+1}. ${soal.q}</div>
-            <div class="opt-list">
-                ${soal.a.map((opt, oIdx) => `
-                    <label class="opt-item" id="opt-${sIdx}-${oIdx}">
-                        <input type="radio" name="q${sIdx}" onclick="pilih(${sIdx}, ${oIdx})">
-                        <b style="color:var(--primary); margin-right:10px;">${huruf[oIdx]}.</b> ${opt}
-                    </label>
-                `).join('')}
-            </div>
+    let html = "";
+    listSoal.forEach((s, i) => {
+        html += `<div class="q-card">
+            <b>${i+1}. ${s.q}</b>
+            ${s.a.map(opt => `<label class="opt-item"><input type="radio" name="q${i}">${opt}</label>`).join("")}
         </div>`;
     });
-    $('boxSoal').innerHTML = html + `<button onclick="selesai()" style="width:100%; padding:20px; background:#10b981; color:white; border:none; border-radius:15px; font-weight:800; margin-top:20px; margin-bottom:50px;">KIRIM JAWABAN</button>`;
-}
-
-function pilih(sIdx, oIdx) {
-    const huruf = ['A', 'B', 'C', 'D', 'E'];
-    dataJawaban[sIdx + 1] = huruf[oIdx];
-    
-    // Reset visual
-    for(let i=0; i<5; i++) {
-        const el = $('opt-'+sIdx+'-'+i);
-        if(el) el.classList.remove('active');
-    }
-    // Set visual aktif
-    $('opt-'+sIdx+'-'+oIdx).classList.add('active');
-}
-
-function selesai() {
-    if(confirm("Selesai ujian?")) {
-        let rekap = `NAMA: ${$('inNama').value}\nJAWABAN: `;
-        listSoal.forEach((_, i) => rekap += `${i+1}:${dataJawaban[i+1] || "-"}, `);
-        alert(rekap);
-        location.reload();
-    }
+    $("boxSoal").innerHTML = html;
 }
