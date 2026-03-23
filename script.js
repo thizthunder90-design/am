@@ -8,7 +8,7 @@ const DAFTAR_TOKEN = {
 };
 
 let listSoal = [];
-let detikSisa = 3600; // 1 Jam
+let detikSisa = 5400; // 90 MENIT
 let intervalTimer;
 let isExamStarted = false;
 
