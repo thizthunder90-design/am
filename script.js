@@ -1,46 +1,56 @@
-// Jika mencoba di laptop, gunakan jalur relatif
-// Nanti jika sudah di GitHub, ganti ke "https://raw.githubusercontent.com/..."
+// Menggunakan jalur relatif yang didukung GitHub Pages
 const GITHUB_BASE = "./bank-soal/"; 
 
 const DAFTAR_TOKEN = {
     "ekonomi": "EKO123",
     "matematika": "MAT123"
+    // Tambahkan mapel lain di sini
 };
 
 const $ = id => document.getElementById(id);
 let listSoal = [];
 
-function validasiDanMulai() {
-    const mapel = $("selectMapel").value;
-    const token = $("inToken").value;
+async function validasiDanMulai() {
     const nama = $("inNama").value;
+    const token = $("inToken").value.toUpperCase();
+    const mapel = $("selectMapel").value;
 
-    if (!nama || !mapel) return alert("Lengkapi data!");
+    if (!nama || !mapel) return alert("Mohon lengkapi Nama dan Mata Pelajaran!");
     if (token !== DAFTAR_TOKEN[mapel]) return alert("Token Salah!");
 
-    mulaiUjian(mapel);
+    mulaiLoadSoal(mapel);
 }
 
-async function mulaiUjian(mapel) {
+async function mulaiLoadSoal(mapel) {
     try {
-        const response = await fetch(`${GITHUB_BASE}${mapel}.json`);
+        // Gabungkan jalur: ./bank-soal/ + ekonomi + .json
+        const urlFinal = GITHUB_BASE + mapel + ".json";
+        
+        const response = await fetch(urlFinal);
+        
+        if (!response.ok) {
+            throw new Error(`File ${mapel}.json tidak ditemukan di folder bank-soal.`);
+        }
+        
         listSoal = await response.json();
         
         $("outNama").innerText = $("inNama").value;
-        $("outMapel").innerText = mapel.toUpperCase();
+        $("outMapel").innerText = "UJIAN: " + mapel.toUpperCase();
         
-        renderSoal();
+        renderSoalKeLayar();
         
         $("loginScreen").style.display = "none";
         $("examArea").style.display = "block";
+        
     } catch (e) {
-        alert("Gagal memuat file JSON. Gunakan 'Live Server' di VS Code!");
+        // Alert ini sekarang akan memberi tahu letak kesalahannya secara spesifik
+        alert("Pesan Sistem: " + e.message);
     }
 }
 
 function renderSoalKeLayar() {
     let html = "";
-    const huruf = ['A', 'B', 'C', 'D', 'E']; // Daftar huruf opsi
+    const huruf = ['A', 'B', 'C', 'D', 'E'];
 
     listSoal.forEach((s, i) => {
         html += `
@@ -58,11 +68,5 @@ function renderSoalKeLayar() {
         </div>`;
     });
     
-    // Tambahkan tombol selesai di bawah
-    $("boxSoal").innerHTML = html + `
-        <button class="btn-utama" 
-                style="background:#10b981; margin-top:30px; margin-bottom:80px;" 
-                onclick="selesaiUjian()">
-            KIRIM JAWABAN
-        </button>`;
+    $("boxSoal").innerHTML = html + `<button class="btn-utama" style="background:#10b981; margin-bottom:80px;" onclick="location.reload()">KIRIM JAWABAN</button>`;
 }
