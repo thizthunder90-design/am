@@ -3,29 +3,38 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
-    <title>AM 2026 MASDIMAN</title>
+    <title>Exambro HD v3.0</title>
     <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;600;800&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
 
+    <div id="lockScreen" class="container-center" style="display: none; position: fixed; z-index: 999; background: rgba(0,0,0,0.9); top: 0; left: 0; width: 100%; height: 100%;">
+        <div class="card-panel" style="background: white; max-width: 350px;">
+            <h2 style="color: #ef4444; margin-bottom: 10px;">🚨 TERKUNCI</h2>
+            <p style="font-size: 0.9rem; margin-bottom: 20px;">Sistem mendeteksi Anda meninggalkan aplikasi. Hubungi pengawas untuk membuka kunci.</p>
+            <div class="input-group">
+                <label>Token Admin</label>
+                <input type="password" id="adminToken" placeholder="Masukkan Token Pengawas...">
+            </div>
+            <button class="btn-utama" onclick="bukaKunciUjian()">BUKA KUNCI</button>
+        </div>
+    </div>
+
     <div id="loginScreen" class="container-center">
         <div class="card-panel">
-            <div class="logo-area">
-                <div class="icon-app">📝</div>
-                <h1>AM 2026</h1>
-                <p>CBT System • MAS DIMAN</p>
-            </div>
+            <h1>HD-Exam</h1>
+            <p>CBT System • thizthunder90</p>
             
             <div class="form-area">
                 <div class="input-group">
                     <label>Nama Lengkap Siswa</label>
-                    <input type="text" id="inNama" placeholder="Nama sesuai absen..." autocomplete="off">
+                    <input type="text" id="inNama" placeholder="Ketik nama sesuai absen..." autocomplete="off">
                 </div>
 
                 <div class="input-group">
                     <label>Token Ujian</label>
-                    <input type="text" id="inToken" placeholder="Contoh: EKO123" style="text-transform: uppercase; letter-spacing: 2px;">
+                    <input type="text" id="inToken" placeholder="Contoh: EKO123" style="text-transform: uppercase;">
                 </div>
 
                 <div class="input-group">
@@ -34,14 +43,10 @@
                         <option value="" disabled selected>-- Pilih Mapel --</option>
                         <option value="ekonomi">📖 EKONOMI</option>
                         <option value="matematika">📐 MATEMATIKA</option>
-                        <option value="fisika">⚡ FISIKA</option>
-                        <option value="biologi">🧬 BIOLOGI</option>
-                        <option value="sejarah">🏺 SEJARAH</option>
                     </select>
                 </div>
 
                 <button class="btn-utama" onclick="validasiDanMulai()">MASUK UJIAN</button>
-                <div class="footer-note">MASDIMAN-design © 2026</div>
             </div>
         </div>
     </div>
@@ -50,27 +55,15 @@
         <header>
             <div class="header-content">
                 <div class="info-siswa">
-                    <b id="outNama">SISWA</b>
-                    <span id="outMapel">MAPEL</span>
+                    <b id="outNama">NAMA SISWA</b>
+                    <span id="outMapel">MATA PELAJARAN</span>
                 </div>
-                <div class="timer-box" id="timerContainer">
+                <div class="timer-box">
                     <span id="outTimer">01:00:00</span>
                 </div>
             </div>
         </header>
-<div id="lockScreen" class="container-center" style="display: none; position: fixed; z-index: 999; background: rgba(0,0,0,0.9); top: 0; left: 0; width: 100%; height: 100%;">
-    <div class="card-panel" style="background: white;">
-        <h2 style="color: #ef4444;">🚨 TERDETEKSI PELANGGARAN!</h2>
-        <p>Anda meninggalkan halaman ujian. Sistem telah mengunci akses. Silakan hubungi pengawas untuk membuka kembali.</p>
-        
-        <div class="input-group">
-            <label>Token Buka Kunci (Admin)</label>
-            <input type="password" id="adminToken" placeholder="Masukkan Token Pengawas...">
-        </div>
-        
-        <button class="btn-utama" onclick="bukaKunciUjian()">BUKA KUNCI</button>
-    </div>
-</div>
+
         <main class="content-soal" id="boxSoal">
             </main>
     </div>
