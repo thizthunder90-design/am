@@ -3,238 +3,50 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
-    <title>HD Exam Browser v2.0</title>
+    <title>Exambro HD - Digital Examination</title>
+    <link rel="stylesheet" href="style.css">
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;800&display=swap" rel="stylesheet">
-    
-    <style>
-        :root {
-            --primary: #2563eb;
-            --bg-body: #f8fafc;
-            --text-dark: #0f172a;
-            --text-muted: #64748b;
-            --white: #ffffff;
-            --border: #e2e8f0;
-        }
-
-        * { 
-            margin: 0; padding: 0; box-sizing: border-box; 
-            font-family: 'Inter', sans-serif;
-            -webkit-tap-highlight-color: transparent;
-            user-select: none;
-        }
-
-        body { background-color: var(--bg-body); color: var(--text-dark); overflow-x: hidden; }
-
-        /* ------------------------- 
-           STYLING HALAMAN LOGIN 
-        ---------------------------- */
-        .login-container {
-            display: flex; justify-content: center; align-items: center;
-            min-height: 100vh; padding: 20px;
-        }
-
-        .login-card {
-            background: var(--white); padding: 40px 30px; border-radius: 24px;
-            width: 100%; max-width: 420px; box-shadow: 0 10px 25px rgba(0,0,0,0.05);
-            text-align: center; border: 1px solid var(--border);
-        }
-
-        .login-card h1 { font-weight: 800; color: var(--primary); margin-bottom: 8px; font-size: 1.8rem; }
-        .login-card p { color: var(--text-muted); margin-bottom: 30px; font-size: 0.9rem; }
-
-        .input-group { text-align: left; margin-bottom: 15px; }
-        .input-group label { display: block; font-size: 0.8rem; font-weight: 600; margin-bottom: 5px; color: var(--text-muted); }
-        
-        input {
-            width: 100%; padding: 14px; border-radius: 12px; border: 2px solid var(--border);
-            font-size: 1rem; transition: 0.3s; outline: none;
-        }
-        input:focus { border-color: var(--primary); background: #f0f7ff; }
-
-        .btn-start {
-            width: 100%; padding: 16px; background: var(--primary); color: white;
-            border: none; border-radius: 12px; font-weight: 800; font-size: 1rem;
-            cursor: pointer; margin-top: 10px; box-shadow: 0 4px 12px rgba(37, 99, 235, 0.2);
-        }
-
-        /* ------------------------- 
-           STYLING AREA UJIAN 
-        ---------------------------- */
-        #examArea { display: none; flex-direction: column; min-height: 100vh; }
-
-        header {
-            background: var(--white); padding: 15px 20px; border-bottom: 1px solid var(--border);
-            display: flex; justify-content: space-between; align-items: center;
-            position: sticky; top: 0; z-index: 100;
-        }
-
-        .user-info b { display: block; font-size: 0.95rem; }
-        .user-info span { font-size: 0.75rem; color: var(--text-muted); text-transform: uppercase; letter-spacing: 1px; }
-
-        .timer-box {
-            background: #fef2f2; border: 1px solid #fee2e2; padding: 8px 15px;
-            border-radius: 10px; color: #dc2626; font-weight: 800; font-size: 1.1rem;
-        }
-
-        .question-scroll { flex: 1; padding: 20px; max-width: 700px; margin: 0 auto; width: 100%; }
-
-        .q-card {
-            background: var(--white); padding: 25px; border-radius: 20px;
-            margin-bottom: 25px; border: 1px solid var(--border);
-            box-shadow: 0 2px 8px rgba(0,0,0,0.02);
-        }
-
-        .q-text { font-size: 1.15rem; font-weight: 600; line-height: 1.6; margin-bottom: 20px; }
-        
-        .options-grid { display: grid; gap: 12px; }
-
-        .opt-btn {
-            display: flex; align-items: center; gap: 15px; padding: 15px;
-            background: #fcfcfd; border: 2px solid var(--border); border-radius: 12px;
-            cursor: pointer; transition: 0.2s;
-        }
-
-        .opt-btn:hover { background: #f8fafc; }
-
-        /* Style radio button disembunyikan tapi logic jalan */
-        .opt-btn input { width: 18px; height: 18px; cursor: pointer; }
-        
-        .opt-btn.selected {
-            background: #eff6ff; border-color: var(--primary);
-        }
-
-        .alphabet { font-weight: 800; color: var(--primary); min-width: 20px; }
-
-        .btn-finish {
-            width: 100%; padding: 20px; background: #059669; color: white;
-            border: none; border-radius: 16px; font-weight: 800; font-size: 1.1rem;
-            cursor: pointer; margin-top: 20px; margin-bottom: 50px;
-        }
-    </style>
 </head>
 <body>
 
-    <div id="loginScreen" class="login-container">
-        <div class="login-card">
+    <div id="loginScreen" class="container-center">
+        <div class="card-panel">
             <h1>Exambro HD</h1>
-            <p>Sistem Ujian Berbasis Teks Presisi</p>
+            <p>Silakan isi identitas dan masukkan token ujian</p>
             
             <div class="input-group">
-                <label>NAMA LENGKAP</label>
-                <input type="text" id="inNama" placeholder="Contoh: Budi Santoso">
-            </div>
-            
-            <div class="input-group">
-                <label>MATA PELAJARAN</label>
-                <input type="text" id="inMapel" placeholder="Contoh: EKONOMI">
+                <label>NAMA LENGKAP SISWA</label>
+                <input type="text" id="inNama" placeholder="Nama sesuai absen...">
             </div>
 
             <div class="input-group">
-                <label>LINK DATABASE SOAL (JSON)</label>
-                <input type="text" id="inUrl" placeholder="https://raw.githubusercontent.com/...">
+                <label>TOKEN UJIAN (DARI PENGAWAS)</label>
+                <input type="text" id="inToken" placeholder="CONTOH: EKO123">
             </div>
 
-            <button class="btn-start" onclick="initExam()">MULAI UJIAN</button>
+            <div class="menu-label">PILIH MATA PELAJARAN</div>
+            <div class="grid-menu" id="menuMapel">
+                <button class="btn-mapel" onclick="mulaiUjian('ekonomi')">📖 EKONOMI</button>
+                <button class="btn-mapel" onclick="mulaiUjian('matematika')">📐 MATEMATIKA</button>
+                <button class="btn-mapel" onclick="mulaiUjian('fisika')">⚡ FISIKA</button>
+                <button class="btn-mapel" onclick="mulaiUjian('sejarah')">🏺 SEJARAH</button>
+                </div>
         </div>
     </div>
 
-    <div id="examArea">
+    <div id="examArea" style="display: none;">
         <header>
-            <div class="user-info">
+            <div class="info-siswa">
                 <b id="outNama">-</b>
                 <span id="outMapel">-</span>
             </div>
-            <div class="timer-box" id="outTimer">01:00:00</div>
+            <div class="timer" id="outTimer">00:00:00</div>
         </header>
 
-        <div class="question-scroll" id="containerSoal">
+        <div class="content-soal" id="boxSoal">
             </div>
     </div>
 
-    <script>
-        let dbSoal = [];
-        let rekapJawaban = {};
-        const $ = id => document.getElementById(id);
-
-        async function initExam() {
-            const url = $('inUrl').value;
-            const nama = $('inNama').value;
-            const mapel = $('inMapel').value;
-
-            if(!url || !nama || !mapel) return alert("Lengkapi data terlebih dahulu!");
-
-            try {
-                const res = await fetch(url);
-                dbSoal = await res.json();
-                
-                $('outNama').innerText = nama;
-                $('outMapel').innerText = "MAPEL: " + mapel;
-                
-                renderSoal();
-                
-                $('loginScreen').style.display = 'none';
-                $('examArea').style.display = 'flex';
-                
-                // Minta Fullscreen (Standar Exambro)
-                document.documentElement.requestFullscreen().catch(() => {});
-            } catch (e) {
-                alert("Gagal memuat bank soal. Periksa Link JSON Anda.");
-            }
-        }
-
-        function renderSoal() {
-            let html = '';
-            const huruf = ['A', 'B', 'C', 'D', 'E'];
-
-            dbSoal.forEach((item, i) => {
-                html += `
-                <div class="q-card">
-                    <div class="q-text">
-                        <span style="color:var(--primary); margin-right:8px;">${i+1}.</span>${item.q}
-                    </div>
-                    <div class="options-grid">
-                        ${item.a.map((opsi, idx) => `
-                            <label class="opt-btn" id="label-q${i}-opt${idx}">
-                                <input type="radio" name="q${i}" onclick="selectOpt(${i}, ${idx})">
-                                <span class="alphabet">${huruf[idx]}</span>
-                                <span>${opsi}</span>
-                            </label>
-                        `).join('')}
-                    </div>
-                </div>`;
-            });
-
-            $('containerSoal').innerHTML = html + `<button class="btn-finish" onclick="kirim()">SELESAI UJIAN</button>`;
-        }
-
-        function selectOpt(qIdx, optIdx) {
-            // Hapus class selected dari opsi lain di soal yang sama
-            const options = document.getElementsByName('q' + qIdx);
-            const huruf = ['A', 'B', 'C', 'D', 'E'];
-            
-            rekapJawaban[qIdx + 1] = huruf[optIdx];
-            
-            // Visual feedback: Tambah warna biru pada yang dipilih
-            options.forEach((el, index) => {
-                const label = $('label-q' + qIdx + '-opt' + index);
-                if(index === optIdx) label.classList.add('selected');
-                else label.classList.remove('selected');
-            });
-        }
-
-        function kirim() {
-            if(confirm("Apakah Anda yakin ingin mengakhiri ujian?")) {
-                let txt = "HASIL UJIAN\n----------\n";
-                dbSoal.forEach((_, i) => {
-                    txt += `${i+1}:${rekapJawaban[i+1] || "-"}, `;
-                });
-                alert(txt);
-                location.reload();
-            }
-        }
-
-        // Anti-Klik Kanan
-        document.addEventListener('contextmenu', e => e.preventDefault());
-    </script>
+    <script src="script.js"></script>
 </body>
 </html>
