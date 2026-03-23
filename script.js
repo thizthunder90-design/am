@@ -111,3 +111,45 @@ document.addEventListener("visibilitychange", function() {
         alert("PERINGATAN: Jangan meninggalkan halaman ujian atau skor Anda akan dibatalkan!");
     }
 });
+// --- KONFIGURASI KEAMANAN ---
+const TOKEN_RESET_ADMIN = "ADMIN99"; // Token yang dipegang pengawas
+let isExamStarted = false; // Penanda agar deteksi hanya jalan saat ujian
+
+// --- DETEKSI PINDAH TAB / KELUAR APLIKASI ---
+document.addEventListener("visibilitychange", function() {
+    if (document.hidden && isExamStarted) {
+        kunciUjian();
+    }
+});
+
+// Fungsi untuk mengunci layar
+function kunciUjian() {
+    $("lockScreen").style.display = "flex";
+    // Opsional: Hentikan timer saat terkunci agar adil
+    clearInterval(intervalTimer); 
+}
+
+// Fungsi untuk membuka kunci (Hanya bisa oleh pengawas)
+function bukaKunciUjian() {
+    const inputToken = $("adminToken").value;
+    
+    if (inputToken === TOKEN_RESET_ADMIN) {
+        $("lockScreen").style.display = "none";
+        $("adminToken").value = ""; // Kosongkan input
+        startTimer(); // Jalankan kembali timer
+        alert("Akses diberikan. Lanjutkan ujian dengan jujur!");
+    } else {
+        alert("TOKEN SALAH! Tindakan ini dicatat oleh sistem.");
+    }
+}
+
+// --- UPDATE FUNGSI mulaiLoadSoal ---
+// Pastikan variabel isExamStarted diubah jadi true
+async function mulaiLoadSoal(mapel) {
+    // ... kode fetch soal yang sudah ada ...
+    
+    isExamStarted = true; // Tandai ujian dimulai
+    $("loginScreen").style.display = "none";
+    $("examArea").style.display = "block";
+    startTimer();
+}
