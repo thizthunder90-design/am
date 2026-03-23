@@ -38,13 +38,31 @@ async function mulaiUjian(mapel) {
     }
 }
 
-function renderSoal() {
+function renderSoalKeLayar() {
     let html = "";
+    const huruf = ['A', 'B', 'C', 'D', 'E']; // Daftar huruf opsi
+
     listSoal.forEach((s, i) => {
-        html += `<div class="q-card">
-            <b>${i+1}. ${s.q}</b>
-            ${s.a.map(opt => `<label class="opt-item"><input type="radio" name="q${i}">${opt}</label>`).join("")}
+        html += `
+        <div class="q-card">
+            <div class="q-text"><b>${i+1}.</b> ${s.q}</div>
+            <div class="opt-list">
+                ${s.a.map((opt, idx) => `
+                    <label class="opt-item">
+                        <input type="radio" name="soal${i}" value="${huruf[idx]}">
+                        <span class="alphabet">${huruf[idx]}.</span>
+                        <span class="opt-text">${opt}</span>
+                    </label>
+                `).join("")}
+            </div>
         </div>`;
     });
-    $("boxSoal").innerHTML = html;
+    
+    // Tambahkan tombol selesai di bawah
+    $("boxSoal").innerHTML = html + `
+        <button class="btn-utama" 
+                style="background:#10b981; margin-top:30px; margin-bottom:80px;" 
+                onclick="selesaiUjian()">
+            KIRIM JAWABAN
+        </button>`;
 }
