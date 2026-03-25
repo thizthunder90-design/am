@@ -1,10 +1,16 @@
 const GITHUB_BASE = "./bank-soal/"; 
 const TOKEN_RESET_ADMIN = "ADMIN99"; 
 const DAFTAR_TOKEN = {
-    "ekonomi": "5435",
-    "matematika": "2123",
-    "biologi": "4456",
-    "sosiologi": "9999",
+ "ekonomi": "5a4s35",
+ "matematika": "2b12c3",
+ "biologi": "4c4v56",
+ "sosiologi": "9as999",
+"kimia": "3d3jkm",
+"sejarah": "poiu67",
+"bindo": "asxcv2",
+"alquran": "8s876a",
+"pjok": "876ty7",
+
 };
 
 let listSoal = [];
