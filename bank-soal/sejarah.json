@@ -1,0 +1,327 @@
+{
+  "judul": "Bank Soal Sejarah Indonesia SMA (Kelas 10-12)",
+  "kurikulum": "2013",
+  "total_soal": 40,
+  "data": [
+    {
+      "id": 1,
+      "kelas": 10,
+      "materi": "Zaman Praaksara",
+      "pertanyaan": "Manusia purba jenis Pithecanthropus Erectus ditemukan oleh Eugene Dubois di daerah...",
+      "pilihan": ["Sangiran", "Trinil", "Wajak", "Ngandong", "Flores"],
+      "kunci_jawaban": "Trinil"
+    },
+    {
+      "id": 2,
+      "kelas": 10,
+      "materi": "Zaman Praaksara",
+      "pertanyaan": "Sistem kepercayaan memuja roh nenek moyang pada masa praaksara disebut...",
+      "pilihan": ["Animisme", "Dinamisme", "Totemisme", "Politeisme", "Monoteisme"],
+      "kunci_jawaban": "Animisme"
+    },
+    {
+      "id": 3,
+      "kelas": 10,
+      "materi": "Kerajaan Hindu-Buddha",
+      "pertanyaan": "Prasasti Yupa merupakan bukti sejarah tertua dari kerajaan...",
+      "pilihan": ["Tarumanegara", "Kutai", "Sriwijaya", "Majapahit", "Mataram Kuno"],
+      "kunci_jawaban": "Kutai"
+    },
+    {
+      "id": 4,
+      "kelas": 10,
+      "materi": "Kerajaan Hindu-Buddha",
+      "pertanyaan": "Puncak kejayaan Kerajaan Majapahit terjadi pada masa pemerintahan Raja...",
+      "pilihan": ["Raden Wijaya", "Jayanegara", "Hayam Wuruk", "Tribhuwana Tunggadewi", "Wikramawardhana"],
+      "kunci_jawaban": "Hayam Wuruk"
+    },
+    {
+      "id": 5,
+      "kelas": 10,
+      "materi": "Kerajaan Islam",
+      "pertanyaan": "Kerajaan Islam pertama di Pulau Jawa adalah...",
+      "pilihan": ["Samudera Pasai", "Demak", "Banten", "Mataram Islam", "Cirebon"],
+      "kunci_jawaban": "Demak"
+    },
+    {
+      "id": 6,
+      "kelas": 10,
+      "materi": "Kerajaan Islam",
+      "pertanyaan": "Sultan Ageng Tirtayasa merupakan raja yang gigih melawan VOC dari kerajaan...",
+      "pilihan": ["Gowa-Tallo", "Ternate", "Tidore", "Banten", "Aceh"],
+      "kunci_jawaban": "Banten"
+    },
+    {
+      "id": 7,
+      "kelas": 11,
+      "materi": "Kolonialisme",
+      "pertanyaan": "Tujuan utama pembentukan VOC pada tahun 1602 adalah...",
+      "pilihan": ["Membangun sekolah", "Menghindari persaingan antar pedagang Belanda", "Melawan Portugis", "Menyebarkan agama", "Membantu rakyat lokal"],
+      "kunci_jawaban": "Menghindari persaingan antar pedagang Belanda"
+    },
+    {
+      "id": 8,
+      "kelas": 11,
+      "materi": "Kolonialisme",
+      "pertanyaan": "Kebijakan Jalan Raya Pos dari Anyer hingga Panarukan dibangun pada masa...",
+      "pilihan": ["Raffles", "Van den Bosch", "Daendels", "Janssens", "Cornelis de Houtman"],
+      "kunci_jawaban": "Daendels"
+    },
+    {
+      "id": 9,
+      "kelas": 11,
+      "materi": "Kolonialisme",
+      "pertanyaan": "Sistem Tanam Paksa (Cultuurstelsel) diusulkan oleh...",
+      "pilihan": ["Van Deventer", "Van den Bosch", "Douwes Dekker", "Baron van Hoevell", "Fransen van de Putte"],
+      "kunci_jawaban": "Van den Bosch"
+    },
+    {
+      "id": 10,
+      "kelas": 11,
+      "materi": "Pergerakan Nasional",
+      "pertanyaan": "Organisasi pergerakan nasional pertama di Indonesia adalah...",
+      "pilihan": ["Sarekat Islam", "Indische Partij", "Budi Utomo", "PNI", "Muhammadiyah"],
+      "kunci_jawaban": "Budi Utomo"
+    },
+    {
+      "id": 11,
+      "kelas": 11,
+      "materi": "Pergerakan Nasional",
+      "pertanyaan": "Tiga Tokoh (Tiga Serangkai) pendiri Indische Partij adalah...",
+      "pilihan": ["Soekarno, Hatta, Syahrir", "Douwes Dekker, Cipto Mangunkusumo, Ki Hajar Dewantara", "Ahmad Dahlan, Hasyim Asyari, Agus Salim", "Sutomo, Wahidin, Gunawan", "Semaun, Darsono, Alimin"],
+      "kunci_jawaban": "Douwes Dekker, Cipto Mangunkusumo, Ki Hajar Dewantara"
+    },
+    {
+      "id": 12,
+      "kelas": 11,
+      "materi": "Pendudukan Jepang",
+      "pertanyaan": "Organisasi militer bentukan Jepang yang bertujuan membela tanah air adalah...",
+      "pilihan": ["Seinedan", "Keibodan", "PETA", "Fujinkai", "Heiho"],
+      "kunci_jawaban": "PETA"
+    },
+    {
+      "id": 13,
+      "kelas": 11,
+      "materi": "Proklamasi",
+      "pertanyaan": "Peristiwa penculikan Soekarno-Hatta ke Rengasdengklok bertujuan untuk...",
+      "pilihan": ["Melindungi dari Sekutu", "Menjauhkan dari pengaruh Jepang", "Meminta bantuan militer", "Membatalkan proklamasi", "Menyerah kepada Jepang"],
+      "kunci_jawaban": "Menjauhkan dari pengaruh Jepang"
+    },
+    {
+      "id": 14,
+      "kelas": 11,
+      "materi": "Proklamasi",
+      "pertanyaan": "Tokoh yang mengetik teks Proklamasi adalah...",
+      "pilihan": ["Sayuti Melik", "Sukarni", "B.M. Diah", "Latif Hendraningrat", "Suwiryo"],
+      "kunci_jawaban": "Sayuti Melik"
+    },
+    {
+      "id": 15,
+      "kelas": 11,
+      "materi": "Perjuangan Diplomasi",
+      "pertanyaan": "Perjanjian yang mengakui kedaulatan RI secara de facto atas Jawa, Madura, dan Sumatera adalah...",
+      "pilihan": ["Linggajati", "Renville", "Roem-Royen", "KMB", "Bongaya"],
+      "kunci_jawaban": "Linggajati"
+    },
+    {
+      "id": 16,
+      "kelas": 11,
+      "materi": "Perjuangan Diplomasi",
+      "pertanyaan": "Hasil utama dari Konferensi Meja Bundar (KMB) tahun 1949 adalah...",
+      "pilihan": ["Pembentukan TNI", "Pengakuan kedaulatan Indonesia oleh Belanda", "Pemilihan Umum", "Kembalinya Irian Barat", "Pembubaran PKI"],
+      "kunci_jawaban": "Pengakuan kedaulatan Indonesia oleh Belanda"
+    },
+    {
+      "id": 17,
+      "kelas": 12,
+      "materi": "Disintegrasi Bangsa",
+      "pertanyaan": "Pemberontakan DI/TII di Jawa Barat dipimpin oleh...",
+      "pilihan": ["Amir Fatah", "Kahar Muzakkar", "Kartosuwiryo", "Andi Azis", "Soumokil"],
+      "kunci_jawaban": "Kartosuwiryo"
+    },
+    {
+      "id": 18,
+      "kelas": 12,
+      "materi": "Disintegrasi Bangsa",
+      "pertanyaan": "Gerakan APRA yang dipimpin Raymond Westerling terjadi di kota...",
+      "pilihan": ["Jakarta", "Surabaya", "Bandung", "Makassar", "Medan"],
+      "kunci_jawaban": "Bandung"
+    },
+    {
+      "id": 19,
+      "kelas": 12,
+      "materi": "Demokrasi Liberal",
+      "pertanyaan": "Sistem kabinet pada masa Demokrasi Liberal (1950-1959) adalah...",
+      "pilihan": ["Presidensial", "Parlementer", "Monarki", "Otokrasi", "Komunis"],
+      "kunci_jawaban": "Parlementer"
+    },
+    {
+      "id": 20,
+      "kelas": 12,
+      "materi": "Demokrasi Liberal",
+      "pertanyaan": "Prestasi internasional Indonesia pada masa Kabinet Ali Sastroamidjojo I adalah...",
+      "pilihan": ["Masuk PBB", "Menyelenggarakan KAA", "Deklarasi Djuanda", "Normalisasi hubungan dengan Malaysia", "Asean Games"],
+      "kunci_jawaban": "Menyelenggarakan KAA"
+    },
+    {
+      "id": 21,
+      "kelas": 12,
+      "materi": "Demokrasi Terpimpin",
+      "pertanyaan": "Dekrit Presiden 5 Juli 1959 menandai berlakunya kembali...",
+      "pilihan": ["UUDS 1950", "UUD 1945", "Konstitusi RIS", "Piagam Jakarta", "UUD 1945 Amandemen"],
+      "kunci_jawaban": "UUD 1945"
+    },
+    {
+      "id": 22,
+      "kelas": 12,
+      "materi": "Demokrasi Terpimpin",
+      "pertanyaan": "Konsep Nasakom yang dicetuskan Soekarno terdiri dari...",
+      "pilihan": ["Nasionalis, Agama, Komunis", "Nasionalis, Abangan, Komunis", "Negara, Agama, Komunal", "Nasionalis, Agama, Sosialis", "Nasionalis, Adat, Komunis"],
+      "kunci_jawaban": "Nasionalis, Agama, Komunis"
+    },
+    {
+      "id": 23,
+      "kelas": 12,
+      "materi": "Orde Baru",
+      "pertanyaan": "Surat perintah yang menjadi cikal bakal kekuasaan Orde Baru adalah...",
+      "pilihan": ["Supersemar", "Dekrit Presiden", "Tritura", "Dwikora", "Trikora"],
+      "kunci_jawaban": "Supersemar"
+    },
+    {
+      "id": 24,
+      "kelas": 12,
+      "materi": "Orde Baru",
+      "pertanyaan": "Kebijakan penyederhanaan partai politik tahun 1973 menghasilkan tiga kekuatan, yaitu...",
+      "pilihan": ["PNI, Masyumi, PKI", "PPP, PDI, Golkar", "Demokrat, PDIP, PKS", "Golkar, PAN, PKB", "NU, Muhammadiyah, Golkar"],
+      "kunci_jawaban": "PPP, PDI, Golkar"
+    },
+    {
+      "id": 25,
+      "kelas": 12,
+      "materi": "Reformasi",
+      "pertanyaan": "Penyebab utama jatuhnya pemerintahan Orde Baru pada tahun 1998 adalah...",
+      "pilihan": ["Krisis Moneter", "Invasi asing", "Perang saudara", "Gempa bumi", "Kemenangan oposisi di Pemilu"],
+      "kunci_jawaban": "Krisis Moneter"
+    },
+    {
+      "id": 26,
+      "kelas": 12,
+      "materi": "Reformasi",
+      "pertanyaan": "Presiden Indonesia yang dikenal sebagai Bapak Reformasi adalah...",
+      "pilihan": ["Soeharto", "B.J. Habibie", "Abdurrahman Wahid", "Megawati", "Susilo Bambang Yudhoyono"],
+      "kunci_jawaban": "B.J. Habibie"
+    },
+    {
+      "id": 27,
+      "kelas": 10,
+      "materi": "Pengantar Sejarah",
+      "pertanyaan": "Sejarah berasal dari kata 'Syajaratun' yang berarti...",
+      "pilihan": ["Masa lalu", "Pohon", "Sungai", "Rantai", "Akar"],
+      "kunci_jawaban": "Pohon"
+    },
+    {
+      "id": 28,
+      "kelas": 10,
+      "materi": "Hindu-Buddha",
+      "pertanyaan": "Candi Borobudur dibangun pada masa Dinasti...",
+      "pilihan": ["Sanjaya", "Syailendra", "Isyana", "Girindra", "Rajasa"],
+      "kunci_jawaban": "Syailendra"
+    },
+    {
+      "id": 29,
+      "kelas": 11,
+      "materi": "Perlawanan Bangsa",
+      "pertanyaan": "Pemimpin perlawanan rakyat Maluku terhadap Belanda pada tahun 1817 adalah...",
+      "pilihan": ["Pangeran Diponegoro", "Pattimura", "Imam Bonjol", "Sisingamangaraja", "Antasari"],
+      "kunci_jawaban": "Pattimura"
+    },
+    {
+      "id": 30,
+      "kelas": 11,
+      "materi": "Pergerakan Nasional",
+      "pertanyaan": "Teks Sumpah Pemuda dibacakan pada tanggal...",
+      "pilihan": ["17 Agustus 1945", "20 Mei 1908", "28 Oktober 1928", "1 Juni 1945", "10 November 1945"],
+      "kunci_jawaban": "28 Oktober 1928"
+    },
+    {
+      "id": 31,
+      "kelas": 11,
+      "materi": "Pendudukan Jepang",
+      "pertanyaan": "BPUPKI dibentuk oleh Jepang dengan tujuan...",
+      "pilihan": ["Memberi kemerdekaan langsung", "Mempelajari hal penting terkait kemerdekaan RI", "Melatih militer pemuda", "Menindas rakyat", "Membangun pabrik senjata"],
+      "kunci_jawaban": "Mempelajari hal penting terkait kemerdekaan RI"
+    },
+    {
+      "id": 32,
+      "kelas": 12,
+      "materi": "Disintegrasi",
+      "pertanyaan": "Tokoh Papua yang sangat setia kepada RI dan namanya diabadikan sebagai bandara adalah...",
+      "pilihan": ["Frans Kaisiepo", "Slamet Riyadi", "Ahmad Yani", "Kahar Muzakkar", "Daud Beureueh"],
+      "kunci_jawaban": "Frans Kaisiepo"
+    },
+    {
+      "id": 33,
+      "kelas": 12,
+      "materi": "Hubungan Internasional",
+      "pertanyaan": "Organisasi regional di Asia Tenggara yang didirikan pada 8 Agustus 1967 adalah...",
+      "pilihan": ["SEATO", "APEC", "ASEAN", "OPEC", "GNB"],
+      "kunci_jawaban": "ASEAN"
+    },
+    {
+      "id": 34,
+      "kelas": 11,
+      "materi": "Perang Dunia II",
+      "pertanyaan": "Jepang menyerah tanpa syarat kepada Sekutu setelah kota ini dibom atom...",
+      "pilihan": ["Tokyo & Osaka", "Hiroshima & Nagasaki", "Kyoto & Nara", "Hokkaido & Kobe", "Okinawa & Nagoya"],
+      "kunci_jawaban": "Hiroshima & Nagasaki"
+    },
+    {
+      "id": 35,
+      "kelas": 12,
+      "materi": "Politik Luar Negeri",
+      "pertanyaan": "Indonesia keluar dari PBB pada tahun 1965 sebagai bentuk protes terhadap...",
+      "pilihan": ["Dominasi AS", "Masuknya Malaysia sebagai anggota tidak tetap Dewan Keamanan", "Kekalahan di Olimpiade", "Bantuan ekonomi", "Agresi Belanda"],
+      "kunci_jawaban": "Masuknya Malaysia sebagai anggota tidak tetap Dewan Keamanan"
+    },
+    {
+      "id": 36,
+      "kelas": 10,
+      "materi": "Penyebaran Islam",
+      "pertanyaan": "Teori yang menyatakan Islam masuk ke Indonesia dibawa oleh pedagang dari India adalah...",
+      "pilihan": ["Teori Mekah", "Teori Persia", "Teori Gujarat", "Teori Cina", "Teori Maroko"],
+      "kunci_jawaban": "Teori Gujarat"
+    },
+    {
+      "id": 37,
+      "kelas": 11,
+      "materi": "Perlawanan Bangsa",
+      "pertanyaan": "Strategi Benteng Stelsel digunakan Belanda untuk memenangkan perang...",
+      "pilihan": ["Perang Padri", "Perang Diponegoro", "Perang Aceh", "Perang Jagaraga", "Perang Banjar"],
+      "kunci_jawaban": "Perang Diponegoro"
+    },
+    {
+      "id": 38,
+      "kelas": 12,
+      "materi": "Orde Baru",
+      "pertanyaan": "Tujuan utama program Transmigrasi pada masa Orde Baru adalah...",
+      "pilihan": ["Pemerataan penduduk", "Meningkatkan kecerdasan", "Membangun pabrik", "Memperluas wilayah", "Menambah jumlah tentara"],
+      "kunci_jawaban": "Pemerataan penduduk"
+    },
+    {
+      "id": 39,
+      "kelas": 12,
+      "materi": "Reformasi",
+      "pertanyaan": "Agenda utama reformasi 1998 adalah, kecuali...",
+      "pilihan": ["Adili Soeharto", "Amandemen UUD 1945", "Otonomi daerah seluas-luasnya", "Penghapusan Dwi Fungsi ABRI", "Pemberlakuan kembali UUDS 1950"],
+      "kunci_jawaban": "Pemberlakuan kembali UUDS 1950"
+    },
+    {
+      "id": 40,
+      "kelas": 12,
+      "materi": "Sejarah Kontemporer",
+      "pertanyaan": "Indonesia menjadi anggota tidak tetap Dewan Keamanan PBB terakhir kali pada periode...",
+      "pilihan": ["2010-2011", "2019-2020", "2000-2001", "1990-1991", "2025-2026"],
+      "kunci_jawaban": "2019-2020"
+    }
+  ]
+}
