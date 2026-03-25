@@ -1,0 +1,295 @@
+{
+  "judul": "Ujian Pendidikan Agama Islam 2026",
+  "total_soal": 35,
+  "soal_list": [
+    {
+      "no": 1,
+      "pertanyaan": "القرآن هو كلام الله بلفظه العربي، المنزل على النبي صلى الله عليه وسلم، ليفهم ويحفظ، والمنقول بالتواتر، والمكتوب في المصاحف، من الفاتحة إلى سورة الناس.\n\nPengertian Al-Qur’an tersebut merupakan pendapat...",
+      "pilihan": [
+        "Muhammad Ali Al-Shabuni",
+        "Syekh Muhammad Khudari Beik",
+        "Muhammad Abduh",
+        "Imam Jalaludin Al-Suyuthi",
+        "Muhammad Quraish Shihab"
+      ]
+    },
+    {
+      "no": 2,
+      "pertanyaan": "Al-Qur’an berasal dari bahasa Arab (qara’a–yaqrau-Qur’anan) yang memiliki arti...",
+      "pilihan": ["Gambaran", "Tulisan", "Bacaan", "Pedoman", "Ancaman"]
+    },
+    {
+      "no": 3,
+      "pertanyaan": "“Al-Qur’an ialah firman Allah yang diturunkan kepada Nabi Muhammad Saw. untuk melemahkan pihak-pihak yang menantangnya, walaupun hanya dengan satu surat saja daripadanya”, pernyataan tersebut merupakan pendapat dari...",
+      "pilihan": [
+        "Muhammad Ali Al-Shabuni",
+        "Syekh Muhammad Khudari Beik",
+        "Muhammad Abduh",
+        "Imam Jalaludin Al-Suyuthi",
+        "Muhammad Quraish Shihab"
+      ]
+    },
+    {
+      "no": 4,
+      "pertanyaan": "نَزَلَ بِهِ الرُّوْحُ الْاَمِيْنُۙ. Firman Allah SWT tersebut terdapat dalam surat...",
+      "pilihan": [
+        "Al-Fill : 3",
+        "Al-Baqarah : 185",
+        "Al-Alaq : 5",
+        "Asy-Syuara : 193",
+        "An-Nisa : 3"
+      ]
+    },
+    {
+      "no": 5,
+      "pertanyaan": "نَزَلَ بِهِ الرُّوْحُ الْاَمِيْنُۙ. Ayat di samping memiliki arti...",
+      "pilihan": [
+        "Ia (Al-Qur’an) dibawa turun oleh Jibril",
+        "(Diturunkan) ke dalam hatimu (Nabi Muhammad) agar engkau menjadi salah seorang pemberi peringatan",
+        "(Diturunkan) dengan bahasa Arab yang jelas.",
+        "Sesungguhnya ia (Al-Qur’an) benar-benar diturunkan Tuhan semesta alam.",
+        "Sesungguhnya Tuhanmu, Dialah yang benar-benar Mahaperkasa lagi Maha Penyayang"
+      ]
+    },
+    {
+      "no": 6,
+      "pertanyaan": "لَقَدْ اَنْزَلْنَآ اِلَيْكُمْ كِتٰبًا فِيْهِ ذِكْرُكُمْۗ اَفَلَا تَعْقِلُوْنَ. Firman Allah SWT tersebut menjelaskan nama Al-Qur'an sebagai...",
+      "pilihan": ["Adz-Dzikr", "Al-Kitab", "Al-Huda", "Asy-Syfa", "Al-Tanzil"]
+    },
+    {
+      "no": 7,
+      "pertanyaan": "Pada masa Khalifah Abu Bakar Ash-Shiddiq terjadi perang melawan para nabi palsu, perang tersebut dinamakan dengan...",
+      "pilihan": ["Perang Badar", "Perang Yamamah", "Perang Khandaq", "Perang Mu’tah", "Perang Tabuk"]
+    },
+    {
+      "no": 8,
+      "pertanyaan": "Mushaf Al-Qur’an yang paling banyak digunakan di Indonesia adalah...",
+      "pilihan": ["Mushaf Kemenag RI", "Mushaf Bahriyah", "Mushaf Usmani", "Mushaf Umar", "Mushaf Ali"]
+    },
+    {
+      "no": 9,
+      "pertanyaan": "Berikut unsur-unsur hadits adalah, kecuali...",
+      "pilihan": ["Qauli", "Fi’li", "Mutawatir", "Taqriri", "Wasfi"]
+    },
+    {
+      "no": 10,
+      "pertanyaan": "“Hadits secara istilah adalah segala sesuatu yang disandarkan kepada Nabi Muhammad saw. yang berupa perkataan, perbuatan, ketetapan ataupun sifat”. Pengertian hadits tersebut termuat dalam kitab...",
+      "pilihan": [
+        "Kutubut Tis’ah",
+        "Kutubus Sittah",
+        "Taisir Musthalah Hadits",
+        "Muwatha’ Malik",
+        "Musnad Ahmad"
+      ]
+    },
+    {
+      "no": 11,
+      "pertanyaan": "Segala sesuatu disandarkan kepada sahabat dan tabi’in yang berupa perkataan dan perbuatan adalah pengertian dari...",
+      "pilihan": ["Sunnah", "Hadits", "Hadits Do’if", "Khabar", "Atsar"]
+    },
+    {
+      "no": 12,
+      "pertanyaan": "Segala sesuatu yang berasal dari Rasulullah SAW yang berupa perkataan, perbuatan, dan ketetapan yang bisa dijadikan dalil bagi hukum Syara adalah pengertian hadits menurut...",
+      "pilihan": ["Ulama Ushul", "Ulama Ahli Hadits", "Ulama Fiqih", "Ulama Tauhid", "Ulama Kontemporer"]
+    },
+    {
+      "no": 13,
+      "pertanyaan": "Suatu hadits dianggap shahih apabila sanadnya memenuhi lima syarat, kecuali...",
+      "pilihan": [
+        "Sanadnya Muttashil",
+        "Perawinya Adil",
+        "Perawinya Dhabit",
+        "Perawinya Wadhdha’",
+        "Matannya tidak janggal"
+      ]
+    },
+    {
+      "no": 14,
+      "pertanyaan": "Hadits yang tidak memenuhi syarat hadits sahih dan hasan, seperti sanad terputus atau perawi tidak dhabit, adalah pengertian dari hadits...",
+      "pilihan": ["Hadits Hasan", "Hadits Dhaif", "Hadits Maudhu’", "Hadits Ahad", "Hadits Shahih"]
+    },
+    {
+      "no": 15,
+      "pertanyaan": "Pembagian hadits berdasarkan jumlah perawinya dibagi menjadi 2 jenis, yaitu...",
+      "pilihan": [
+        "Hadits Hasan dan Hadits Ahad",
+        "Hadits Marfu dan Hadits Mutawatir",
+        "Hadits Marfu dan Hadits Maqthu’",
+        "Hadits Ahad dan Hadits Shahih",
+        "Hadits Mutawatir dan Hadits Ahad"
+      ]
+    },
+    {
+      "no": 16,
+      "pertanyaan": "Proses penciptaan manusia dimana sesuatu yang dapat bergantung di dinding rahim dinamakan...",
+      "pilihan": ["Mudgah", "Izlam", "‘Alaqah", "Nutfah", "Sulalah"]
+    },
+    {
+      "no": 17,
+      "pertanyaan": "Al-Qur’an surah Al-Mu’minun ayat 12-14 menceritakan tentang...",
+      "pilihan": [
+        "Proses penciptaan manusia",
+        "Manusia sebagai khalifah",
+        "Tujuan penciptaan manusia",
+        "Tugas manusia di muka bumi",
+        "Kebesaran Allah SWT"
+      ]
+    },
+    {
+      "no": 18,
+      "pertanyaan": "“Allah mengeluarkan kamu dari perut ibumu” merupakan potongan arti dari...",
+      "pilihan": [
+        "ثُمَّ جَعَلْنٰهُ نُطْفَة",
+        "وَاللّٰهُ اَخْرَجَكُمْ مِّنْۢ بُطُوْنِ اُمَّهٰتِكُمْ",
+        "وَّجَعَلَ لَكُمُ السَّمْعَ وَالْاَبْصَارَ وَالْاَفْـِٕدَةَۙ",
+        "اِنَّ فِيْ ذٰلِكَ لَاٰيٰتٍ لِّقَوْمٍ يُّؤْمِنُوْنَ",
+        "وَاللّٰهُ جَعَلَ لَكُمْ مِّنْۢ بُيُوْتِكُمْ سَكَ"
+      ]
+    },
+    {
+      "no": 19,
+      "pertanyaan": "Kandungan dari ayat berikut adalah: وَقَضٰى رَبُّكَ اَلَّا تَعْبُدُوْٓا اِلَّآ اِيَّاهُ وَبِالْوَالِدَيْنِ اِحْسٰنً",
+      "pilihan": [
+        "Perintah Allah SWT untuk bersyukur atas nikmat-Nya",
+        "Larangan berbuat baik kepada orang tua",
+        "Perintah birrul walidain dan larangan berbuat syirik",
+        "Perintah berbuat syirik dan birrul walidain",
+        "Perintah untuk memberi ASI kepada anak selama dua tahun"
+      ]
+    },
+    {
+      "no": 20,
+      "pertanyaan": "Jika orang tua melarang kita melakukan sesuatu yang kita sukai karena kasih sayang, sikap kita yang benar adalah...",
+      "pilihan": [
+        "Melakukan hal itu secara diam-diam.",
+        "Membangkang dan melawan",
+        "Mencoba memahami alasan mereka dan menaatinya dengan ikhlas.",
+        "Merajuk dan marah-marah",
+        "Menegurnya dengan nada tegas"
+      ]
+    },
+    {
+      "no": 21,
+      "pertanyaan": "وَالَّذِيْنَ اِذَآ اَنْفَقُوْا لَمْ يُسْرِفُوْا وَلَمْ يَقْتُرُوْا وَكَانَ بَيْنَ ذٰلِكَ قَوَامًا. Ayat tersebut merupakan dalil tentang perintah hidup sederhana yang terdapat dalam surah...",
+      "pilihan": [
+        "Al-Isra’ : 27",
+        "Al-Isra’ : 25",
+        "Al-Furqan : 25",
+        "Al-Furqan : 67",
+        "Al-Furqan : 76"
+      ]
+    },
+    {
+      "no": 22,
+      "pertanyaan": "لَمْ يُسْرِفُوْا. Potongan ayat ini memiliki arti...",
+      "pilihan": [
+        "Mereka tidak berlebihan",
+        "Mereka itu kikir",
+        "Dan orang-orang itu",
+        "Menghamburkan secara boros",
+        "Membelanjakan harta"
+      ]
+    },
+    {
+      "no": 23,
+      "pertanyaan": "Israf berasal dari bahasa Arab yang memiliki arti...",
+      "pilihan": ["Syirik", "Mubazir", "Kikir", "Sabar", "Saraf"]
+    },
+    {
+      "no": 24,
+      "pertanyaan": "Dalam sejarah Islam, orang yang ditenggelamkan oleh Allah SWT bersama hartanya pada zaman Nabi Musa adalah...",
+      "pilihan": ["Fir’aun", "Bilal", "Qarun", "Namrud", "Abu Lahab"]
+    },
+    {
+      "no": 25,
+      "pertanyaan": "Rasulullah SAW melarang manusia untuk tidak boros dalam hal menggunakan air ketika berwudhu. Perintah ini terkandung dalam hadits riwayat...",
+      "pilihan": ["Ahmad", "Bukhari dan Muslim", "Bukhari", "Muslim", "Abu Daud"]
+    },
+    {
+      "no": 26,
+      "pertanyaan": "Berikut tips agar kita bisa menghindari perilaku boros, kecuali...",
+      "pilihan": [
+        "Menghindari orang-orang yang berperilaku boros",
+        "Membiasakan bergaul dengan orang yang berperilaku sederhana",
+        "Menanamkan keimanan yang kuat agar tidak tergoda setan",
+        "Berfikir positif selalu mengingat mati",
+        "Hidup sederhana dan menahan selera"
+      ]
+    },
+    {
+      "no": 27,
+      "pertanyaan": "Arti dari penggalan ayat وَالصّٰبِرِيْنَ فِى الْبَأْسَاۤءِ وَالضَّرَّاۤءِ وَحِيْنَ الْبَأْسِۗ adalah...",
+      "pilihan": [
+        "Orang-orang yang sabar serta menempati janji",
+        "Orang-orang yang sabar dalam kesempitan",
+        "Orang-orang yang sabar adalah orang yang benar",
+        "Orang yang sabar ketika menderita",
+        "Orang-orang yang sabar dalam kehidupan"
+      ]
+    },
+    {
+      "no": 28,
+      "pertanyaan": "Metode bil hikmah dalam berdakwah memiliki arti...",
+      "pilihan": [
+        "Dakwah dengan semangat yang berapi-api",
+        "Dakwah dengan cara yang arif dan bijaksana",
+        "Dakwah dengan cara berdebat",
+        "Dakwah dengan cara diskusi",
+        "Dakwah dengan menggunakan gawai"
+      ]
+    },
+    {
+      "no": 29,
+      "pertanyaan": "Etika dalam berdakwah perlu diperhatikan agar tidak terjadi kesalahpahaman, diantaranya...",
+      "pilihan": [
+        "Berkata yang baik",
+        "Memperlakukan objek dengan baik",
+        "Berkata yang sopan",
+        "Menggunakan bahasa lingkungan",
+        "Menggunakan pemisalan yang menjatuhkan"
+      ]
+    },
+    {
+      "no": 30,
+      "pertanyaan": "Perbuatan yang apabila umat Islam senantiasa melakukannya akan mempengaruhi kemuliaan Islam adalah...",
+      "pilihan": ["Radikalisme", "Amar Makruf Nahi Mungkar", "Fanatisme", "Toleransi", "Rendah Diri"]
+    },
+    {
+      "no": 31,
+      "pertanyaan": "Perbuatan yang mengantarkan kepada zina diantaranya, kecuali...",
+      "pilihan": [
+        "Memandang wanita yang tidak halal baginya",
+        "Menyentuh seseorang yang bukan mahram",
+        "Berduaan di tempat sepi",
+        "Pacaran Syariah",
+        "Beribadah"
+      ]
+    },
+    {
+      "no": 32,
+      "pertanyaan": "Berterima kasih atas nikmat yang diberikan Allah SWT kepada kita adalah bentuk sikap...",
+      "pilihan": ["Pemaaf", "Bersyukur", "Cinta kasih", "Meminta rezeki", "Pemimpin"]
+    },
+    {
+      "no": 33,
+      "pertanyaan": "Lafaz hamdalah ketika mendapatkan nikmat merupakan bentuk syukur dengan...",
+      "pilihan": ["Ilmu", "Hati", "Lisan", "Anggota Tubuh", "Senyum"]
+    },
+    {
+      "no": 34,
+      "pertanyaan": "Hukum makanan yang lezat tetapi dapat membahayakan kesehatan adalah...",
+      "pilihan": ["Halal", "Makruh", "Haram", "Mubah", "Sunah"]
+    },
+    {
+      "no": 35,
+      "pertanyaan": "Berikut pengertian makanan yang halal adalah...",
+      "pilihan": [
+        "Makanan yang enak tetapi tidak bergizi",
+        "Makanan yang dinyatakan halal dalam Al-Qur’an",
+        "Makanan yang dibeli di restoran terkenal",
+        "Makanan Bergizi Gratis (MBG)",
+        "Makanan yang ditraktir teman"
+      ]
+    }
+  ]
+}
