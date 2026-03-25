@@ -1,0 +1,320 @@
+{
+  "judul": "Ujian PJOK 2026",
+  "total_soal": 40,
+  "soal_list": [
+    {
+      "no": 1,
+      "pertanyaan": "Tujuan utama dalam permainan sepak bola yaitu ....",
+      "pilihan": [
+        "Menghibur penonton",
+        "Berusaha merebut bola dari lawan",
+        "Menguasai bola selama-lamanya",
+        "Memasukan bola ke gawang lawan serta mempertahankan gawang sendiri",
+        "Menjaga sportivitas antar pemain"
+      ]
+    },
+    {
+      "no": 2,
+      "pertanyaan": "Berikut ini yang merupakan salah satu teknik dasar dalam bermain sepak bola adalah ....",
+      "pilihan": [
+        "Menghentikan bola",
+        "Membuang bola",
+        "Menarik bola",
+        "Melempar bola",
+        "Memukul bola"
+      ]
+    },
+    {
+      "no": 3,
+      "pertanyaan": "Teknik menendang bola untuk mengumpan kepada teman yang posisi dekat lebih baik menggunakan ....",
+      "pilihan": [
+        "Tumit",
+        "Kaki bagian luar",
+        "Kaki bagian dalam",
+        "Punggung kaki",
+        "Ujung jari kaki"
+      ]
+    },
+    {
+      "no": 4,
+      "pertanyaan": "Mengarahkan bola yang melayang di udara dengan menggunakan kepala disebut teknik ....",
+      "pilihan": [
+        "Passing",
+        "Heading",
+        "Dribbling",
+        "Shooting",
+        "Intercepting"
+      ]
+    },
+    {
+      "no": 5,
+      "pertanyaan": "Posisi perkenaan bola yang benar dalam teknik menyundul bola (heading) adalah ....",
+      "pilihan": [
+        "Kepala bagian depan (kening)",
+        "Kepala bagian tengah",
+        "Kepala bagian samping",
+        "Kepala bagian belakang",
+        "Ubun-ubun kepala"
+      ]
+    },
+    {
+      "no": 6,
+      "pertanyaan": "Pada awal penemuannya, olahraga permainan bola voli dinamakan ....",
+      "pilihan": [
+        "Battledores",
+        "Mintonette",
+        "Soccer",
+        "Tenez",
+        "Basketball"
+      ]
+    },
+    {
+      "no": 7,
+      "pertanyaan": "Jumlah pemain dalam satu tim pada permainan bola voli adalah .... orang.",
+      "pilihan": ["Lima", "Enam", "Tujuh", "Delapan", "Sebelas"]
+    },
+    {
+      "no": 8,
+      "pertanyaan": "Pukulan pertama untuk memulai permainan bola voli yaitu pukulan ....",
+      "pilihan": [
+        "Passing atas",
+        "Smash",
+        "Servis",
+        "Passing bawah",
+        "Blocking"
+      ]
+    },
+    {
+      "no": 9,
+      "pertanyaan": "Benteng pertahanan yang utama untuk menangkis serangan lawan pada permainan bola voli adalah ....",
+      "pilihan": ["Servis", "Smash", "Passing", "Blocking", "Set-up"]
+    },
+    {
+      "no": 10,
+      "pertanyaan": "Smash merupakan salah satu keterampilan dalam permainan bola voli yang dimaksudkan untuk ....",
+      "pilihan": [
+        "Menyerang",
+        "Bertahan",
+        "Melempar bola",
+        "Menerima bola",
+        "Membuang waktu"
+      ]
+    },
+    {
+      "no": 11,
+      "pertanyaan": "Perkembangan dari olahraga sejenis baseball atau hardball yaitu ....",
+      "pilihan": ["Basketball", "Softball", "Tenis", "Volleyball", "Badminton"]
+    },
+    {
+      "no": 12,
+      "pertanyaan": "Lamanya waktu bermain softball ditentukan oleh ....",
+      "pilihan": ["Menit", "Inning", "Ronde", "Quarter", "Set"]
+    },
+    {
+      "no": 13,
+      "pertanyaan": "Pukulan yang dilakukan tanpa menggunakan ayunan lengan pada softball disebut ....",
+      "pilihan": ["Bunt", "Full swing", "Full", "Swing", "Home run"]
+    },
+    {
+      "no": 14,
+      "pertanyaan": "Pantulan bola hasil pukulan tumbuk (bunt) yang benar pada permainan softball adalah ....",
+      "pilihan": [
+        "Atas kepala",
+        "Atas bahu",
+        "Depan badan",
+        "Belakang badan",
+        "Samping kiri badan"
+      ]
+    },
+    {
+      "no": 15,
+      "pertanyaan": "Nama lain dari permainan tenis meja adalah ....",
+      "pilihan": ["Softball", "Pingpong", "Football", "Soccer", "Badminton"]
+    },
+    {
+      "no": 16,
+      "pertanyaan": "Teknik memegang bet tenis meja seperti menjabat tangan dinamakan ....",
+      "pilihan": [
+        "Combination grip",
+        "Shakehand grip",
+        "Penhold grip",
+        "American grip",
+        "Seemiller grip"
+      ]
+    },
+    {
+      "no": 17,
+      "pertanyaan": "Berikut ini yang bukan merupakan teknik memegang bet tenis meja adalah ....",
+      "pilihan": [
+        "Shakehands grip",
+        "Penholder grip",
+        "Seemiller grip",
+        "Cut grip",
+        "V-grip"
+      ]
+    },
+    {
+      "no": 18,
+      "pertanyaan": "Dalam tenis meja, teknik gerakan kaki disebut dengan istilah ....",
+      "pilihan": ["Forehand", "Blok", "Drive", "Footwork", "Spin"]
+    },
+    {
+      "no": 19,
+      "pertanyaan": "Karakteristik olahraga atletik adalah gerakan dasar dari ....",
+      "pilihan": [
+        "Permainan bola",
+        "Permainan otot seperti balet",
+        "Aktivitas sehari-hari seperti lari, lompat, dan lempar",
+        "Melakukan aktivitas seperti memancing",
+        "Gerakan beladiri"
+      ]
+    },
+    {
+      "no": 20,
+      "pertanyaan": "Di bawah ini adalah nomor-nomor cabang atletik, kecuali ....",
+      "pilihan": ["Jalan", "Lompat", "Lempar", "Merayap", "Lari"]
+    },
+    {
+      "no": 21,
+      "pertanyaan": "Start yang digunakan oleh pelari jarak pendek (sprint) adalah ....",
+      "pilihan": [
+        "Start berdiri",
+        "Start melayang",
+        "Start jongkok",
+        "Start duduk",
+        "Start lari"
+      ]
+    },
+    {
+      "no": 22,
+      "pertanyaan": "Induk organisasi atletik di Indonesia adalah ....",
+      "pilihan": ["PSSI", "PASI", "PBVSI", "PERBASI", "PERTINA"]
+    },
+    {
+      "no": 23,
+      "pertanyaan": "Nomor lari jarak menengah adalah ....",
+      "pilihan": ["100 meter", "200 meter", "400 meter", "800 meter", "60 meter"]
+    },
+    {
+      "no": 24,
+      "pertanyaan": "Alat yang digunakan sebagai pembatas dalam lompat tinggi disebut ....",
+      "pilihan": ["Galah", "Mistar", "Matras", "Balok tumpuan", "Pita ukur"]
+    },
+    {
+      "no": 25,
+      "pertanyaan": "Seni bela diri asli yang berasal dari Indonesia adalah ....",
+      "pilihan": ["Karate", "Taekwondo", "Pencak Silat", "Judo", "Kungfu"]
+    },
+    {
+      "no": 26,
+      "pertanyaan": "Dalam pencak silat, sasaran utama untuk mendapatkan poin adalah ....",
+      "pilihan": ["Kepala", "Leher", "Dada/Tungkai", "Punggung bawah", "Alat vital"]
+    },
+    {
+      "no": 27,
+      "pertanyaan": "Sikap dasar dalam pencak silat untuk memulai serangan atau belaan disebut ....",
+      "pilihan": ["Sikap pasang", "Kuda-kuda", "Tangkisan", "Elakan", "Pukulan"]
+    },
+    {
+      "no": 28,
+      "pertanyaan": "Kemampuan tubuh untuk melakukan aktivitas tanpa mengalami kelelahan yang berarti disebut ....",
+      "pilihan": [
+        "Kekuatan",
+        "Kelenturan",
+        "Kebugaran jasmani",
+        "Keseimbangan",
+        "Kecepatan"
+      ]
+    },
+    {
+      "no": 29,
+      "pertanyaan": "Latihan sit-up bertujuan untuk melatih kekuatan otot ....",
+      "pilihan": ["Lengan", "Kaki", "Perut", "Punggung", "Leher"]
+    },
+    {
+      "no": 30,
+      "pertanyaan": "Push-up merupakan jenis latihan untuk melatih kekuatan otot ....",
+      "pilihan": [
+        "Perut dan pinggang",
+        "Lengan dan dada",
+        "Paha dan betis",
+        "Leher dan bahu",
+        "Punggung dan pantat"
+      ]
+    },
+    {
+      "no": 31,
+      "pertanyaan": "Induk organisasi bola basket internasional adalah ....",
+      "pilihan": ["FIFA", "FIBA", "FIVB", "BWF", "ITF"]
+    },
+    {
+      "no": 32,
+      "pertanyaan": "Tujuan utama dari senam irama adalah untuk mendapatkan ....",
+      "pilihan": [
+        "Kekuatan otot maksimal",
+        "Kelenturan dan keindahan gerak",
+        "Kecepatan lari",
+        "Tinggi loncatan",
+        "Berat badan ideal"
+      ]
+    },
+    {
+      "no": 33,
+      "pertanyaan": "Gaya renang yang posisi dadanya menghadap ke permukaan air disebut gaya ....",
+      "pilihan": [
+        "Gaya punggung",
+        "Gaya bebas",
+        "Gaya kupu-kupu",
+        "Gaya dada (katak)",
+        "Gaya miring"
+      ]
+    },
+    {
+      "no": 34,
+      "pertanyaan": "Pertolongan pertama pada kecelakaan sering disingkat dengan istilah ....",
+      "pilihan": ["P3K", "UKS", "PMR", "SAR", "IGD"]
+    },
+    {
+      "no": 35,
+      "pertanyaan": "Zat dalam rokok yang menyebabkan ketagihan atau adiksi adalah ....",
+      "pilihan": ["Tar", "Karbon monoksida", "Nikotin", "Oksigen", "Hidrogen"]
+    },
+    {
+      "no": 36,
+      "pertanyaan": "Penyakit menular seksual yang menyerang sistem kekebalan tubuh manusia adalah ....",
+      "pilihan": ["Influenza", "TBC", "HIV/AIDS", "Diabetes", "Asma"]
+    },
+    {
+      "no": 37,
+      "pertanyaan": "Jumlah pemain dalam permainan bola basket adalah .... orang per tim.",
+      "pilihan": ["4", "5", "6", "7", "11"]
+    },
+    {
+      "no": 38,
+      "pertanyaan": "Dalam permainan basket, memasukkan bola ke ring dari luar garis pinalti bernilai .... poin.",
+      "pilihan": ["1", "2", "3", "4", "5"]
+    },
+    {
+      "no": 39,
+      "pertanyaan": "Istilah \"home run\" terdapat dalam olahraga ....",
+      "pilihan": [
+        "Kasti/Softball",
+        "Sepak bola",
+        "Bola voli",
+        "Bulu tangkis",
+        "Renang"
+      ]
+    },
+    {
+      "no": 40,
+      "pertanyaan": "Gerakan guling ke depan dalam senam lantai disebut juga dengan istilah ....",
+      "pilihan": [
+        "Back roll",
+        "Forward roll",
+        "Handstand",
+        "Kopstand",
+        "Tiger sprong"
+      ]
+    }
+  ]
+}
