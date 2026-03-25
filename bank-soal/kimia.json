@@ -1,0 +1,186 @@
+{
+  "judul": "Ujian Tengah Semester Kimia 2026",
+  "total_soal": 30,
+  "soal_list": [
+    {
+      "no": 1,
+      "pertanyaan": "Bentuklah persamaan reaksi Transesterifikasi Trigliserida (Minyak Nabati) dari Trigliserida + metanol menghasilkan Katalis Biodiesel (Metil Ester) + Gliserin:",
+      "pilihan": [
+        "RCOO-CH + 2CH2OH menghasilkan RCOO3-CH1 2RCOOCH2 + Gliserin",
+        "RCOO-CH + 2CH2OH menghasilkan RCOO-CH1 2RCOOCH2 + Gliserin",
+        "RCOO-CH + 3CH3OH menghasilkan RCOO-CH2 + 3RCOOCH3 + Gliserin",
+        "RCOO-CH + 3CH3OH menghasilkan RCOO4-CH2 + 3RCOOCH3 + Gliserin",
+        "RCOO-CH + 2CH3OH menghasilkan RCOO-CH2 + 2RCOOCH3 + Gliserin"
+      ]
+    },
+    {
+      "no": 2,
+      "pertanyaan": "Atom Na mempunyai nomor atom 11 dan nomor massa 23. Jumlah neutron yang dimiliki oleh atom tersebut adalah...",
+      "pilihan": ["12", "31", "11", "23", "19"]
+    },
+    {
+      "no": 3,
+      "pertanyaan": "Setarakan persamaan reaksi fotosintesis berikut: 6CO2 (g) + 6H2O (l) → ...",
+      "pilihan": [
+        "6CO2 (g) + 6H2O (l)",
+        "C6H12O6 (s) + O2 (g)",
+        "1C6H12O6 (s) + 6O2 (g)",
+        "1 C6H12O6 (s)",
+        "6CO2 (g) + 6H2O (l)"
+      ]
+    },
+    {
+      "no": 4,
+      "pertanyaan": "Jika diketahui Ar H = 1 dan Ar O = 16, berapa massa dari 2 mol H2O?",
+      "pilihan": ["32 gram", "33 gram", "34 gram", "35 gram", "36 gram"]
+    },
+    {
+      "no": 5,
+      "pertanyaan": "Pada reaksi pembentukan uap air: 2H2(g) + O2(g) → 2H2O(g). Jika volume gas H2 adalah 10 liter, maka volume gas O2 pada tekanan dan suhu yang sama adalah...",
+      "pilihan": ["5 Liter", "10 Liter", "15 Liter", "20 Liter", "25 Liter"]
+    },
+    {
+      "no": 6,
+      "pertanyaan": "Konfigurasi elektron yang paling tepat dari unsur 39K19 adalah...",
+      "pilihan": [
+        "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d1",
+        "1s2 2s2 2p6 3s2 3p6 4s1",
+        "1s2 2s2 2p6 3s2 3p6 4d2",
+        "1s2 2s2 2p6 3s2 3p6 3d5",
+        "1s2 2s2 2p6 3s2 3p6"
+      ]
+    },
+    {
+      "no": 7,
+      "pertanyaan": "Unsur kalium mempunyai nomor atom 19, berapakah elektron valensi pada kalium tersebut?",
+      "pilihan": ["5", "4", "3", "2", "1"]
+    },
+    {
+      "no": 8,
+      "pertanyaan": "Atom dari unsur yang berbeda (nomor atom Z berbeda) tetapi memiliki jumlah neutron yang sama disebut...",
+      "pilihan": ["Isoton", "Isotop", "Isobar", "Atom Rutherford", "Atom Dalton"]
+    },
+    {
+      "no": 9,
+      "pertanyaan": "Manakah persamaan reaksi yang benar untuk pembakaran metana?",
+      "pilihan": [
+        "CH4 + 2O2 → CO2 + 2H2O",
+        "C10H8 + 12O2 → 10CO2 + 4H2O",
+        "CH2 + Br2 → CBr2 + 2H2",
+        "Fe + S → FeS",
+        "NaCl + H2O → NaH2 + ClO2"
+      ]
+    },
+    {
+      "no": 10,
+      "pertanyaan": "Reaksi antara Perak Nitrat dengan zat apa yang menghasilkan endapan perak klorida berwarna putih?",
+      "pilihan": ["Natrium Karbonat", "Natrium Aluminat", "Natrium Klorida", "Natrium Asetat", "Natrium Bikarbonat"]
+    },
+    {
+      "no": 11,
+      "pertanyaan": "Hidrokarbon berikut ini yang termasuk kelompok alkuna adalah...",
+      "pilihan": ["C8H14", "C7H14", "C8H16", "C8H18", "C7H16"]
+    },
+    {
+      "no": 12,
+      "pertanyaan": "Berilah nama senyawa berikut: CH3-CH(CH3)-CH(CH3)-CH2-CH3",
+      "pilihan": ["2,3 dimetil pentana", "2,3 dimetil pentuna", "2,3 dimetil heksana", "2,3 dimetil butuna", "2,3 trimetil heksana"]
+    },
+    {
+      "no": 13,
+      "pertanyaan": "Berilah nama senyawa berikut: CH3-C(CH3)2-CH3",
+      "pilihan": ["2,2 dimetil propana", "2,2 dimetil propena", "2,2 dimetil pentuna", "2,2 dimetil heksuna", "2,2 dimetil butena"]
+    },
+    {
+      "no": 14,
+      "pertanyaan": "Tekanan standar untuk perubahan entalpi standar adalah...",
+      "pilihan": ["5 atm", "4 atm", "3 atm", "2 atm", "1 atm"]
+    },
+    {
+      "no": 15,
+      "pertanyaan": "Diantara senyawa alkena berikut yang mempunyai titik didih tertinggi adalah...",
+      "pilihan": [
+        "Pentena",
+        "Etena",
+        "Propena",
+        "Heksena",
+        "Butena"
+      ]
+    },
+    {
+      "no": 16,
+      "pertanyaan": "Hitunglah pOH larutan NaCN 0,01 M jika diketahui Ka HCN = 10^-10:",
+      "pilihan": ["3", "11", "0,02", "9", "5"]
+    },
+    {
+      "no": 17,
+      "pertanyaan": "Dari beberapa larutan berikut ini yang tidak mengalami hidrolisis adalah...",
+      "pilihan": ["NH4Cl", "CH3COONa", "K2SO4", "CH3COONH4", "CH3COOH"]
+    },
+    {
+      "no": 18,
+      "pertanyaan": "Jenis asam yang dominan terdapat pada buah jeruk adalah...",
+      "pilihan": ["Asam askorbat", "Asam benzoat", "Asam sitrat", "Asam laktat", "Asam karbonat"]
+    },
+    {
+      "no": 19,
+      "pertanyaan": "Didalam 1L larutan terdapat 0,01 mol NH3 dan 0,02 mol NH4+. Jika Kb NH3 = 10^-5, hitunglah pH larutan tersebut:",
+      "pilihan": ["8 + log 5", "8 + log 4", "9 + log 0,5", "9 - log 2", "8 + log 2"]
+    },
+    {
+      "no": 20,
+      "pertanyaan": "Kondisi medis di mana pH darah terlalu rendah (asam) disebut dengan...",
+      "pilihan": ["Alkalosis", "Asosiasis", "Asidosis", "Alkamudialisis", "Asolisidasis"]
+    },
+    {
+      "no": 21,
+      "pertanyaan": "Hitung konsentrasi Molaritas larutan dari 2 gram NaOH (Mr=40) dalam 500 ml air:",
+      "pilihan": ["0,1 M", "0,2 M", "0,3 M", "0,4 M", "0,5 M"]
+    },
+    {
+      "no": 22,
+      "pertanyaan": "Hitung molalitas larutan apabila 24 gram MGSO4 dilarutkan dalam 400 gram air (Mr=120):",
+      "pilihan": ["0,4 molal", "0,5 molal", "0,6 molal", "0,7 molal", "0,8 molal"]
+    },
+    {
+      "no": 23,
+      "pertanyaan": "Hitung fraksi mol glukosa di dalam larutan glukosa 36% (Mr glukosa = 180, Mr air = 18):",
+      "pilihan": ["0,043", "0,052", "0,947", "0,053", "0,045"]
+    },
+    {
+      "no": 24,
+      "pertanyaan": "Sebanyak 3 gram urea (Mr=60) dilarutkan dalam 180 gram air. Jika P° air = 17 mmHg, hitung penurunan tekanan uap (ΔP):",
+      "pilihan": ["0,082 mmHg", "0,083 mmHg", "0,084 mmHg", "0,085 mmHg", "0,086 mmHg"]
+    },
+    {
+      "no": 25,
+      "pertanyaan": "Sebanyak 6 gram urea (Mr=60) dilarutkan dalam 200 gram air (Kf=1,86). Hitung penurunan titik beku (ΔTf):",
+      "pilihan": ["0,53 °C", "0,63 °C", "0,73 °C", "0,83 °C", "0,93 °C"]
+    },
+    {
+      "no": 26,
+      "pertanyaan": "Senyawa nitrat yang terdapat di dalam tanah dan perairan adalah...",
+      "pilihan": ["NO2-", "NO3-", "NH4+", "(NO)3", "NO2"]
+    },
+    {
+      "no": 27,
+      "pertanyaan": "Gas N2 di udara dapat ditangkap (fiksasi) oleh bakteri...",
+      "pilihan": ["Amonia", "Amonium", "Rhizobium", "Nitrit", "Nitrat"]
+    },
+    {
+      "no": 28,
+      "pertanyaan": "Fiksasi N2 oleh bakteri akan mengubah molekul tersebut menjadi asam...",
+      "pilihan": ["Traumalin", "Absisat", "Karbonat", "Amino", "Amonium"]
+    },
+    {
+      "no": 29,
+      "pertanyaan": "Gas tidak berwarna, berbau khas menyengat, dan beracun merupakan contoh dari sifat...",
+      "pilihan": ["Fisis", "Kimia", "Buatan", "Kimiawi", "Pembuatan Kimia"]
+    },
+    {
+      "no": 30,
+      "pertanyaan": "Sifat kimia nitrogen pada suhu tinggi dapat bereaksi dengan unsur...",
+      "pilihan": ["Nonlogam", "Logam", "Alkali Tanah", "Alkali", "Logam Litium"]
+    }
+  ]
+}
