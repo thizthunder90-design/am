@@ -5,12 +5,21 @@ const DAFTAR_TOKEN = {
  "matematika": "2B12C3",
  "biologi": "4C4V56",
  "sosiologi": "9AS999",
-"kimia": "3D3JKM",
-"sejarah": "POIU67",
+"seni": "POU234",
 "bindo": "ASXCV2",
-"alquran": "8S876A",
 "pjok": "876TY7",
-
+"sejarah": "POIU67",
+"alquran": "8S876A",
+"kimia": "3D3JKM",
+"bing": "5TSDFE",
+"aa": "FGFTE5",
+"fiqih": "12ASDAS",
+"ski": "6T66KK",
+"si": "343DSD",
+"barab": "ZXDE45",
+"geo": "SA898",
+"pkn": "9SS9JK",
+"pkw": "ASDSAK",
 
 };
 
