@@ -1,0 +1,325 @@
+{
+  "judul": "Ujian Bahasa Indonesia 2026",
+  "total_soal": 40,
+  "soal_list": [
+    {
+      "no": 1,
+      "pertanyaan": "Berikut ini yang bukan ciri umum dari teks laporan hasil observasi adalah…",
+      "pilihan": [
+        "Hasil dari laporan berisi informasi yang terbukti benar.",
+        "Fakta yang ditulis sesuai laporan hasil pengamatan.",
+        "Informasi berhubungan dengan antar kelas dan subkelas.",
+        "Objek tunggal adalah objek yang diteliti dan diamati.",
+        "Pemilihan objek pengamatan diharuskan berbentuk benda."
+      ]
+    },
+    {
+      "no": 2,
+      "pertanyaan": "Istilah keilmuan dalam teks laporan hasil observasi sering kali maknanya disampaikan secara implisit artinya…",
+      "pilihan": [
+        "Diungkapkan secara langsung dalam bentuk catatan kaki",
+        "Dinyatakan dengan symbol maupun tanda-tanda",
+        "Melekat jelas pada suatu kalimat maupun paragraph",
+        "Disampaikan secara tidak langsung atau terkandung di dalam kalimat",
+        "Tidak dinyatakan secara gambling agar pembaca mencari dari sumber lain"
+      ]
+    },
+    {
+      "no": 3,
+      "pertanyaan": "Informasi dalam teks laporan hasil observasi pada umumnya dapat menjawab akronim adiksimba, berikut ini yang bukan unsur adiksimba….",
+      "pilihan": ["Mengapa", "Bagaimana", "Dengan siapa", "Kapan", "Dimana"]
+    },
+    {
+      "no": 4,
+      "pertanyaan": "Struktur teks laporan hasil observasi yang berisi penjelasan secara detail tentang objek pengamatan adalah..",
+      "pilihan": ["Deskripsi bagian", "Pernyataan umum", "Deskripsi manfaat", "Kesimpulan", "Klasifikasi"]
+    },
+    {
+      "no": 5,
+      "pertanyaan": "Pada intinya, hidup berdampingan dengan media social mempunyai dampak yang baik dan buruk, namun,hal tersebut perlu kembalikan lagi kedirikita masing-masing. Penggunaan media social yang baik dan sesuai etika akan mendatangkan manfaat penggunanya .
+Sebaliknya, terlalu berlebihan menggunakan media sosialdan tidak dapat menggunakan media tersebut dengan baik tentu akan mendatangkan kerugian bagi penggunanya. Jadi, pentingnya bagi kita untuk meningkatkan kesadaran dalam bentuk bermedian social
+. Bacaan tersebut menempati posisi… Dalam teks laporan hasil observasi.",
+      "pilihan": ["Deskripsi umum", "Deskripsi bagian", "Deskripsi argument", "Kesimpulan", "Pendahuluan"]
+    },
+    {
+      "no": 6,
+      "pertanyaan": "Ide pokok dan penjelas mempunyai hubungan…",
+      "pilihan": ["Saling bertentangan", "Bertolak belakang", "Saling melengkapi", "Kontradiksi", "Saling bersebarangan"]
+    },
+    {
+      "no": 7,
+      "pertanyaan": "Salah satu alasan teks persuasi dibuat menarik adalah..",
+      "pilihan": [
+        "Agar pembaca serius tanpa ada reaksi apapun",
+        "Pembaca melakukan tindakan sesuai pesan didalam teks",
+        "Supaya dibicarakan banyak orang",
+        "Menjadikan seseorang yang awalnya tidak tahu menjadi tahu",
+        "Mendapat apresiasi dari berbagai bidang akademik"
+      ]
+    },
+    {
+      "no": 8,
+      "pertanyaan": "Bagian teks argumentasi ini harus dibuat keren supaya rasa penasaran pembaca timbul. Bagian yang dimaksud adalah…",
+      "pilihan": ["Pendahuluan", "Isi atau tubuh teks", "Penyampaian data dan fakta", "Opini dari penulis", "Penutup"]
+    },
+    {
+      "no": 9,
+      "pertanyaan": "Berikut yang termasuk karakteristik poster manual adalah..",
+      "pilihan": [
+        "Dikerjakan menggunakan computer atau laptop",
+        "Membutuhkan waktu yang lebih singkat",
+        "Mudah ditiru atau dijiplak",
+        "Pembuat dituntut untuk selalu teliti dan cermat",
+        "Tidak mempunyai kekhasan karya"
+      ]
+    },
+    {
+      "no": 10,
+      "pertanyaan": "Artikel dalam ensiklopedia digunakan sebagai sumber referensi untuk…",
+      "pilihan": ["Hiburan", "Penelitian", "Pemasaran", "Promosi", "Hobi"]
+    },
+    {
+      "no": 11,
+      "pertanyaan": "Sesuatu yang sungguh-sungguh terjadi disebut..",
+      "pilihan": ["Opini", "Fakta", "Gagasan", "Ide", "Pendapat"]
+    },
+    {
+      "no": 12,
+      "pertanyaan": "Kata penghubung yang dapat digunakan untuk mengembangkan paragraph argumentasi sebab akibat yaitu..",
+      "pilihan": ["Pada dasarnya, padahal", "Adalah, dengan, sebab itu", "Karena, oleh sebab itu", "Terlihat jelas, akibat", "Namun, menurut saya"]
+    },
+    {
+      "no": 13,
+      "pertanyaan": "Pernyataan berikut yang tidak tepat dalam penyampaian pendapat negosiasi adalah..",
+      "pilihan": [
+        "Menyampaikan dengan argumentasi yang benar",
+        "Menyampaikan dengan kalimat yang santun",
+        "Menyampaikan dengan ucapan yang kasar",
+        "Menyampaikan pendapat yang menyakinkan",
+        "Menyampaikan dengan kalimat menarik"
+      ]
+    },
+    {
+      "no": 14,
+      "pertanyaan": "Kutipan biografi Dr. Susiani Purbaningish DEA tersebut menonjolkan unsur..",
+      "pilihan": ["Biodata tokoh", "Keunikan tokoh", "Pendidikan tokoh", "Pekerjaan tokoh", "Keluarga tokoh"]
+    },
+    {
+      "no": 15,
+      "pertanyaan": " 'MENYESAL',
+Karya A. Hasyim,
+
+  Pagiku hilang sudah melayang,
+Hari  mudaku sudah pergi,
+Sekarang petang datang membayang,
+Batang usiaku sudah tinggi,
+Aku lalai di hari pagi,
+Beta lengah di masa muda, 
+Kini hidup meracuni hati, 
+Miskin ilmu miskin harta.
+ Kata 'petang' pada larik ketiga puisi 'Menyesal' mempunyai makna lambang…",
+      "pilihan": ["Waktu sore hari", "Kehidupan manusia", "Suasana senja", "Masa tua", "Perasaan manusia"]
+    },
+    {
+      "no": 16,
+      "pertanyaan": " 'MENYESAL',
+Karya A. Hasyim,
+
+  Pagiku hilang sudah melayang,
+Hari  mudaku sudah pergi,
+Sekarang petang datang membayang,
+Batang usiaku sudah tinggi,
+Aku lalai di hari pagi,
+Beta lengah di masa muda, 
+Kini hidup meracuni hati, 
+Miskin ilmu miskin harta.
+Maksud bait puisi 'Menyesal' tersebut adalah…",
+      "pilihan": [
+        "Seseorang yang lengah pada pagi hari",
+        "Seseorang yang menderita karena tidak memiliki ilmu",
+        "Seseorang yang miskin harta karena lupa waktu",
+        "Seseorang yang menyia-nyiakan masa muda sehingga menderita di masa tua",
+        "Seseorang yang melalaikan waktu masa muda"
+      ]
+    },
+    {
+      "no": 17,
+      "pertanyaan": " 'MENYESAL',
+Karya A. Hasyim,
+
+  Pagiku hilang sudah melayang,
+Hari  mudaku sudah pergi,
+Sekarang petang datang membayang,
+Batang usiaku sudah tinggi,
+Aku lalai di hari pagi,
+Beta lengah di masa muda, 
+Kini hidup meracuni hati, 
+Miskin ilmu miskin harta.
+Rima yang terkandung dalam puisi tersebut adalah..",
+      "pilihan": ["A-b-b-a dan a-b-a-b", "A-a-a-a dan b-b-b-b", "A-a-b-b dan b-b-a-a", "A-b-a-b dan a-a-b-b", "A-b-a-b dan b-a-b-a"]
+    },
+    {
+      "no": 18,
+      "pertanyaan": "Gagasan utama sebuah cerpen yang dapat dilihat secara langsung ataupun tersirat adalah..",
+      "pilihan": ["Tema", "Diksi", "Majas", "Kata konkret", "Amanat"]
+    },
+    {
+      "no": 19,
+      "pertanyaan": "Tampilan banyak atau sedikitnya kata, baris, tepi kanan dan kiri dalam sebuah puisi disebut…",
+      "pilihan": ["Diksi", "Tipografi", "Kata konkret", "Amanat", "Suasana"]
+    },
+    {
+      "no": 20,
+      "pertanyaan": "Berikut ini beberapa cara menemukan tema dan amanat dalam cerpen, kecuali..",
+      "pilihan": ["Membaca saksama", "Mencari biografi pengarang", "Mencatat informasi penting", "Menyimpulkan tema", "Membuat rangkuman"]
+    },
+    {
+      "no": 21,
+      "pertanyaan": "Kata drama berasal dari Bahasa Yunani, kata kerja 'dran' yang berarti…",
+      "pilihan": ["Bergerak", "Berbuat", "Berbicara", "Berdialog", "Berkumpul"]
+    },
+    {
+      "no": 22,
+      "pertanyaan": "Karangan yang menggambarkan kehidupan serta watak manusia dalam pertunjukan disebut…",
+      "pilihan": ["Puisi", "Prosa", "Novel", "Teks drama", "Cerpen"]
+    },
+    {
+      "no": 23,
+      "pertanyaan": "Untuk memahami makna puisi harus memperhatikan hal-hal berikut, kecuali…",
+      "pilihan": ["Tema", "Rima", "Suasana", "Memperhatikan kata dalam puisi", "Diksi"]
+    },
+    {
+      "no": 24,
+      "pertanyaan": "24.	(1) Daya ingat yang baik sangat diperlukan untuk menunjang aktivitas sehari-hari.
+(2) dapat dibayangkan bagaimana sebuah aktivitas akan berjalan dengan lancer jika selalu lupa apa yang harus dikerjakan
+(3) dalam proses belajar pun, daya ingat yang tajam sangat dibutuhkan
+(4) itulah sebabnya anda mesti berikhiar untuk meningkatkan daya ingat;setidaknya dengan mengonsumsi makanan empat sehat lima sempurna.
+Kalimat utama paragraf ditandai dengan nomor… ",
+      "pilihan": ["(1)", "(2)", "(3)", "(4)", "(2) dan (4)"]
+    },
+    {
+      "no": 25,
+      "pertanyaan": "Minuman beralkohol tidak baik bagi tubuh. Minuman tersebut dapat meningkatkan resikoterserangnya penyakit kanker dan stroke. Minuman beralkohol juga menyebabkan kerusakana pada jantung dan sel-sel otak. Lebih dari itu, zat-zat yang terkandung dalam minuman itu menyebabkan toksin bagi tubuh.
+ Gagasan utama paragraf tersebut adalah terletak pada kalimat..",
+      "pilihan": ["Pertama", "Kedua", "Ketiga", "Keempat", "Kelima"]
+    },
+    {
+      "no": 26,
+      "pertanyaan": "Mengatur waktu secara efektif sangat perlu bagi kita. Lebih-lebih kita sebagai pelajar SMA yang sebentar lagi menghadapi ujian nasional seharusnya perlu tekun melatih dan mencoba memanfaatkan waktu dengan baik. Agar tercapai kesinambungan perlu berbagai keterampilan manajemen. Dalam hal ini, diperlukan menejemen waktu yang bertujuan untuk mengusai Teknik menentukan prioritas kegiatan. Setelah itu, yang sangat penting adalah disiplin dalam mengerjakan tugas sesuai jadwal. Jadwal kegiatan yang dianggap sangat penting hendaknya mendapatkan porsi yang lebih disbanding dengan kegiatan lainnya.
+
+Pernyataan yang sesuai dengan isi wacana di atas adalah… ",
+      "pilihan": [
+        "Apakah yang disebut menejemen waktu?",
+        "Bagaimana cara mengatur waktu secara efektif?",
+        "Bagaimana cara memenfaatkan waktu luang?",
+        "Siapa yang perlu memanfaatkan waktu?",
+        "Kapan kita melakukan menejemen waktu?"
+      ]
+    },
+    {
+      "no": 27,
+      "pertanyaan": "Simpulan isi potongan wacana manajemen waktu yang tepat adalah..",
+      "pilihan": [
+        "Setiap orang perlu menejemen waktu",
+        "Pelajar SMA harus disiplin sesuai jadwal",
+        "Kegiatan penting harus sesuai menejemen",
+        "Perlu mengatur waktu efektif agar disiplin dan tahu prioritas",
+        "Jadwal penting mendapat porsi"
+      ]
+    },
+    {
+      "no": 28,
+      "pertanyaan": "Tokoh yang berperan sebagai penentang tokoh utama disebut…",
+      "pilihan": ["Protagonist", "Antagonis", "Figuran", "Tokoh utama", "Tritagonist"]
+    },
+    {
+      "no": 29,
+      "pertanyaan": "Struktur teks yang menjadi pengarah lakon drama adalah…",
+      "pilihan": ["Prolog", "Dialog", "Epilog", "Monolog", "Blog"]
+    },
+    {
+      "no": 30,
+      "pertanyaan": "Penjelasan narator mengenai latar belakang tokoh, waktu dan lokasi merupakan pembagian babak…",
+      "pilihan": ["Pertama", "Kedua", "Ketiga", "Keempat", "Kelima"]
+    },
+    {
+      "no": 31,
+      "pertanyaan": "Marah, resah ataupun gembira adalah contoh… dalam drama..",
+      "pilihan": ["Konflik", "Gesture", "Mimic", "Ekspresi", "Bahasa"]
+    },
+    {
+      "no": 32,
+      "pertanyaan": "Berfungsi menggerakan cerita dan melihat watak tokoh cerita adalah…",
+      "pilihan": ["Dialog", "Gesture", "Mimic", "Setting", "Penokohan"]
+    },
+    {
+      "no": 33,
+      "pertanyaan": "Kemudian mereka berdua pulang dengan membawa bibit timun yang diberikan oleh raksasa. Suasana hati mereka sangat senang sekali kala itu. Kemudian, pada keesokkan harinya mereka berdua pun lekas menanam bibit itu dan setiap harinya mereka menyiramnya serta memberi pupuk agar timun tersebut lekas tumbuh besar.
+Paragraf di atas dalam drama merupakan bagian..",
+      "pilihan": ["Prolog", "Epilog", "Anotasi", "Babak", "Dialog"]
+    },
+    {
+      "no": 34,
+      "pertanyaan": "Berikut yang bukan ciri-ciri kalimat langsung adalah..",
+      "pilihan": [
+        "Wajib menggunakan tanda baca titik dua(:) di depan kalimat dialog",
+        "Bertanda petik dalam Bahasa tertulis",
+        "Intonasi kutipan lebih tinggi",
+        "Intonasi mendatar dan menurun pada akhir kalimat",
+        "Bagian pengiring dipisah dengan tanda koma(,)"
+      ]
+    },
+    {
+      "no": 35,
+      "pertanyaan": "Ragam kalimat berita yang susunannya diubah oleh pembicara disebut kalimat..",
+      "pilihan": ["Tak langsung", "Efektif", "Perintah", "Introgatif", "Langsung"]
+    },
+    {
+      "no": 36,
+      "pertanyaan": "Dalam penulisan naskah drama, penulis dapat menggunakan cara dengan melakukan..",
+      "pilihan": [
+        "Mengamati gambar/peristiwa yang menyentuh perasaan",
+        "Mengumpulkan buku drama sebanyak-banyaknya",
+        "Membaca berbagai jenis puisi",
+        "Mengumpulkan dana pementasan",
+        "Berpartisipasi dalam pementasaan"
+      ]
+    },
+    {
+      "no": 37,
+      "pertanyaan": "Berita tentang penculikan anak kecil dan balita sempat membuat khawatir masyarakat terutama orang tua yang mempunyai anak kecil dan balita.
+Kata yang mengandung makna sama dengan bercetak miring pada teks di atas adalah..",
+      "pilihan": ["Takut, resah", "Gelisah, takut", "Resah, gelisah", "Was-was, takut", "Gelisah, was-was"]
+    },
+    {
+      "no": 38,
+      "pertanyaan": "38.	Alokasi anggaran untuk bidang pertahanan dan keamanan tahun ini dirasakan belum memadai bagi polri untuk memelihara keamanan dan ketertiban masyarakat.
+Kata yang dicetak miring dalam kaliamat tersebut memiliki makan..
+",
+      "pilihan": ["Penyiapan", "Penyediaan", "Pemenuhan", "Penjatahan", "Penetapan"]
+    },
+    {
+      "no": 39,
+      "pertanyaan": "Kata penghubung yang tepat untuk melengkapi kalimat tentang surat kabar tersebut adalah…",
+      "pilihan": [
+        "Ditulis, dibuat, siaran, penyiaran",
+        "Tertulis, membuat, penyiaran, siaran",
+        "Menulis, membuat, menyiarkan, penyiaran",
+        "Ditulis dibuat, disiarkan, siarkan",
+        "Tertulis, membuat, tersiar, siaran"
+      ]
+    },
+    {
+      "no": 40,
+      "pertanyaan": "40.	Kwalifikasi piala dunia akan segera dilaksanakan. Oleh sebab itu timnas spoyol segera memanggil dan menyusun jadual latihan untuk para pemain. Tim matador menunjukkan costa menjadi jendral lapangan
+Perbaikan kata bercetak miring (kwalifikasi, jadual, jendral) adalah…",
+      "pilihan": [
+        "Kualifikasi, jadwal, dan jenral",
+        "Kualifikasi, jaduwal, dan jenderal",
+        "Kuwalifikasi, jadual, dan jendral",
+        "Kualifikasi, jadwal, dan jenderal",
+        "Kualivikasi, jaduwal, dan jenderal"
+      ]
+    }
+  ]
+}
