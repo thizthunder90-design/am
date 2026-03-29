@@ -1,0 +1,254 @@
+{
+  "judul": "Ujian Akidah Akhlak SMA/MA",
+  "total_soal": 40,
+  "data": [
+    {
+      "id": 1,
+      "pertanyaan": "Allah tidak membutuhkan bantuan makhluk-makhlukNya karena Allah mempunyai sifat...",
+      "pilihan": ["Wujud", "Qiyamuhu Binafsihi", "Iradat", "Qidam", "Baqa’"]
+    },
+    {
+      "id": 2,
+      "pertanyaan": "Sifat jaiz hanya dimiliki oleh…",
+      "pilihan": ["Allah SWT", "Nabi Muhammad SAW", "Malaikat", "Jin", "Manusia"]
+    },
+    {
+      "id": 3,
+      "pertanyaan": "Ketika orang tua sudah meninggal dunia maka cara kita berbakti kepadanya adalah dengan cara berikut, kecuali…",
+      "pilihan": [
+        "Memandikan, mengkafani, menshalati, dan menguburnya",
+        "Melaksanakan wasiatnya (yang baik) jika berwasiat",
+        "Segera membagi warisan sebelum jenazahnya dikubur",
+        "Melunasi tanggungan atau hutang jika ada utang",
+        "Memohonkan ampunun untuk mereka"
+      ]
+    },
+    {
+      "id": 4,
+      "pertanyaan": "Sering siswa membeda-bedakan fungsi antara orangtua dan guru, padahal fungsi keduanya hampir sama. Di bawah ini adalah fungsi orangtua dan guru yang sama, kecuali…",
+      "pilihan": ["Mendidik dan mengajari", "Membina dan merawat", "Merawat sehingga ia mandiri", "Memberi makan untuk pertumbuhan", "Menjadi tempat mengadu"]
+    },
+    {
+      "id": 5,
+      "pertanyaan": "Nabi Yusuf as. adalah sosok yang istimewa. Disamping beliau adalah sosok yang tampan rupawan beliau juga bisa…",
+      "pilihan": ["Merubah tongkat menjadi ular", "Tidak bisa dibakar oleh api", "Menafsirkan mimpi dan sesuai kenyataan", "Membelah lautan untuk jalan", "Bisa menghidupkan orang yang sudah mati"]
+    },
+    {
+      "id": 6,
+      "pertanyaan": "Pembedaan perlakuan terhadap sesama warga Negara disebut dengan…",
+      "pilihan": ["Zalim", "Aniaya", "Licik", "Diskriminasi", "Tamak"]
+    },
+    {
+      "id": 7,
+      "pertanyaan": "Keinginan untuk memperoleh harta sebanyak-banyaknya disebut dengan…",
+      "pilihan": ["Zalim", "Aniaya", "Licik", "Diskriminasi", "Tamak"]
+    },
+    {
+      "id": 8,
+      "pertanyaan": "Berikut ini yang bukan merupakan bahaya atau dampak buruk terhadap pelaku zalim adalah…",
+      "pilihan": [
+        "Diampuni oleh Allah",
+        "Dibenci dan akan dikucilkan oleh masyarakat",
+        "Hidupnya akan galau dan risau karena dibayangi rasa cemas dan takut",
+        "Mencemarkan nama baik diri sendiri dan keluarga",
+        "Orang yang berbuat aniaya seperti merampok dan membunuh akan berurusan dengan hukum"
+      ]
+    },
+    {
+      "id": 9,
+      "pertanyaan": "Yang bukan menjadi latar belakang berkembangnya ilmu kalam adalah…",
+      "pilihan": ["Kreativitas para ulama", "Banyaknya perintah dalam Alquran untuk selalu berpikir", "Sepeninggal Rasulullah SAW mulainya terjadi perbedaan pendapat", "Masuknya pemikiran dari luar Islam", "Percampuran filsafat Yunani yang berkembang"]
+    },
+    {
+      "id": 10,
+      "pertanyaan": "Ciri-ciri kelompok khawarij adalah sebagai berikut, kecuali…",
+      "pilihan": [
+        "Mudah mengkafirkan orang yang bukan golongan mereka",
+        "Fanatik terhadap pemahaman mereka sendiri dan tak segan menggunakan kekerasan",
+        "Suka menyambung tali silaturahmi",
+        "Islam yang benar adalah yang mereka pahami dan amalkan, paham lainnya dianggap salah",
+        "Pemerintah yang tidak sepaham dengan mereka dianggap sesat"
+      ]
+    },
+    {
+      "id": 11,
+      "pertanyaan": "Aliran Qadariyah merupakan kebalikan dari aliran…",
+      "pilihan": ["Khawarij", "Syiah", "Jabariyah", "Qamariyah", "Qaddariyah"]
+    },
+    {
+      "id": 12,
+      "pertanyaan": "Dalam bahasa Alquran judi disebutkan dengan istilah…",
+      "pilihan": ["Al-Misr", "Al-Misra", "Al-Maisir", "Al-Maisara", "Al-Masru"]
+    },
+    {
+      "id": 13,
+      "pertanyaan": "Pernyataan berikut ini berhubungan dengan perbuatan merampok kecuali,…",
+      "pilihan": ["Merampok artinya memotong jalan atau menjegal", "Merampok sama halnya mengambil harta orang lain dengan cara paksa", "Merampok dilakukan dengan cara kekerasan", "Merampok termasuk perbuatan dosa besar", "Merampok dilakukan dengan ancaman senjata"]
+    },
+    {
+      "id": 14,
+      "pertanyaan": "Jika orangtua memerintahkan kemaksiatan atau kemusyrikan. Sikap yang tepat adalah…",
+      "pilihan": ["Menolak dengan santun dan lemah lembut", "Mentaati dengan sepenuhnya", "Membantah karena bertentangan dengan ajaran Islam", "Menolak dengan keras", "Membantah dan mengeluarkan kata-kata kasar"]
+    },
+    {
+      "id": 15,
+      "pertanyaan": "Akibat dari tindak pidana korupsi adalah…",
+      "pilihan": ["Dapat merugikan keuangan dan perekonomian Negara", "Dapat meningkatkan perekonomian Negara", "Dapat meningkatkan kesejahteraan rakyat", "Dapat menyenangkan hati rakyat"]
+    },
+    {
+      "id": 16,
+      "pertanyaan": "Berpakaian menurut Islam tidak sekedar sebagai kebutuhan dasar yang harus dipenuhi, melainkan tercatat sebagai…",
+      "pilihan": ["Amal kebajikan", "Amal ibadah", "Tradisi", "Gaya hidup", "Cara menunjukkan kekayaan"]
+    },
+    {
+      "id": 17,
+      "pertanyaan": "Pernyataan berikut benar terkait dengan tata cara berpakaian menurut Islam, kecuali…",
+      "pilihan": [
+        "Bagi perempuan seluruh tubuhnya adalah aurat kecuali muka dan telapak tangan",
+        "Bagi laki-laki bagian auratnya adalah pusar dan lutut",
+        "Pakaian harus tidak tembus pandang",
+        "Tidak menampakkan lekuk tubuh",
+        "Memakai pakaian kotor"
+      ]
+    },
+    {
+      "id": 18,
+      "pertanyaan": "Berdua antar pria dan wanita ditempat sepi disebut…",
+      "pilihan": ["Berkhutbah", "Berkhalwat", "Berta’aruf", "Bermahabbah", "Bersilaturahim"]
+    },
+    {
+      "id": 19,
+      "pertanyaan": "Berikut ini yang tidak termasuk dalam hal-hal penting yang perlu diperhatikan oleh remaja yaitu…",
+      "pilihan": ["Hati-hati dalam memilih teman", "Memerhatikan saran, nasehat dan kritik", "Tidak mencoba hal-hal yang negative", "Mendukung pergaulan bebas", "Menghindari hal-hal yang melanggar norma dan sosial"]
+    },
+    {
+      "id": 20,
+      "pertanyaan": "Masa remaja dianggap sebagai periode yang penting karena…",
+      "pilihan": ["Masa remaja merupakan masa yang kuat", "Perubahan pada remaja lebih banyak memengaruhi sikap dan prilaku remaja secara langsung", "Masa remaja adalah masa peralihan dari anak-anak", "Masa tersebut banyak terjadi hal-hal negative", "Keadaan emosi masih tidak stabil"]
+    },
+    {
+      "id": 21,
+      "pertanyaan": "Menghambur-hamburkan sesuatu yang tidak ada manfaatnya disebut…",
+      "pilihan": ["Tabzir", "Bakhil", "Kikir", "Ta’mil", "Tabsyir"]
+    },
+    {
+      "id": 22,
+      "pertanyaan": "Orang yang bersikap israf disebut…. ",
+      "pilihan": ["Musyrik", "Musrif", "Mughniy", "Mukallaf", "Mumayyiz"]
+    },
+    {
+      "id": 23,
+      "pertanyaan": "Qarun adalah salah satu orang yang kisahnya diabadikan oleh Allah Swt. Dalam Alquran. Qarun terkenal dengan….",
+      "pilihan": ["Kemunafikannya", "Kesalihannya", "Kesahajaannya", "Kedermawanannya", "Kekikirannya"]
+    },
+    {
+      "id": 24,
+      "pertanyaan": "“Allah akan membangkitkan penguasa zalim yang akan merenggut seluruh hartanya setelah menyiksanya terlebih dahulu”. Pernyataan tersebut salah satu tanda…",
+      "pilihan": ["Keberuntungan dalam agama Islam", "Kerugian bersifat bakhil", "Kerugian bersifat israf", "Jalan menuju ke syurga Firdaus", "Jalan menuju kebaikan dan kebajikan"]
+    },
+    {
+      "id": 25,
+      "pertanyaan": "Tahapan yang ditempuh oleh para sufi untuk lebih dekat dengan Allah Swt. disebut…",
+      "pilihan": ["Tasawwuf", "Ahwal", "Maqamat", "Tarekat", "Zuhud"]
+    },
+    {
+      "id": 26,
+      "pertanyaan": "Salah seorang sahabat yang ketika remaja memiliki jiwa gigih, tegas dan pemberani dalam membela kebenaran dan keadilan adalah…",
+      "pilihan": ["Ali bin Abi Thalib", "Hamzah bin Abdul Muthalib", "Muawiyah bin Abu Sofyan", "Bilal bin Rabbah", "Khalid bin Walid"]
+    },
+    {
+      "id": 27,
+      "pertanyaan": "Hukum melakukan Takziah ditempat tetangga yang jauh yaitu…",
+      "pilihan": ["Wajib", "Makruh", "Mubah", "Sunah", "Rukhsah"]
+    },
+    {
+      "id": 28,
+      "pertanyaan": "Berikut yang bukan merupakan hikmah takziah adalah…",
+      "pilihan": ["Mengurangi beban mental orang lain yang tertimp musibah", "Mempertebal kedekatan personal", "Meningkatkan ukhuwah islamiyyah", "Menyadarkan pada kematian", "Meningkatkan iman dan taqwa"]
+    },
+    {
+      "id": 29,
+      "pertanyaan": "Abdurrahman bin Auf membagikan hartanya kepada fakir miskin, orang yang membutuhkan dan kepada Ummahatul mukminin. Yang dimaksud Ummahatul Mukminin adalah…",
+      "pilihan": ["Para sahabat Rasulullah", "Para anak Rasulullah", "Para istri Rasulullah", "Para musuh Allah", "Orang-orang yang beriman"]
+    },
+    {
+      "id": 30,
+      "pertanyaan": "Abu Dzar al-Ghifari tumbuh dari keluarga…",
+      "pilihan": ["Muslim", "Kaya", "Perampok", "Pencuri", "Baik-baik"]
+    },
+    {
+      "id": 31,
+      "pertanyaan": "Arti kata Asmaul Husna Al-Karim adalah…",
+      "pilihan": ["Maha Mulia", "Maha Mengumpulkan", "Maha memberi manfaat", "Maha mewakili", "Maha kukuh"]
+    },
+    {
+      "id": 32,
+      "pertanyaan": "Di bawah ini yang tidak termasuk keutamaan mengamalkan Asmaul Husna adalah…",
+      "pilihan": [
+        "Menambah dan meningkatkan kualitas keimanan seseorang",
+        "Membina dan mengembangkan sikap tauhid secara benar",
+        "Meneguhkan keimanan seseorang kepada Allah Swt.",
+        "Mengantarkan seseorang untuk menyembah Allah Swt semata",
+        "Tidak memberikan pengaruh pada meningkatnya kemuliaan diri manusia"
+      ]
+    },
+    {
+      "id": 33,
+      "pertanyaan": "Nilai positif dari musawwah diantaranya…",
+      "pilihan": [
+        "Kekaguman pada orang lain",
+        "Senantiasa berteman dengan siapa saja",
+        "Memunculkan perasaan senasib seperjuangan",
+        "Suka menolong pada orang yang membutuhkan saja",
+        "Kebanggaan pada diri sendiri yang telah bisa bersikap egaliter"
+      ]
+    },
+    {
+      "id": 34,
+      "pertanyaan": "Hubungan persaudaraan antar umat muslim yang tidak memandang derajat atau kekuasaan, persaudaraan yang dibangun atas dasar iman dan taqwa disebut ukhuwwah…",
+      "pilihan": ["Basawiyyah", "Islamiyyah", "Basyariyyah", "Sultaniyah", "Wataniyyah"]
+    },
+    {
+      "id": 35,
+      "pertanyaan": "Pengertian Nifaq menurut istilah adalah…",
+      "pilihan": [
+        "Beramal kebaikan, tetapi kurang ikhlas",
+        "Beramal secara sembunyi-sembunyi untuk menghindari riya",
+        "Menampakkan keislaman dan kebaikan, tetapi menyembunyikan kekufuran kejahatan",
+        "Menampakkan kebaikan di hadapan orang lain agar dianggap orang baik",
+        "Menampakkan kekufuran dan kejahatan, tetapi menyembunyikan keislaman dan kebaikan"
+      ]
+    },
+    {
+      "id": 36,
+      "pertanyaan": "Orang yang sering mengerjakan kebaikan bahkan selalu senang jika berlomba-lomba dalam kebaikan dan amal saleh maka ia memiliki sifat…",
+      "pilihan": ["Pesismis", "Kompetitif", "Mekanis", "Statis", "Stagnan"]
+    },
+    {
+      "id": 37,
+      "pertanyaan": "Yang dimaksud dengan manusia sebagai makhluk sosial-dinamis adalah…",
+      "pilihan": ["Hidup berpindah-pindah", "Selalu dihadapkan dengan perubahan", "Banyak berbuat salah", "Suka berusaha dan pantang menyerah", "Berkemauan tinggi"]
+    },
+    {
+      "id": 38,
+      "pertanyaan": "Perbuatan tercela yang diibaratkan dengan makan daging saudaranya yang sudah meninggal adalah…",
+      "pilihan": ["Gadab", "Ghibah", "Ananiah", "Namimah", "Fitnah"]
+    },
+    {
+      "id": 39,
+      "pertanyaan": "Membuat orang lain saling bermusuhan dengan cara mengadu domba antara seseorang dengan orang lain disebut…",
+      "pilihan": ["Amanah", "Ananiah", "Namimah", "Hasad", "Fitnah"]
+    },
+    {
+      "id": 40,
+      "pertanyaan": "Hati yang kotor dan banyak maksiat akan menghalangi doa, karena itu jika ingin doa kita terkabul maka kita harus…",
+      "pilihan": [
+        "Banyak berwudhu",
+        "Membersihkan jiwa dan menjauhi maksiat",
+        "Rajin shalat tahajud",
+        "Mengurangi maksiat",
+        "Tetap terus berdoa"
+      ]
+    }
+  ]
+}
