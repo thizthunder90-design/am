@@ -1,0 +1,254 @@
+{
+  "judul": "Ujian Fiqih & Ushul Fiqih",
+  "total_soal": 40,
+  "data": [
+    {
+      "id": 1,
+      "pertanyaan": "Salah satu ruang lingkup dalam fiqih ialah mengatur tentang hukum-hukum keluarga yang disebut …",
+      "pilihan": ["Hablu minallah", "Hablu minannas", "Maqasyid as-syari’ah", "Al-ahwal asy-syakhshiyyah", "Al-‘amalu jariyah"]
+    },
+    {
+      "id": 2,
+      "pertanyaan": "Hukum mengurus jenazah adalah …",
+      "pilihan": ["Fardu’ain", "Sunah muakadah", "Sunah", "Fardu kifayah", "Makruh"]
+    },
+    {
+      "id": 3,
+      "pertanyaan": "Berikut adalah orang-orang yang diperbolehkan memandikan jenazah seorang perempuan, kecuali …",
+      "pilihan": ["Suaminya", "Adik kandungnya", "Tantenya", "Tetangga laki-laki", "Guru perempuan"]
+    },
+    {
+      "id": 4,
+      "pertanyaan": "Pak Ahmad memiliki domba sebanyak 50 ekor yang telah berumur dua tahun, maka zakat yang harus dikeluarkan Pak Ahmad adalah … ekor domba",
+      "pilihan": ["1", "2", "3", "4", "5"]
+    },
+    {
+      "id": 5,
+      "pertanyaan": "Pada umumnya jamaah haji dari Indonesia melaksanakan ibadah haji dengan cara …",
+      "pilihan": ["Perpaduan haji ifrad dan haji tamatuk", "Haji ifrad", "Haji tamatu’", "Haji qiran", "Haji plus"]
+    },
+    {
+      "id": 6,
+      "pertanyaan": "Denda / dam bagi jamaah haji yang melakukan haji tamattu’ dan qiran adalah …",
+      "pilihan": ["Menyembelih 7 ekor kambing", "Menyembelih 2 ekor unta", "Berpuasa 2 bulan berturut–turut", "Bersedekah pada fakir dan miskin", "Memotong seekor kambing"]
+    },
+    {
+      "id": 7,
+      "pertanyaan": "Penguasaan seseorang secara penuh terhadap materi dan manfaat harta, sehingga seluruh hak yang terkait dengan harta itu dibawah kekuasaannya disebut …",
+      "pilihan": ["Milkuttam", "Milqunnaqis", "Milkul’ain", "Milkud dain", "Ihrazul mubahat"]
+    },
+    {
+      "id": 8,
+      "pertanyaan": "Dibawah ini yang merupakan contoh dari at-tawalludu minal mamluk adalah …",
+      "pilihan": ["Berburu burung di hutan", "Menangkap ikan di laut", "Mengembang biakan telur menjadi ayam", "Menadahi air hujan menggunakan ember", "Mengambil buah mangga dari pohon tetangga"]
+    },
+    {
+      "id": 9,
+      "pertanyaan": "Berikut ini adalah jual beli sah tapi terlarang adalah …",
+      "pilihan": [
+        "Jual beli dengan harga sama dengan pasar",
+        "Jual beli rumah yang dimiliki sendiri",
+        "Menjual hewan yang disebutkan cacatnya kepada penjual",
+        "Menjual barang yang jelek kualitasnya",
+        "Jual beli yang melambungkan harga barang melebihi harga pasar"
+      ]
+    },
+    {
+      "id": 10,
+      "pertanyaan": "Memilih diantara dua alternatif, yaitu meneruskan jual belinya atau mengurungkannya disebut …",
+      "pilihan": ["Bai’", "Khiyar", "Musaqah", "Muzara’ah", "Mukhabarah"]
+    },
+    {
+      "id": 11,
+      "pertanyaan": "Dibawah ini termasuk syarat mauquf adalah …",
+      "pilihan": [
+        "Milik sah yang mewakafkan",
+        "Dilakukan sepengetahuan kedua belah pihak",
+        "Ada tanda bukti fisik",
+        "Dibuat akta notaris",
+        "Dilakukan atas kehendak sendiri"
+      ]
+    },
+    {
+      "id": 12,
+      "pertanyaan": "Riba yang dikenakan kepada orang yang akan berutang disebabkan memperhitungkan waktu yang ditangguhkan disebut …",
+      "pilihan": ["Riba yad", "Riba qardi", "Riba nasi’ah", "Az-zayidah", "Riba fadli"]
+    },
+    {
+      "id": 13,
+      "pertanyaan": "Pelaku pembunuhan tidak disengaja akan dihukum dengan …",
+      "pilihan": ["Di-qisas", "Penjara seumur hidup", "Membayar diyat mughalladzah", "Membayar diyat mukhaffafah", "Berpuasa dua bulan berturut-turut"]
+    },
+    {
+      "id": 14,
+      "pertanyaan": "Apabila kafarat berpuasa dua bulan berturut-turut tidak dapat dilakukan oleh pelaku pembunuhan karena faktor usia, maka dapat diganti dengan …",
+      "pilihan": ["Memberi uang", "Memberi makanan pokok", "Memberi makan kepada 60 orang miskin", "Salat sunnah", "Membayar zakat sebesar 2,5% dari hartanya"]
+    },
+    {
+      "id": 15,
+      "pertanyaan": "Kejahatan melukai orang lain yang dikenakan qisas adalah …",
+      "pilihan": [
+        "Melukai pada anggota tubuh wajah dan kepala",
+        "Melukai pada anggota tubuh telapak tangan",
+        "Membuat bekas luka dipergelangan tangan",
+        "Menginjak jempol kaki hingga retak",
+        "Membuat goresan dari mata kaki sampai lutut"
+      ]
+    },
+    {
+      "id": 16,
+      "pertanyaan": "Menurut fiqih islam kata hudud adalah bentuk jamak dari kata had yang berarti …",
+      "pilihan": ["Penghalang", "Pembatas", "Penutup", "Balasan", "Jawaban"]
+    },
+    {
+      "id": 17,
+      "pertanyaan": "Perbuatan zina yang dilakukan oleh orang yang sudah pernah menikah disebut zina …",
+      "pilihan": ["Ghairu muhsan", "Muhsan", "Qadzaf", "Li’an", "Missal"]
+    },
+    {
+      "id": 18,
+      "pertanyaan": "Perbuatan zina yang dilakukan oleh orang yang pernah menikah akan dikenai had berupa …",
+      "pilihan": [
+        "Dicambuk 100 kali",
+        "Pengasingan selama 1 tahun",
+        "Dirajam, yaitu dilempar batu sampai mati",
+        "Dihapus dari ahli waris",
+        "Membayar diyat dan kafarat"
+      ]
+    },
+    {
+      "id": 19,
+      "pertanyaan": "Para penyamun atau perampok maupun perompak yang bertobat sebelum tertangkap, umpamanya dengan menyerahkan diri, maka …",
+      "pilihan": [
+        "Gugurlah semua had",
+        "Korban tidak perlu memaafkan",
+        "Gugurlah had - had hak manusia",
+        "Gugurlah had – had yang merupakan hak Allah",
+        "Pelaku tetap terkena had hak Allah dan hak manusia"
+      ]
+    },
+    {
+      "id": 20,
+      "pertanyaan": "Suatu lembaga pemerintah atau negara yang ditugaskan untuk menyelesaikan atau menetapkan keputusan perkara dengan adil berdasarkan hukum yang berlaku disebut …",
+      "pilihan": ["Hakim", "Jaksa", "Mahkamah", "Peradilan", "Konstitusi"]
+    },
+    {
+      "id": 21,
+      "pertanyaan": "Orang yang memutuskan atau menyelesaikan perkara adalah …",
+      "pilihan": ["Muazin", "Qadhi", "Alquds", "Muqaddim", "Rezim"]
+    },
+    {
+      "id": 22,
+      "pertanyaan": "Sebaik baiknya saksi adalah …",
+      "pilihan": [
+        "Rakyat yang bersaksi untuk pemimpinya",
+        "Orang yang menyampaikan kesaksian sebelum diminta",
+        "Orang yang menyampaikan kesaksiannya karena diminta oleh pengacara",
+        "Orang tua yang menjadi saksi bagi anaknya",
+        "Anak yang menjadi saksi bagi orang tuanya"
+      ]
+    },
+    {
+      "id": 23,
+      "pertanyaan": "Berikut ini merupakan orang-orang yang haram untuk dinikahi karena memiliki hubungan darah, kecuali …",
+      "pilihan": ["Ibu kandung", "Adik kandung perempuan", "Saudara kandung ibu", "Anak perempuan tetangga", "Saudara perempuan sekandung"]
+    },
+    {
+      "id": 24,
+      "pertanyaan": "Seorang wanita dinikahi oleh lima orang, kemudian setelah hamil wanita tersebut memilih satu dari laki-laki yang menggaulinya untuk menjadi bapak dari anak yang dikandungnya. Pernikahan seperti ini disebut pernikahan …",
+      "pilihan": ["Raht", "Istibda’", "Badal", "Tahlil", "Mut’ah"]
+    },
+    {
+      "id": 25,
+      "pertanyaan": "Masa menunggu bagi wanita yang dicarai atau yang ditinggal mati oleh suaminya, dalam agama islam disebut …",
+      "pilihan": ["Talaq", "Khuluk", "Fasakh", "Iddah", "Hadanah"]
+    },
+    {
+      "id": 26,
+      "pertanyaan": "Bagi wanita yang ditinggal mati oleh suaminya dan masih mengandung seorang anak didalam perutnya, maka menunggu untuk menikah dengan laki laki lain adalah selama …",
+      "pilihan": ["3 bulan", "4 bulan 10 hari", "Sampai melahirkan", "9 bulan", "1 tahun"]
+    },
+    {
+      "id": 27,
+      "pertanyaan": "Thalak yang membolehkan suami untuk menginginkan kembali menjalin hubungan dengan istrinya disebut …",
+      "pilihan": ["Thalak ba’in", "Thalak ab’ad", "Thalak syighar", "Thalak raj’i", "Thalak mut’ah"]
+    },
+    {
+      "id": 28,
+      "pertanyaan": "Jika wali nasab tidak dapat mendampingi mempelai wanita saat akad, maka wali tersebut digantikan oleh …",
+      "pilihan": ["Saksi nikah", "Saudara laki-laki", "Ibu kandungnya", "Saudara tiri laki-laki", "Wali hakim"]
+    },
+    {
+      "id": 29,
+      "pertanyaan": "Lepasnya ikatan pernikahan dengan lafal tertentu adalah definisi…",
+      "pilihan": ["Fasakh", "Khuluk", "Thalak", "Iddah", "Rujuk"]
+    },
+    {
+      "id": 30,
+      "pertanyaan": "Berikut ini yang menjadi penghalang seseorang menerima harta warisan, kecuali…",
+      "pilihan": ["Pembunuhan", "Beda agama", "Perceraian", "Keturunan", "Hamba sahaya"]
+    },
+    {
+      "id": 31,
+      "pertanyaan": "Apabila seseorang meninggal ahli warisnya ialah istri, seorang anak perempuan serta ibu. Maka sang istri berhak menerima harta warisan sejumlah…",
+      "pilihan": ["Seperempat", "Setengah", "Dua pertiga", "Seperdelapan", "Ashabah"]
+    },
+    {
+      "id": 32,
+      "pertanyaan": "Memberikan wasiat kepada orang yang telah berkecukupan harta dan tidak membutuhkan bantuan orang lain hukumnya…",
+      "pilihan": ["Makruh", "Wajib", "Mubah", "Sunah", "Haram"]
+    },
+    {
+      "id": 33,
+      "pertanyaan": "Amr yang sebelumnya didahului dengan larangan, menurut pendapat mayoritas para ulama menunjukkan hukum…",
+      "pilihan": ["Sunah", "Mubah", "Mandub", "Makruh", "Wajib"]
+    },
+    {
+      "id": 34,
+      "pertanyaan": "Kalimat yang ‘Am adalah kalimat yang bersifat…",
+      "pilihan": ["Mengikat", "Tertentu", "Ancaman", "Larangan", "Global"]
+    },
+    {
+      "id": 35,
+      "pertanyaan": "Lafal yang menunjukkan tuntutan untuk meninggalkan sesuatu dari atasan kepada bawahan disebut…",
+      "pilihan": ["Amr", "Nahi", "‘Am", "Khass", "Nash"]
+    },
+    {
+      "id": 36,
+      "pertanyaan": "Lafal yang menunjukkan arti satu yang telah tertentu adalah…",
+      "pilihan": ["Amr", "Nahi", "‘Am", "Khass", "Mutlaq"]
+    },
+    {
+      "id": 37,
+      "pertanyaan": "Arti takhsis secara bahasa adalah…",
+      "pilihan": ["Penentu", "Tidak rinci", "Menentukan", "Penjelasan", "Mendeskripsikan"]
+    },
+    {
+      "id": 38,
+      "pertanyaan": "Alquran yang di takhsis oleh hadis adalah contoh…",
+      "pilihan": ["Mukhassis munfasil", "Mukhassis muttasil", "Mujmal", "Mubayyan", "Khass"]
+    },
+    {
+      "id": 39,
+      "pertanyaan": "Berikut ini termasuk mukhassis munfasil, kecuali…",
+      "pilihan": [
+        "Ayat alquran di takhsis dengan ayat alquran",
+        "Hadis di takhsis oleh ayat alquran",
+        "Ayat alquran ditakhsis oleh hadis",
+        "Hadis ditakhsis oleh hadis",
+        "Sumber buku islam"
+      ]
+    },
+    {
+      "id": 40,
+      "pertanyaan": "Dibawah ini adalah contoh Nahi dalam kehidupan sehari-hari, kecuali…",
+      "pilihan": [
+        "Menanam pohon di dinding perbatasan rumah tetangga tanpa seizinnya",
+        "Melaksanakan sholat ditempat yang dilarang syara’ untuk sholat",
+        "Meletakkan kedua tangan dipinggang saat berdiri sholat",
+        "Tidak menebang pohon hutan sembarangan",
+        "Menggunakan rezeki yang diberikan Allah dengan sebaik-baiknya"
+      ]
+    }
+  ]
+}
