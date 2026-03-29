@@ -17,7 +17,7 @@ const DAFTAR_TOKEN = {
 "ski": "6T66KK",
 "si": "343DSD",
 "barab": "ZXDE45",
-"geo": "SA898",
+"geo": "SA8989",
 "pkn": "9SS9JK",
 "pkw": "ASDSAK",
 
