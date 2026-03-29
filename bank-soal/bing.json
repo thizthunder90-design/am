@@ -1,0 +1,446 @@
+{
+  "judul": "Ujian Bahasa Inggris SMA - Materi Teks & Ungkapan",
+  "total_soal": 40,
+  "data": [
+    {
+      "id": 1,
+      "pertanyaan": "What is the primary social function of a descriptive text?",
+      "pilihan": [
+        "To entertain the readers with a story",
+        "To describe a particular person, place, or thing",
+        "To persuade someone to do something",
+        "To explain how something is made step-by-step",
+        "To report a recent event to the public"
+      ]
+    },
+    {
+      "id": 2,
+      "pertanyaan": "Which of the following is the correct generic structure of a descriptive text?",
+      "pilihan": [
+        "Orientation - Complication - Resolution",
+        "Goal - Materials - Steps",
+        "Identification - Description",
+        "Newsworthy Event - Background Events - Sources",
+        "General Classification - Description"
+      ]
+    },
+    {
+      "id": 3,
+      "pertanyaan": "Which tense is mostly used in a descriptive text?",
+      "pilihan": [
+        "Simple Past Tense",
+        "Simple Present Tense",
+        "Present Continuous Tense",
+        "Past Continuous Tense",
+        "Future Tense"
+      ]
+    },
+    {
+      "id": 4,
+      "pertanyaan": "'My cat, Luna, has soft white fur and bright green eyes. She is very playful and loves eating fish.' What part of the generic structure is this sentence?",
+      "pilihan": [
+        "Identification",
+        "Description",
+        "Re-orientation",
+        "Classification",
+        "Conclusion"
+      ]
+    },
+    {
+      "id": 5,
+      "pertanyaan": "What kind of adjectives are commonly found in descriptive texts?",
+      "pilihan": [
+        "Action adjectives",
+        "Opinion adjectives like 'beautiful' or 'majestic'",
+        "Temporal adjectives",
+        "Conjunctions",
+        "Adverbs of frequency"
+      ]
+    },
+    {
+      "id": 6,
+      "pertanyaan": "In a descriptive text about a place, which information is most likely to be included?",
+      "pilihan": [
+        "The history of how the place was built",
+        "The location and atmosphere of the place",
+        "A list of materials needed to visit",
+        "Arguments about why the place is bad",
+        "The names of the people who died there"
+      ]
+    },
+    {
+      "id": 7,
+      "pertanyaan": "Which of these sentences uses an 'Adjective Phrase' appropriate for descriptive text?",
+      "pilihan": [
+        "The man runs very fast.",
+        "A very tall and majestic building.",
+        "I will go there tomorrow.",
+        "She has eaten her lunch.",
+        "Because he was tired."
+      ]
+    },
+    {
+      "id": 8,
+      "pertanyaan": "What is the main difference between Descriptive Text and Report Text?",
+      "pilihan": [
+        "Descriptive text uses past tense, Report text uses present.",
+        "Descriptive text describes a specific thing, Report text describes things in general.",
+        "There is no difference between them.",
+        "Descriptive text is longer than Report text.",
+        "Report text has a complication, Descriptive does not."
+      ]
+    },
+    {
+      "id": 9,
+      "pertanyaan": "'Borobudur is a 9th-century Mahayana Buddhist temple in Magelang, Central Java.' This sentence is an example of...",
+      "pilihan": [
+        "Identification",
+        "Resolution",
+        "Description of parts",
+        "Closing",
+        "Argument"
+      ]
+    },
+    {
+      "id": 10,
+      "pertanyaan": "Which 'Specific Participant' below is the most suitable subject for a Descriptive Text?",
+      "pilihan": [
+        "How to use a computer",
+        "The Legend of Malin Kundang",
+        "My Personal Laptop",
+        "The danger of smoking",
+        "Global Warming"
+      ]
+    },
+    {
+      "id": 11,
+      "pertanyaan": "What is the main purpose of a recount text?",
+      "pilihan": [
+        "To describe a specific person or place in detail",
+        "To retell past events or experiences",
+        "To persuade the reader to agree with an opinion",
+        "To explain the steps to perform a task",
+        "To present two sides of an issue"
+      ]
+    },
+    {
+      "id": 12,
+      "pertanyaan": "Which of the following is the correct generic structure of a recount text?",
+      "pilihan": [
+        "Identification - Description",
+        "Orientation - Complication - Resolution",
+        "Goal - Materials - Steps",
+        "Orientation - Events - Re-orientation",
+        "Thesis - Arguments - Reiteration"
+      ]
+    },
+    {
+      "id": 13,
+      "pertanyaan": "Which language feature is commonly used in a recount text?",
+      "pilihan": [
+        "Using Simple Present Tense",
+        "Using Past Tense",
+        "Using Imperative Sentences",
+        "Using Future Tense",
+        "Using Modal Auxiliaries for suggestion"
+      ]
+    },
+    {
+      "id": 14,
+      "pertanyaan": "What information is usually found in the 'Orientation' section?",
+      "pilihan": [
+        "The final outcome of the story",
+        "Who, where, and when the story happened",
+        "A list of problems faced by the characters",
+        "The writer's feelings about the event",
+        "Chronological steps to do something"
+      ]
+    },
+    {
+      "id": 15,
+      "pertanyaan": "'First, we went to the museum. Then, we had lunch at a local restaurant.' What are the words 'First' and 'Then' called?",
+      "pilihan": [
+        "Adjectives",
+        "Adverbs of Frequency",
+        "Time Connectives / Chronological Connectors",
+        "Relative Pronouns",
+        "Verbs"
+      ]
+    },
+    {
+      "id": 16,
+      "pertanyaan": "What is 'Re-orientation' in a recount text?",
+      "pilihan": [
+        "The introduction of characters",
+        "The sequence of events",
+        "The personal comment or concluding statement about the experience",
+        "The climax of the story",
+        "The list of materials used"
+      ]
+    },
+    {
+      "id": 17,
+      "pertanyaan": "Which sentence is written in the correct form for a recount text?",
+      "pilihan": [
+        "I am going to the beach tomorrow.",
+        "I visited my grandmother last week.",
+        "I usually visit my grandmother on Sundays.",
+        "Please visit your grandmother.",
+        "I am visiting my grandmother now."
+      ]
+    },
+    {
+      "id": 18,
+      "pertanyaan": "A recount text about a historical event is called a...",
+      "pilihan": [
+        "Personal Recount",
+        "Historical Recount",
+        "Factual Recount",
+        "Imaginative Recount",
+        "Biographical Recount"
+      ]
+    },
+    {
+      "id": 19,
+      "pertanyaan": "In the sentence 'We were exhausted but happy', the word 'exhausted' acts as an...",
+      "pilihan": [
+        "Action verb",
+        "Adjective",
+        "Adverb",
+        "Conjunction",
+        "Noun"
+      ]
+    },
+    {
+      "id": 20,
+      "pertanyaan": "Which of these is a typical title for a Personal Recount?",
+      "pilihan": [
+        "How to Make Fried Rice",
+        "The Legend of Toba Lake",
+        "My Unforgettable Holiday in Bali",
+        "Why We Should Exercise",
+        "Cats and Their Habits"
+      ]
+    },
+    {
+      "id": 21,
+      "pertanyaan": "A: I think the new school rule is very fair. B: ... It will make students more disciplined. Which expression best completes the dialogue?",
+      "pilihan": [
+        "I don't think so",
+        "I'm not sure about that",
+        "I totally agree with you",
+        "I disagree with the rule",
+        "That's a bad idea"
+      ]
+    },
+    {
+      "id": 22,
+      "pertanyaan": "Dania: Do you agree if we go to the beach this weekend? Fajar: ... The weather forecast says it will be a heavy storm. What is the most suitable response for Fajar?",
+      "pilihan": [
+        "I couldn't agree more",
+        "I disagree with you",
+        "You are right",
+        "Certainly",
+        "I think so"
+      ]
+    },
+    {
+      "id": 23,
+      "pertanyaan": "Which of the following expressions shows a 'strong disagreement'?",
+      "pilihan": [
+        "I'm not sure if I agree",
+        "I agree to some extent",
+        "I think you're right",
+        "I totally disagree",
+        "I see your point"
+      ]
+    },
+    {
+      "id": 24,
+      "pertanyaan": "Santi: Digital books are better than physical books because they save space. Ari: ... I still prefer the smell of paper and the feel of turning pages. What is the best expression for Ari?",
+      "pilihan": [
+        "I agree with you",
+        "I understand, but I disagree",
+        "No doubt about it",
+        "That's exactly what I think",
+        "You're absolutely right"
+      ]
+    },
+    {
+      "id": 25,
+      "pertanyaan": "Riko: How about visiting the new museum tomorrow? Maya: ... I have to help my mother at the market all day. What is the appropriate response?",
+      "pilihan": [
+        "That sounds great, but I can't",
+        "I agree with your plan",
+        "I think it's a bad idea",
+        "I'm with you",
+        "Of course"
+      ]
+    },
+    {
+      "id": 26,
+      "pertanyaan": "Student A: I believe that homework should be abolished. Student B: ... Homework helps us practice what we learned in class. Which expression completes the dialogue?",
+      "pilihan": [
+        "I don't think so",
+        "I'm on your side",
+        "That's so true",
+        "I couldn't agree more",
+        "You can say that again"
+      ]
+    },
+    {
+      "id": 27,
+      "pertanyaan": "A: This pizza is delicious! B: ... It's the best I've ever tasted! Which expression is most suitable?",
+      "pilihan": [
+        "I disagree",
+        "I'm not sure",
+        "Tell me about it",
+        "I don't think it's good",
+        "No way"
+      ]
+    },
+    {
+      "id": 28,
+      "pertanyaan": "Identify the expression of 'partial agreement' (setuju sebagian).",
+      "pilihan": [
+        "I am not with you",
+        "I agree with you up to a point, but...",
+        "I'm sorry, but I disagree",
+        "That's exactly what I feel",
+        "You are absolutely right"
+      ]
+    },
+    {
+      "id": 29,
+      "pertanyaan": "A: Playing video games is a waste of time. B: ... It can actually improve your reflexes and problem-solving skills. What is the best response for B?",
+      "pilihan": [
+        "I agree",
+        "That's true",
+        "I beg to differ",
+        "You're right",
+        "I think so too"
+      ]
+    },
+    {
+      "id": 30,
+      "pertanyaan": "What is the social function of a narrative text?",
+      "pilihan": [
+        "To describe a specific place or person",
+        "To amuse or entertain the readers with a story",
+        "To explain how a process happens",
+        "To present a point of view about an issue",
+        "To report a factual event to the public"
+      ]
+    },
+    {
+      "id": 31,
+      "pertanyaan": "Which of the following is the correct generic structure of a narrative text?",
+      "pilihan": [
+        "Identification - Description",
+        "Orientation - Events - Re-orientation",
+        "Orientation - Complication - Resolution - (Re-orientation)",
+        "Goal - Materials - Steps",
+        "Thesis - Arguments - Reiteration"
+      ]
+    },
+    {
+      "id": 32,
+      "pertanyaan": "What is 'Orientation' in a narrative text?",
+      "pilihan": [
+        "The part where the problem arises",
+        "The part where the problem is solved",
+        "The introduction of characters, setting, and time",
+        "The lesson learned from the story",
+        "The ending of the story"
+      ]
+    },
+    {
+      "id": 33,
+      "pertanyaan": "The part of the story where the conflict or problem reaches its peak (climax) is called...",
+      "pilihan": [
+        "Orientation",
+        "Complication",
+        "Resolution",
+        "Re-orientation",
+        "Identification"
+      ]
+    },
+    {
+      "id": 34,
+      "pertanyaan": "Narrative texts mostly use which tense?",
+      "pilihan": [
+        "Simple Present Tense",
+        "Simple Past Tense",
+        "Present Continuous Tense",
+        "Future Tense",
+        "Present Perfect Tense"
+      ]
+    },
+    {
+      "id": 35,
+      "pertanyaan": "Which of these is a 'Fable'?",
+      "pilihan": [
+        "A story about historical events",
+        "A story that explains the origin of a place",
+        "A story where animals act and speak like humans",
+        "A story about gods and goddesses",
+        "A story about a person's life"
+      ]
+    },
+    {
+      "id": 36,
+      "pertanyaan": "'Once upon a time, in a small village, there lived a poor woodcutter.' This sentence is an example of...",
+      "pilihan": [
+        "Resolution",
+        "Orientation",
+        "Complication",
+        "Coda",
+        "Description"
+      ]
+    },
+    {
+      "id": 37,
+      "pertanyaan": "What do we call the moral lesson at the end of a narrative text?",
+      "pilihan": [
+        "Climax",
+        "Coda / Moral Value",
+        "Plot",
+        "Setting",
+        "Inciting incident"
+      ]
+    },
+    {
+      "id": 38,
+      "pertanyaan": "Which of the following is a 'Direct Speech' often found in narratives?",
+      "pilihan": [
+        "She said that she was hungry.",
+        "The wolf ran into the woods.",
+        "'Don't go near the river!' shouted the mother.",
+        "He lived happily ever after.",
+        "They were very tired."
+      ]
+    },
+    {
+      "id": 39,
+      "pertanyaan": "The legend of 'Sangkuriang' or 'Malin Kundang' belongs to...",
+      "pilihan": [
+        "Report Text",
+        "Procedure Text",
+        "Narrative Text",
+        "Exposition Text",
+        "Recount Text"
+      ]
+    },
+    {
+      "id": 40,
+      "pertanyaan": "What is the primary purpose of a News Item text?",
+      "pilihan": [
+        "To entertain readers with a fictional story",
+        "To inform readers about events of the day which are considered newsworthy",
+        "To persuade readers to accept a certain point of view",
+        "To describe a particular place or person in detail",
+        "To explain the steps of how to do something"
+      ]
+    }
+  ]
+}
