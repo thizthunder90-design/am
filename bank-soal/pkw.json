@@ -1,0 +1,157 @@
+{
+  "judul": "Ujian Prakarya dan Kewirausahaan (PKWU)",
+  "total_soal": 30,
+  "data": [
+    {
+      "id": 1,
+      "pertanyaan": "Suatu hasil kebudayaan yang tidak berbentuk benda dan biasanya merupakan hasil karya yang bersifat abstrak yang diwariskan disebut ...",
+      "pilihan": ["Warisan", "Tradisi", "Kebudayaan nonbenda", "Adat", "Kebiasaan"]
+    },
+    {
+      "id": 2,
+      "pertanyaan": "Keterampilan untuk dapat membuat produk-produk yang memiliki nilai yang didasarkan pada ide-ide murni sehingga mendapatkan produk yang berkualitas disebut ...",
+      "pilihan": ["Inovasi", "Kreatifitas", "Produk", "Kerajinan", "Produksi"]
+    },
+    {
+      "id": 3,
+      "pertanyaan": "Orang yang melakukan wirausaha disebut ...",
+      "pilihan": ["Wirausahawan", "Pegawai", "Manager", "Penjual", "Distributor"]
+    },
+    {
+      "id": 4,
+      "pertanyaan": "Berikut adalah sifat-sifat seorang wirausahawan, kecuali ...",
+      "pilihan": ["Percaya diri", "Berani mengambil resiko", "Kreativitas", "Berorientasi ke masa depan", "Pesimis"]
+    },
+    {
+      "id": 5,
+      "pertanyaan": "Kemampuan seseorang dalam menciptakan suatu produk baru disebut ...",
+      "pilihan": ["Percaya diri", "Berani mengambil resiko", "Kreativitas", "Berorientasi ke masa depan", "Pesimis"]
+    },
+    {
+      "id": 6,
+      "pertanyaan": "Fungsi dari kemasan suatu produk adalah untuk ...",
+      "pilihan": ["Merusak produk", "Menjelekkan produk", "Menyembunyikan kekurangan produk", "Menghancurkan produk", "Melindungi produk dan daya tarik"]
+    },
+    {
+      "id": 7,
+      "pertanyaan": "Berikut yang bukan merupakan senjata tradisional adalah ...",
+      "pilihan": ["Keris", "Mandau", "Rencong", "Pistol", "Badik"]
+    },
+    {
+      "id": 8,
+      "pertanyaan": "Sebelum membuat atau memproduksi kerajinan, agar usaha yang kita bangun dapat selalu berkembang dan bertahan lama seiring dengan perkembangan zaman, maka diperlukan ...",
+      "pilihan": ["Kreativitas usaha", "Inovasi usaha", "Ide usaha", "Perencanaan usaha", "Evaluasi usaha"]
+    },
+    {
+      "id": 9,
+      "pertanyaan": "Dalam kegiatan wirausaha kerajinan dengan inspirasi budaya non benda didukung oleh ketersediaan sumber daya yang dikenal dengan istilah 6M yaitu ....",
+      "pilihan": [
+        "Man, Money, Making, Material, Machine, Market",
+        "Man, Market, Money, Material, Machine, Miniatur",
+        "Man, Money, Microwave, Material, Machine, Market",
+        "Man, Money, Material, Method, Machine, Market",
+        "Man, Mother, Making, Material, Machine, Market"
+      ]
+    },
+    {
+      "id": 10,
+      "pertanyaan": "Sistem penjualan langsung adalah ... level marketing.",
+      "pilihan": ["Single", "Double", "Triangle", "Multyply", "Increasing"]
+    },
+    {
+      "id": 11,
+      "pertanyaan": "Konsep, pikiran dan pengetahuan, sebuah mental, pandangan, keyakinan atau rencana dari kegiatan kegiatan usaha merupakan pengertian dari ...",
+      "pilihan": ["Ide usaha", "Peluang usaha", "Sumber usaha", "Administrasi usaha", "Evaluasi usaha"]
+    },
+    {
+      "id": 12,
+      "pertanyaan": "Perizinan usaha, surat – menyurat, pencatatan transaksi/jasa, pencatatan transaksi keuangan, pajak pribadi, dan pajak usaha termasuk kedalam...",
+      "pilihan": ["Ide usaha", "Peluang usaha", "Sumber usaha", "Administrasi usaha", "Pemasaran usaha"]
+    },
+    {
+      "id": 13,
+      "pertanyaan": "Sumber daya usaha yang sering digunakan untuk membiayai semua kebutuhan yang diperlukan selama proses produksi, yaitu ...",
+      "pilihan": ["Money", "Man", "Method", "Machine", "Material"]
+    },
+    {
+      "id": 14,
+      "pertanyaan": "Dibawah ini yang tidak termasuk dalam analisis SWOT adalah ...",
+      "pilihan": ["Memaksimalkan peluang", "Memaksimalkan kekuatan", "Meminimalkan kelemahan", "Meminimalkan ancaman", "Meminimalkan keuntungan"]
+    },
+    {
+      "id": 15,
+      "pertanyaan": "Berikut merupakan limbah-limbah yang berbentuk bangun datar, kecuali ...",
+      "pilihan": ["Botol", "Kain perca", "Kardus", "Kertas", "Pelepah pisang"]
+    },
+    {
+      "id": 16,
+      "pertanyaan": "Gambar diatas merupakan salah satu contoh kerajinan dari limbah ...",
+      "gambar": "pilihan_gambar_16.jpg",
+      "pilihan": ["Plastik", "Kain perca", "Pelepah pisang", "Kertas", "Koran"]
+    },
+    {
+      "id": 17,
+      "pertanyaan": "Gambar diatas merupakan salah satu contoh kerajinan dari limbah ...",
+      "gambar": "pilihan_gambar_17.jpg",
+      "pilihan": ["Plastik", "Kain perca", "Pelepah pisang", "Kertas", "Koran"]
+    },
+    {
+      "id": 18,
+      "pertanyaan": "Semua bentuk kerajinan dari bahan limbah berbentuk bangun datar yang digunakan sebagai penghias rumah, termasuk produk kerajinan sebagai benda ...",
+      "pilihan": ["Pakai", "Substansi", "Rumah tangga", "Hias", "Mewah"]
+    },
+    {
+      "id": 19,
+      "pertanyaan": "Meja, kursi, lemari dan tas merupakan contoh kerajinan sebagai fungsi ...",
+      "pilihan": ["Pakai", "Substansi", "Rumah tangga", "Hias", "Mewah"]
+    },
+    {
+      "id": 20,
+      "pertanyaan": "Dua jenis kerajinan tangan, yaitu memiliki fungsi ... dan ...",
+      "pilihan": ["Jual dan Pakai", "Pakai dan Hias", "Hias dan Jual", "Budaya dan Ekonomi", "Budaya dan Pariwisata"]
+    },
+    {
+      "id": 21,
+      "pertanyaan": "Upaya untuk memberitahukan atau menawarkan produk atau jasa dengan tujuan menarik calon konsumen untuk membeli atau menggunakannya disebut ...",
+      "pilihan": ["Promosi", "Penjualan", "Pemasaran", "Produktivitas", "Testimoni"]
+    },
+    {
+      "id": 22,
+      "pertanyaan": "Bentuk promosi secara personal dengan presentasi lisan dalam suatu percakapan dengan calon pembeli yang ditujukan untuk menarik peminat pembeli merupakan jenis promosi ...",
+      "pilihan": ["Periklanan", "Penjualan tatap muka", "Publisitas", "Promosi penjualan (sales)", "Pemasaran langsung"]
+    },
+    {
+      "id": 23,
+      "pertanyaan": "Bentuk promosi yang dilakukan melalui media sosial, blog pribadi, dan onlineshop merupakan contoh bentuk strategi promosi secara ....",
+      "pilihan": ["Promosi langsung", "Periklanan", "Online", "Sales", "Pribadi"]
+    },
+    {
+      "id": 24,
+      "pertanyaan": "Yang tidak termasuk kedalam tujuan dilakukannya promosi adalah ....",
+      "pilihan": ["Meningkatkan peminat", "Meningkatkan permintaan", "Membentuk goodwill", "Menurunkan pembeli", "Meningkatkan pembeli"]
+    },
+    {
+      "id": 25,
+      "pertanyaan": "Elemen untuk menghitung BEP usaha, antara lain ...",
+      "pilihan": ["Biaya tetap, harga jual, harga beli", "Harga jual, biaya variabel, biaya tetap", "Biaya variabel, harga jual, biaya bahan", "Harga jual, harga beli, biaya produksi", "Biaya tetap, biaya variabel, harga beli"]
+    },
+    {
+      "id": 26,
+      "pertanyaan": "Perhatikan data berikut! 1) Fixed cost: Rp. 500.000,- 2) Variable cost: Rp. 10.000,- 3) Price/harga jual: Rp. 20.000,- Maka BEP (unit) nya adalah ...",
+      "pilihan": ["500", "100", "10", "50", "200"]
+    },
+    {
+      "id": 27,
+      "pertanyaan": "Makanan yang biasa dikonsumsi disuatu daerah disebut ...",
+      "pilihan": ["Makanan khas daerah", "Makanan kesukaan", "Makanan cepat saji", "Makanan nabati", "Makanan hewani"]
+    },
+    {
+      "id": 28,
+      "pertanyaan": "Pempek merupakan makanan khas yang berasal dari ...",
+      "pilihan": ["Riau", "Padang", "Lampung", "Medan", "Palembang"]
+    },
+    {
+      "id": 29,
+      "pertanyaan": "pongek patin. Makanan khas daerah diatas berasal dari daerah ....",
+      "gambar": "pilihan_gambar_29.jpg",
+      "pilihan": ["Riau", "Padang", "Lampung", "Medan
