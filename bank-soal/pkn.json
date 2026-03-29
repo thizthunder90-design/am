@@ -1,0 +1,150 @@
+{
+  "judul": "Ujian Pendidikan Pancasila dan Kewarganegaraan (PPKn)",
+  "total_soal": 30,
+  "data": [
+    {
+      "id": 1,
+      "pertanyaan": "Badan penyelidikan yang dibentuk oleh pemerintah pendudukan jepang dengan tujuan untuk mempersiapkan kemerdekaan indonesia adalah...",
+      "pilihan": ["PPKI", "BPUPKI", "Konferensi meja bundar", "Piagam jakarta", "Panitia sembilan"]
+    },
+    {
+      "id": 2,
+      "pertanyaan": "Hari lahir pancasila diperingati setiap tanggal ...",
+      "pilihan": ["1 juni", "10 juni", "1 juli", "10 juli", "28 oktober"]
+    },
+    {
+      "id": 3,
+      "pertanyaan": "BPUPKI diketuai oleh ...",
+      "pilihan": ["Icibagase yasio, r.p. sudarso", "M.aris", "Aa. Marimis", "Dr. Krt radjiman wedyodiningrat", "Ir. Soekarno"]
+    },
+    {
+      "id": 4,
+      "pertanyaan": "Salah satu hasil sidang pertama PPKI adalah ...",
+      "pilihan": [
+        "Membagi wilayah indonesia menjadi 8 provinsi",
+        "Memilih soekarno dan moh. Hatta sebagai presiden dan wakil presiden",
+        "Membentuk komite nasional di daerah",
+        "Menetapkan 12 departemen/ kementrian dengan masing –masing mentri",
+        "Pembentukan partai nasional indonesia"
+      ]
+    },
+    {
+      "id": 5,
+      "pertanyaan": "Contoh sikap para pendiri bangsa ketika menghadapi perbedaan pendapat adalah ...",
+      "pilihan": ["Mengutamakan kepentingan pribadi", "Mempermasalahkan pendapat – pendapat", "Saling mengargai pendapat", "Saling berdebat dan tidak mau kalah", "Ngotot dengan pendapat pribadi"]
+    },
+    {
+      "id": 6,
+      "pertanyaan": "Suatu cara pandang yang menjadi pegangan hidup bangsa dalam menghadapi segala persoalan yang timbul dalam kehidupan bermasyarakat, berbangsa dan bernegara merupakan pengertian dari ...",
+      "pilihan": [
+        "Pancasila sebgai pandangan hidup bangsa",
+        "Pancasila sebagai sumber hukum",
+        "Pancasila sebagai jiwa bangsa",
+        "Pancasila sebgai dasar negara",
+        "Pancasila sebagai cita –cita bangsa"
+      ]
+    },
+    {
+      "id": 7,
+      "pertanyaan": "Dibawah ini merupakan perwujudan nilai sila ketuhanan yang maha esa yang paling tepat adalah ...",
+      "pilihan": [
+        "Mengakui harkat dan martabat manusia",
+        "Tenggang rasa dan tidak semena –mena",
+        "Mengakui kedaulatan berada ditangan rakyat",
+        "Menghormati hak- hak orang lain",
+        "Saling menghormati dan mentolerasi antar pemeluk agama yang berbeda – beda"
+      ]
+    },
+    {
+      "id": 10,
+      "pertanyaan": "Kesadaran seseorang atau suatu kelompok masyarakat kepada aturan –aturan atau hukum yang berlaku disebut ...",
+      "pilihan": ["Fungsi hukum", "Peran hukum", "Nilai hukum", "Kesadaran hukum", "Sumber hukum"]
+    },
+    {
+      "id": 12,
+      "pertanyaan": "Penggolongan hukum berdasarkan sifatnya ada 2, yaitu ..",
+      "pilihan": [
+        "Melindungi dan mengatur",
+        "Memaksa dan mengatur",
+        "Melindungi dan mengayomi",
+        "Memaksa dan mencakup semua",
+        "Mengayomi dan mengatur"
+      ]
+    },
+    {
+      "id": 15,
+      "pertanyaan": "Berikut ini merupakan contoh prilaku taat hukum dilingkungan negara adalah...",
+      "pilihan": [
+        "tidak mencontek dan plagiarisme",
+        "menjaga kebersihan lingkungan",
+        "Menjaga nama baik sekolah",
+        "membayar pajak negara sesuai peraturan",
+        "Mencintai dan menyayangi semua anggota keluarga"
+      ]
+    },
+    {
+      "id": 16,
+      "pertanyaan": "Sesuatu yang pantas didapatkan dan miliki disebut...",
+      "pilihan": ["hak", "kewajiban", "taat", "upah", "Bantuan"]
+    },
+    {
+      "id": 18,
+      "pertanyaan": "Segala sesuatu yang wajib dipenuhi dengan didasari keiklasan hati dan tanggung jawab merupakan pengertian dari...",
+      "pilihan": ["Kewajiban", "Tugas", "Kebebasan", "Hak", "Imbalan"]
+    },
+    {
+      "id": 21,
+      "pertanyaan": "Polisi merupakan aparat penegak hukum. Mereka memiliki tugas dan wewenang tertentu, di antaranya...",
+      "pilihan": [
+        "Melaksanakan keputusan hakim",
+        "Melakukan penuntutan disidang pengadilan",
+        "Membuat putusan bersama hakim",
+        "Melakukan Penangkapan, Penahanan, Penggeledahan Dan Penyidikan",
+        "Koordinasi Dengan Kejaksaan Dalam Upaya Penegakan Hukum"
+      ]
+    },
+    {
+      "id": 23,
+      "pertanyaan": "Tidak mau mematuhi dan menaati peraturan yang berlaku merupakan perilaku yang menunjukkan adanya..",
+      "pilihan": ["Pelanggaran hak", "Pengingkaran hak", "Kesadaran hukum", "Pengingkaran kewajiban", "Ketertiban hukum"]
+    },
+    {
+      "id": 25,
+      "pertanyaan": "Ideologi negara Indonesia adalah ...",
+      "pilihan": ["UUD", "hukum", "pancasila", "Piagam jakarta", "RUU"]
+    },
+    {
+      "id": 28,
+      "pertanyaan": "Yang bukan merupakan fungsi ideologi adalah...",
+      "pilihan": [
+        "memberikan kerangka bagi pandangan dunia",
+        "panduan tindakan politik dan sosial",
+        "legitimasi otoritas",
+        "Menciptakan konflik",
+        "alat intregritas sosial"
+      ]
+    },
+    {
+      "id": 29,
+      "pertanyaan": "Apa makna dari 'Ketuhanan Yang Maha Esa' dalam konteks Pancasila?",
+      "pilihan": [
+        "Negara berdasarkan agama tertentu",
+        "Negara sekuler tanpa agama",
+        "Negara yang menjamin kebebasan beragama",
+        "Negara yang tidak mempedulikan kepercayaan",
+        "Negara yang hanya mengakui satu agama"
+      ]
+    },
+    {
+      "id": 30,
+      "pertanyaan": "Dalam musyawarah mufakat, aspek yang mencerminkan sila ke 4 pancasila adalah ...",
+      "pilihan": [
+        "mengutamakan keputusan mayoritas",
+        "menghindari diskusi dengan pihak yang berbeda",
+        "mendiskusikan dan mencapai konsensus bersama dalam mengambil keputusan",
+        "mengikuti keputusan pemimpin tanpa diskusi",
+        "mengutamakan kepentingan pribadi"
+      ]
+    }
+  ]
+}
