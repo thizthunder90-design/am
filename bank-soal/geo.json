@@ -1,0 +1,178 @@
+{
+  "judul": "Ujian Geografi - Wilayah, Pemetaan, dan Kerja Sama Internasional",
+  "total_soal": 30,
+  "data": [
+    {
+      "id": 1,
+      "pertanyaan": "Wilayah adalah suatu area yang memiliki ciri khas tertentu yang membedakannya dengan daerah lain. Pengertian ini dikemukakan oleh …",
+      "pilihan": ["Bintarto", "Ullman", "Hartshorne", "Christaller", "Weber"]
+    },
+    {
+      "id": 2,
+      "pertanyaan": "Perwilayahan adalah proses …",
+      "pilihan": [
+        "Pembentukan wilayah",
+        "Penggabungan wilayah",
+        "Pembagian wilayah berdasarkan kriteria tertentu",
+        "Penghapusan batas wilayah",
+        "Penamaan wilayah"
+      ]
+    },
+    {
+      "id": 3,
+      "pertanyaan": "Wilayah formal ditandai dengan …",
+      "pilihan": [
+        "Interaksi antarwilayah tinggi",
+        "Keseragaman karakteristik",
+        "Adanya pusat kegiatan",
+        "Mobilitas tinggi",
+        "Tidak memiliki batas"
+      ]
+    },
+    {
+      "id": 4,
+      "pertanyaan": "Contoh wilayah formal adalah …",
+      "pilihan": [
+        "Wilayah metropolitan",
+        "Wilayah pasar",
+        "Wilayah pertanian padi",
+        "Wilayah perdagangan",
+        "Wilayah industri terpadu"
+      ]
+    },
+    {
+      "id": 5,
+      "pertanyaan": "Contoh wilayah fungsional adalah …",
+      "pilihan": [
+        "Wilayah pegunungan",
+        "Wilayah hutan hujan",
+        "Wilayah DAS",
+        "Wilayah perkotaan dengan pusat kota",
+        "Wilayah dataran rendah"
+      ]
+    },
+    {
+      "id": 6,
+      "pertanyaan": "Tujuan utama perwilayahan adalah …",
+      "pilihan": [
+        "Memperbanyak wilayah",
+        "Mempermudah analisis dan perencanaan",
+        "Menghapus perbedaan wilayah",
+        "Menyamakan semua wilayah",
+        "Membatasi interaksi"
+      ]
+    },
+    {
+      "id": 7,
+      "pertanyaan": "Wilayah berdasarkan administrasi pemerintahan disebut …",
+      "pilihan": ["Wilayah nodal", "Wilayah formal", "Wilayah administratif", "Wilayah ekonomi", "Wilayah sosial"]
+    },
+    {
+      "id": 8,
+      "pertanyaan": "Wilayah nodal memiliki ciri utama yaitu …",
+      "pilihan": [
+        "Tidak ada pusat",
+        "Bersifat homogen",
+        "Ada pusat dan daerah pengaruh",
+        "Tidak memiliki batas",
+        "Bersifat alami"
+      ]
+    },
+    {
+      "id": 13,
+      "pertanyaan": "Dalam wilayah nodal, pusat wilayah disebut …",
+      "pilihan": ["Hinterland", "Core", "Region", "Zone", "Area"]
+    },
+    {
+      "id": 14,
+      "pertanyaan": "Fungsi utama peta adalah …",
+      "pilihan": [
+        "Menyimpan data",
+        "Menyajikan informasi keruangan",
+        "Menghitung jarak",
+        "Menentukan cuaca",
+        "Menggambarkan sejarah"
+      ]
+    },
+    {
+      "id": 15,
+      "pertanyaan": "Skala peta adalah …",
+      "pilihan": [
+        "Perbandingan luas wilayah",
+        "Perbandingan jarak pada peta dengan jarak sebenarnya",
+        "Perbandingan warna peta",
+        "Perbandingan tinggi wilayah",
+        "Perbandingan bentuk wilayah"
+      ]
+    },
+    {
+      "id": 17,
+      "pertanyaan": "Penginderaan jauh adalah …",
+      "pilihan": [
+        "Pengukuran langsung di lapangan",
+        "Pengamatan objek tanpa kontak langsung",
+        "Pengamatan menggunakan alat sederhana",
+        "Pengolahan data manual",
+        "Pengukuran menggunakan peta"
+      ]
+    },
+    {
+      "id": 18,
+      "pertanyaan": "Contoh wahana dalam penginderaan jauh adalah …",
+      "pilihan": ["Kamera", "Satelit", "Sensor", "Lensa", "Film"]
+    },
+    {
+      "id": 20,
+      "pertanyaan": "Kerja sama internasional adalah …",
+      "pilihan": [
+        "Hubungan antarindividu",
+        "Hubungan antarnegara untuk mencapai tujuan bersama",
+        "Hubungan antarperusahaan",
+        "Hubungan antarwilayah",
+        "Hubungan antarorganisasi lokal"
+      ]
+    },
+    {
+      "id": 22,
+      "pertanyaan": "Negara maju adalah negara yang memiliki …",
+      "pilihan": [
+        "Pendapatan rendah",
+        "Teknologi sederhana",
+        "Tingkat kesejahteraan tinggi",
+        "Sumber daya terbatas",
+        "Jumlah penduduk sedikit"
+      ]
+    },
+    {
+      "id": 24,
+      "pertanyaan": "Contoh kerja sama bilateral adalah …",
+      "pilihan": ["ASEAN", "PBB", "Kerja sama Indonesia–Jepang", "IMF", "WTO"]
+    },
+    {
+      "id": 26,
+      "pertanyaan": "Organisasi yang bergerak di bidang keuangan internasional adalah …",
+      "pilihan": ["WHO", "IMF", "UNESCO", "FAO", "ILO"]
+    },
+    {
+      "id": 28,
+      "pertanyaan": "Dampak positif kerja sama internasional adalah …",
+      "pilihan": [
+        "Ketergantungan tinggi",
+        "Transfer teknologi",
+        "Eksploitasi sumber daya",
+        "Persaingan tidak sehat",
+        "Kesenjangan sosial"
+      ]
+    },
+    {
+      "id": 29,
+      "pertanyaan": "ASEAN adalah organisasi kerja sama di kawasan …",
+      "pilihan": ["Eropa", "Afrika", "Asia Tenggara", "Amerika", "Timur Tengah"]
+    },
+    {
+      "id": 30,
+      "pertanyaan": "Bentuk kerja sama di bidang kesehatan internasional dilakukan oleh …",
+      "pilihan": ["WTO", "WHO", "IMF", "ASEAN", "OPEC"]
+    }
+  ]
+}
