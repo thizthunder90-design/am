@@ -1,7 +1,7 @@
 {
   "judul": "Ujian Akidah Akhlak SMA/MA",
   "total_soal": 40,
-  "data": [
+  "soal_list": [
     {
       "id": 1,
       "pertanyaan": "Allah tidak membutuhkan bantuan makhluk-makhlukNya karena Allah mempunyai sifat...",
