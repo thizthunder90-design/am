@@ -1,7 +1,7 @@
 {
   "judul": "Ujian Fiqih & Ushul Fiqih",
   "total_soal": 40,
-  "data": [
+  "soal_list": [
     {
       "id": 1,
       "pertanyaan": "Salah satu ruang lingkup dalam fiqih ialah mengatur tentang hukum-hukum keluarga yang disebut …",
