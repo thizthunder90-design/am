@@ -1,0 +1,228 @@
+{
+  "judul": "Ujian Sejarah Indonesia",
+  "total_soal": 30,
+  "data": [
+    {
+      "id": 1,
+      "pertanyaan": "Hasil perundingan antara APRIS dan KNIL. pada tanggal 18 Mei 1950mengalami kegagalan karena…..",
+      "pilihan": [
+        "Pasukan APRIS ditembak oleh pasukan KNIL",
+        "Pasukan KNIL bergerak maju melewati perbatasan yang telah disepakati",
+        "Pasukan KNIL meminta bantuan kepada Belanda dan PBB",
+        "Pasukan KNIL menghina dan menginjak injak bendera Merah Putih",
+        "Pasukan APRIS mengepung markas besar pasukan KNIL"
+      ]
+    },
+    {
+      "id": 2,
+      "pertanyaan": "Perhartikan beberapa pemberontakan berikut!\n(1) Pemberontakan APRA\n(2) Pemberontakan PKI Masiun\n(3) Pemberontakan Andi Aziz\n(4) Pemberontakan DI/TII\n(5) Pemberontakan Republik Maluku Selatan (RMS)\n(6) Peristiwa G 30 S/PKI\nPemberontakan yang terjadi di Indonesia berkaitan dengan ideologi ditunjukkan olch nomor ……",
+      "pilihan": [
+        "(1).(2). Dan (3)",
+        "(1). (3). dan (5)",
+        "(2), (3), dan (4)",
+        "(2). ((4), dan (6)",
+        "(3).(4) dan (6)"
+      ]
+    },
+    {
+      "id": 3,
+      "pertanyaan": "Gerakan Pemesta mendapat bantuan dari pihak luar, yang dibukrikan dengan ….",
+      "pilihan": [
+        "Ditembak jatuhnya pesawat tempur yang dikemudikan oleh Alan Pope",
+        "Ditemukannya senjata - senjata buatan Amerika",
+        "Desakan Amerika Serikat agar memberikan kemerdekaan kepada Sulawesi",
+        "Ditemukannya dokumen rahasia CIA yang ada diSulawesi Selatan",
+        "Tertangkapnya Inteljen asing yang ikut berperang melawan APRI"
+      ]
+    },
+    {
+      "id": 4,
+      "pertanyaan": "Perhatikan beberapa pernyataan berikut!\n(1) Mencintai kebudayaan daerah secara berlebihan\n(2) Menanamkan jiwa patriotisme\n(3) Mempelajari kesenian dari daerah sendiri\n(4) Menghilangkan hal-hal yang berbau primodalisme\n(5) Meningkatkan rasa kepercayaan masyarakat\nSikap yang tidak dapat dikembangkan untuk mencegah terjadinya disentegrasi bangsa, ditunukkan oleh nomor ....",
+      "pilihan": [
+        "(l) Dan (2)",
+        "(1) Dan (3)",
+        "(2) Dan (3)",
+        "(3) Dan (4)",
+        "(4) Dan (5)"
+      ]
+    },
+    {
+      "id": 5,
+      "pertanyaan": "Perhatikan beberapa pernyataan berikut!\n(1) Pejuang wanita yang menjadi Pahlawan Nasional Indonesia\n(2) Aktif dalam Prtai Syarekat Islam Indonesia (PSID)\n(3) Pemimpin Revolusi di Luwu\nTokoh yang memiliki ciri-ciri perjuangan di atas adalah …..",
+      "pilihan": [
+        "R.A. Kartini",
+        "Cut Nyak Dien",
+        "Dewi Sartika",
+        "Opu Daeng Risaju",
+        "Fatmawati"
+      ]
+    },
+    {
+      "id": 6,
+      "pertanyaan": "Pemberontakan RMS berhasil ditumpas pada bulan November 1950, sedangkan para pemimpin RMS mengasingkan diri ke Negara...",
+      "pilihan": ["Inggris", "Prancis", "Portugis", "Rusia", "Belanda"]
+    },
+    {
+      "id": 7,
+      "pertanyaan": "17 Para korban peristiwa G 3G S/PKI diberi gelar dengan sebutan Pahlawan …..",
+      "pilihan": ["Revolusi", "Reformasi", "Proklamator", "Ampera", "Kemerdekaan"]
+    },
+    {
+      "id": 8,
+      "pertanyaan": "Perhatikan beberapa pemberontakan!\n(1) Pemberontakan Andi Aziz\n(2) Pemberontakan PRRI (Pemerintahan Revolusioner Republik Indoncsia).\n(3) Pemberontakan Permesta (Piagam Perjuangan Rakyat Semesta).\n(4) Pemberotakan DI/TII\n(5) Pemberontakan APRI\nPemberontakan yang terjadi di Indonesia berkaitan dengan sistem pemerintahan ditunjukkan oleh nomor ....",
+      "pilihan": [
+        "(1)dan (2)",
+        "(1)dan (3)|",
+        "(2)dan (3)",
+        "(3)dan (4)",
+        "(4)dan (5)."
+      ]
+    },
+    {
+      "id": 9,
+      "pertanyaan": "Perhatikan beberapa pemberontakan berikut!\n(1) Pemberontakan PKI Madiun\n(2) Pemberontakan Andi Azis\n(3) Pemberontakan DI/TII\n(4) Pemberontakan Republik Maluku Selatan (RMS)\n(5) Peristiwa G 30 S/PK1\nPemberontakan yang terjadi di Indonesia berkaitan dengan kepentingan ditunjukkan oleh nomor...",
+      "pilihan": [
+        "(1).(2), dan (3)",
+        "(I).(3), dan (S)",
+        "(2).(3), dan (4)",
+        "(2).(4) dan (5)",
+        "(3),(4) dan (6)"
+      ]
+    },
+    {
+      "id": 10,
+      "pertanyaan": "Latar belakang timbulnya pemberontakan Andi Azis di Sulawesi Sclatan yakni …",
+      "pilihan": [
+        "Berkembangnya paham komunis",
+        "Hasutan wasterling yang fedaralis",
+        "Ambisi Andi Azis untuk menjadi presiden NIT",
+        "Sikap menolak masuknya APRIS dan TNI ke Sulawesi Selatan",
+        "Andi Azis ingin membentuk Negara terpisah dari RI"
+      ]
+    },
+    {
+      "id": 11,
+      "pertanyaan": "Sultan Yogyakarta yang anti-Belanda dan berjuang mengusir penjajali tahun 1945, yaitu...",
+      "pilihan": [
+        "Pakubuwo V",
+        "Pakubuwo IX",
+        "Sultan Humengkubuwo VIII",
+        "Sultan Humengkubuwo IX",
+        "Sultan Humengkubuwo X"
+      ]
+    },
+    {
+      "id": 12,
+      "pertanyaan": "Perhatikan nama tokoh-tokoh berikut!\n(1) Letnan Jenderal Ahmad Yani\n(2) Mayien Haryone Mas Tirtodarmo\n(3) Jenderal Abdul Haris Nasution\n(4) Mayien R.Supranto\n(5) Mayien Siswono Parman\nTokoh yang lolos dari peristiwa G 30 S/PKI ditunjukkan olch nomor  ....",
+      "pilihan": ["(1)", "(2)", "(3)", "(4)", "(5)"]
+    },
+    {
+      "id": 13,
+      "pertanyaan": "Berikut yang bukan lagu nasional karangan Ismail Marzuki adalah ...",
+      "pilihan": ["Rayuan pulau kelapa", "Halo-halo bandung", "Selendang sutera", "Sepasang bata bola", "Maju tak gentar"]
+    },
+    {
+      "id": 14,
+      "pertanyaan": "Operasi Pagar Betis merupakan operasi penumpasan dari peristiwa....",
+      "pilihan": ["APRA", "RMS", "DI/TII Jawa Barat", "DI/TII Jawa Tengah", "Andi Azis"]
+    },
+    {
+      "id": 15,
+      "pertanyaan": "Berikut upaya pencegahan disentegrasi suatu bangsa, kecuali ....",
+      "pilihan": [
+        "Upaya integrasi nasional harus dijalankan semaksimal mungkin dan dilakukan oleh setiap warga negara",
+        "Hukum di Indonesia harus berdasarkan pancasila dan idak untuk mementingkan golongan maupun pribad telainkan demi kepentingan negara",
+        "Keadilan harus dijunjung tinggi, tidak: yalahgunaan hokum maupun peninda",
+        "Toleransi antar agama, suku, dan ras harus ditinggalkan",
+        "Meningkatkan rasa nasionalisme"
+      ]
+    },
+    {
+      "id": 16,
+      "pertanyaan": "Usaha presiden B.J Habibie mereformasi perekonomian Indonesia dengan membentuk…",
+      "pilihan": ["Bappenas", "BPPN", "BKKBN", "BLBI", "LIPI"]
+    },
+    {
+      "id": 17,
+      "pertanyaan": "Perbaikan dalam bidang politik, anatara lain dengan dikeluarkannya UU No. 2 Tahun 1999 tentang…",
+      "pilihan": ["Partai politik", "Pemilihan umum", "Susduk DPR/MPR", "Pemerintahan yang bebas KKN", "Dwifungsi ABRI"]
+    },
+    {
+      "id": 18,
+      "pertanyaan": "Presiden B.J Habibie membentuk cabinet pada tanggal…",
+      "pilihan": ["20 Mei 1998", "21 Mei 1988", "23 Mei 1998", "24 Mei 1998", "22 Mei 1988"]
+    },
+    {
+      "id": 19,
+      "pertanyaan": "Sidang cabinet paripurna berlangsung pada…",
+      "pilihan": ["10 Maret 1966", "11 Maret 1966", "13 Maret 1966", "14 Maret 1966", "12 Maret 1966"]
+    },
+    {
+      "id": 20,
+      "pertanyaan": "Pilar utama Orde Baru adalah…",
+      "pilihan": ["ABRI", "PPP", "AMD", "AKPOL", "DPR/MPR"]
+    },
+    {
+      "id": 21,
+      "pertanyaan": "Dwi fungsi ABRI dihapuskan pada era….",
+      "pilihan": ["Orde Baru", "Reformasi", "Formasi", "Merdeka", "Orde Lama"]
+    },
+    {
+      "id": 22,
+      "pertanyaan": "Pada 7 Juni 1999 pemenang pemilu parpol yaitu…",
+      "pilihan": ["PDIP", "PPP", "Golkar", "PKB", "Gerindra"]
+    },
+    {
+      "id": 23,
+      "pertanyaan": "pengunduran diri Soeharto yakni pada tanggal….",
+      "pilihan": ["21 Mei 1995", "12 Mei 1996", "23 Juni 1999", "23 Juli 1999", "21 Mei 1998"]
+    },
+    {
+      "id": 24,
+      "pertanyaan": "Partai Politik pada masa Orde Baru adalah….",
+      "pilihan": ["PAN, PDI, PPP", "PDI, Demokrat, PPP", "PPP, Gerindra, PDI", "Golkar, PDI, PPP", "PDI, PPP, Demokrat"]
+    },
+    {
+      "id": 25,
+      "pertanyaan": "Pemilu yang berhasil memilih presiden Susilo Bambang Yudhoyono diselenggarakan pada tahun….",
+      "pilihan": ["2002", "2003", "2004", "2005", "2006"]
+    },
+    {
+      "id": 26,
+      "pertanyaan": "Kasus yang mengakibatkan lengsernya kedudukan Presiden Abdurrahman Wahid yakni….",
+      "pilihan": ["BLBI", "Bank Bali", "Bapindo", "Korupsi", "Buloggate"]
+    },
+    {
+      "id": 27,
+      "pertanyaan": "Tragedi Semanggi terjadi pada tanggal….",
+      "pilihan": ["12 November 1998", "13 November 1998", "14 November 1998", "15 November 1998", "16 November 1998"]
+    },
+    {
+      "id": 28,
+      "pertanyaan": "Pertumbuhan ekonomi Indonesia pada masa Orde Baru dianggap semu karena…",
+      "pilihan": [
+        "harga barang tetap mahal",
+        "maraknya KKN",
+        "bersumber dari utang luar negeri",
+        "meningkatnya para konglomerat",
+        "inflasi sangat tinggi"
+      ]
+    },
+    {
+      "id": 29,
+      "pertanyaan": "Kasus Brunei Gate dan Bulog Gate menjadi salah satu sebab jatuhnya pemerintahan….",
+      "pilihan": ["Soeharto", "B.J, Habibie", "Gus Dur", "Megawati", "Susilo Bambang Yudhoyono"]
+    },
+    {
+      "id": 30,
+      "pertanyaan": "Persamaan Reformasi dan Revolusi adalah….",
+      "pilihan": [
+        "Hakikat tentang kekerasan",
+        "Hakikat tentang perubahan",
+        "Hakikat tentang kekuasaan",
+        "Hakikat tentang pemerintahan",
+        "Hakikat tentang politik"
+      ]
+    }
+  ]
+}
