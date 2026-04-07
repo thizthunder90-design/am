@@ -1,0 +1,196 @@
+{
+  "judul": "Ujian Bahasa Arab & Mahfuzhat",
+  "total_soal": 35,
+  "data": [
+    {
+      "id": 1,
+      "pertanyaan": "تَرْجِمْ اِلَى اللُّغَةِ الْإِنْدُوْنِسِيَّةِ \"هذَا مَكْتَبٌ\"",
+      "pilihan": ["ini meja", "itu kursi", "ini sekolah", "ini kelas"]
+    },
+    {
+      "id": 2,
+      "pertanyaan": "تَرْجِمْ اِلَى اللُّغَةِ الْإِنْدُوْنِسِيَّةِ \"ذلِكَ قَلَمٌ\"",
+      "pilihan": ["ini jam", "ini meja", "ini pena", "itu pena"]
+    },
+    {
+      "id": 3,
+      "pertanyaan": "............؟ ذَلِكَ قِرْطَاسٌ",
+      "pilihan": ["مَا هذَا؟", "أَ ذلِكَ كُرْسِيٌّ؟", "مَا ذلِكَ؟", "مَا هذِهِ؟"]
+    },
+    {
+      "id": 4,
+      "pertanyaan": ".................؟ هذَا مَكْتَبٌ",
+      "pilihan": ["أَ هَذَا مَكْتَبٌ؟", "أَ ذَلِكَ مَكْتَبٌ؟", "مَا هذِه؟", "مَا هذَا؟"]
+    },
+    {
+      "id": 5,
+      "pertanyaan": "أَهذَا قَلَمٌ؟لَا,...............................",
+      "pilihan": ["بَلْ هذَا مَكْتَبٌ", "بَلْ هذَا قَلمٌ", "هذَا مَقْعَدٌ", "هذِهِ سَاعَةٌ"]
+    },
+    {
+      "id": 6,
+      "pertanyaan": "مَا تِلْكَ؟ (itu tong sampah)",
+      "pilihan": ["ذلِكَ مَزْبَلَةٌ", "تِلْكَ مَزْبَلَةٌ", "هذِهِ مَزْبَلةٌ", "هذَا مَزْبَلةٌ"]
+    },
+    {
+      "id": 7,
+      "pertanyaan": "تَرْجِمْ ِالَى اللُّغَةِ الْإِنْدُوْنِسِيَّةِ \" عَسَى اللّهُ يُسَهِلُ وَالِدِيْ فِيْ بَحْثٍ عَنِ الرِّزْقِ\"",
+      "pilihan": [
+        "Semoga Allah memudahkan orang tua kita dalam mencari rezeki",
+        "Semoga Allah memudahkan orang tuaku dalam mencari rezeki",
+        "Semoga Allah memudahkan orang tua kalian dalam mencari rezeki",
+        "Semoga Allah memudahkan orang tua mereka dalam mencari rezeki"
+      ]
+    },
+    {
+      "id": 8,
+      "pertanyaan": "تَرْجِمْ إِلَى الْلُغَةِالْعَرَبِيَّةِ \"Apakah ini meja?\"",
+      "pilihan": ["مَا هذَا؟", "أَذلِكَ مَكْتَبٌ؟", "أَذلِكَ kِtَابٌ؟", "أَهذَا مَكْتَبٌ؟"]
+    },
+    {
+      "id": 9,
+      "pertanyaan": "تَرْجِمْ إِلَى الْلُغَةِالْعَرَبِيَّةِ \"Apakah ini papan tulis?\"",
+      "pilihan": ["أَذلِكَ مَكْتَب؟", "أَهذِهِ سَاحَةٌ؟", "أَهذِهِ سَبُّوْرَةٌ؟", "أَهذَا مَقْعَدٌ؟"]
+    },
+    {
+      "id": 10,
+      "pertanyaan": "تَرْجِمْ ِالَى اللُّغَةِ الْإِنْدُوْنِسِيَّةِ \"السَّقْفُ فَوْقَ اللْمَكْتَبِ\"",
+      "pilihan": ["Meja di bawah atap", "Meja di samping jendela", "Atap di atas meja", "Jendela di depan atap"]
+    },
+    {
+      "id": 11,
+      "pertanyaan": "هَاتِ حَرَكَةٍ مُنَاسِبَةٍ \"الْأُسْتَاذُ بَيْنَ السبورة و المكتب\"",
+      "pilihan": ["السبورةَ و المكتبَ", "السبورةِ و المكتبِ", "السبورةُ و المكتبٌ", "السبورةٌ و المكتبٌ"]
+    },
+    {
+      "id": 12,
+      "pertanyaan": "أَيْنَ التّلْمِذُ؟............",
+      "pilihan": ["هُوَ فِيْ السَّمَاءِ", "هُوَ عَلَى الْجِدَارِ", "هُوَ فِيْ الْفَصْلِ", "هُوَ فَوْقَ الْأَرْضِ"]
+    },
+    {
+      "id": 13,
+      "pertanyaan": "تَرْجِمْ إِلَى الْلُغَةِالْعَرَبِيَّةِ \"Dia (lk) punya pena dan Mereka (pr) punya buku\"",
+      "pilihan": ["لَهُ قَلَمٌ وَ لَهُنَّ كُتُبٍ", "لَكُمْ أَقْلَمٌ وَ لَكُنَّ كُتُبٍ", "لَكَ قَلَمٌ وَ لَهَا كِتَابٍ", "لِيْ قَلَمٌ وَ لَكِ كِتَابٌ"]
+    },
+    {
+      "id": 14,
+      "pertanyaan": "تَرْجِمْ إِلَى الْلُغَةِالْعَرَبِيَّةِ \"Aisyah seorang siswa, ia memiliki tas\"",
+      "pilihan": ["عاعشة مُدَرِّسَةٌ لَهَا مَحْفَظَةٌ", "عاعشة تِلْمِذَةٌ لَهُ مَحْفَظَةٌ", "عاعشة تِلْمِذَةٌ لَهَا مَحْفَظَةٌ", "عاعشة تِلْمِذَةٌ لَكِ مَحْفَظَةٌ"]
+    },
+    {
+      "id": 15,
+      "pertanyaan": "تَرْجِمْ اِلَى اللُّغَةِ الْإِنْدُوْنِسِيَّةِ \"وَ أَنْ نَكُوْنَا مِنَ النَّاجِحِيْنَ\"",
+      "pilihan": ["Dan kalian menjadi orang sukses", "Dan kamu menjadi orang sukses", "Dan aku menjadi orang sukses", "Dan kita menjadi orang yang sukses"]
+    },
+    {
+      "id": 16,
+      "pertanyaan": "Apa balasannya bagi orang yang bersabar?",
+      "pilihan": ["Beruntunglah ia", "Berbahagialah ia", "Bergunalah ia", "Bernyanyilah ia"]
+    },
+    {
+      "id": 17,
+      "pertanyaan": "Apa arti الْمَحَفُظَاتُ",
+      "pilihan": ["Pribahasa Arab", "Kata-kata Arab", "Pelajaran Arab", "Ungkapan Arab"]
+    },
+    {
+      "id": 18,
+      "pertanyaan": "Waktu lebih berharga daripada…",
+      "pilihan": ["Uang", "Jam", "Emas", "Sawit"]
+    },
+    {
+      "id": 19,
+      "pertanyaan": "Kenikmatan itu didapatkan setelah",
+      "pilihan": ["Kepayahan", "Kemarahan", "Kelindan", "Kesesatan"]
+    },
+    {
+      "id": 20,
+      "pertanyaan": "مَنْ ...عَلَى الدَّرْبِ .....",
+      "pilihan": ["سَرَ...وَصَلَ", "سَارَ..وَصَلَ", "سِرِ...وُصِلِ", "سَارُ...وَصَلَ"]
+    },
+    {
+      "id": 21,
+      "pertanyaan": "Bagaimanakah apabila seseorang mangerjakan sesuatu dengan bersunguh-sungguh?",
+      "pilihan": ["Maka ia akan berhasil", "Maka ia akan menyerah", "Maka ia akan menderita", "Maka ia akan berhutang"]
+    },
+    {
+      "id": 22,
+      "pertanyaan": "مَنْ جَذَّ ....",
+      "pilihan": ["وَجَدَ", "وَجِدَ", "وُجِدَ", "وَجَدِ"]
+    },
+    {
+      "id": 23,
+      "pertanyaan": "Apa manfaat belajar di waktu kecil?",
+      "pilihan": ["Buang-buang waktu", "Membekas hingga tua", "Lenyap begitu saja", "Menyulitkan diri"]
+    },
+    {
+      "id": 24,
+      "pertanyaan": "وَماَ ...اِلَّا بَعْدَ..",
+      "pilihan": ["الّذَةُ... التَّعْب", "الَّذّةِ...التّعْبِ", "الّذّةُ...التَّعْبُ", "الَّذِّةُ...التُّعِبِ"]
+    },
+    {
+      "id": 25,
+      "pertanyaan": "Ilmu pengetahuan di waktu kecil, bagaikan….di atas batu",
+      "pilihan": ["Pahatan", "Percikan", "Permainan", "Ukiran"]
+    },
+    {
+      "id": 26,
+      "pertanyaan": "Tidak akan kembali….yang telah…",
+      "pilihan": ["Uang…dipinjam", "Orang….berlalu", "Hari-hari… berlalu", "Hati….rapuh"]
+    },
+    {
+      "id": 27,
+      "pertanyaan": "مَنْ صَبِرَ ظَفَرَ Artinya...",
+      "pilihan": ["Barang siapa yang bersabar, berbanggalah ia", "Barang siapa yang benar, berbanggalah ia", "Barang siapa yang bersabar, beruntunglah ia", "Barang siapa yang bersandar, bertengkarlah ia"]
+    },
+    {
+      "id": 28,
+      "pertanyaan": "“Telur hari ini lebih baik daripada ayam esok hari dalam bahasa Arab…",
+      "pilihan": [
+        "بَيْضَةٌ الْيَوْمِ خَيْرٌ مِنْ دَجَاجَةِ الْغَدِ",
+        "بَيْضَةُ الْيَوْمِ خَيْرٌ مِنْ دَجَاجَةِ الْغَدِ",
+        "بَيْضِةُ الْيَوْمَ خَيْرً مِنَ دَجَاجَةُ الْغَدِ",
+        "بَيْضَةُ الْيَوْمِ خَيَرَ مِنْ دَجَاجَةِ الْغَدِ"
+      ]
+    },
+    {
+      "id": 29,
+      "pertanyaan": "Bagaimana cara agar kita sampai ke tujuan…",
+      "pilihan": ["Bersama dalam pencitraan", "Berpencar pada akhirnya", "Berjalan pada jalannya", "Bersalaman pada yang tua"]
+    },
+    {
+      "id": 30,
+      "pertanyaan": "Apa yang menyebabkan sedikit memiliki teman?",
+      "pilihan": ["Banyak kebaikan", "Banyak jujurnya", "Sedikit uangnya", "Sedikit kejujuranya"]
+    },
+    {
+      "id": 31,
+      "pertanyaan": "جَالِسْ أَهْلَ الصِّدْقِ وَالْوَفَاءِ Artinya…",
+      "pilihan": [
+        "Pergaulilah orang yang menepati janji",
+        "Pergaulilah orang yang jujur dan menepati janji",
+        "Perjauhilah orang yang jujur dan menepati janji",
+        "Pergaulilah orang yang sabar dan menepati janji"
+      ]
+    },
+    {
+      "id": 32,
+      "pertanyaan": "تَظْهَرُ Artinya…",
+      "pilihan": ["Tampak", "Tampan", "Tarik", "Tambah"]
+    },
+    {
+      "id": 33,
+      "pertanyaan": "جَرِّبْ وَ لَاحِظْ Artinya…",
+      "pilihan": ["Coba dan beli", "Coba dan rasakan", "Coba dan perhatikan", "Coba dan berani"]
+    },
+    {
+      "id": 34,
+      "pertanyaan": "Kesabaran itu menolong segala…",
+      "pilihan": ["Permasalahan", "Pengalaman", "Pekerjaan", "Pendapatan"]
+    },
+    {
+      "id": 35,
+      "pertanyaan": "Menuntut ilmu itu sejak dari buain hingga…",
+      "pilihan": ["Dewasa", "Mati", "Remaja", "Liang lahat"]
+    }
+  ]
+}
