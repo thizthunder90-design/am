@@ -1,7 +1,7 @@
 {
   "judul": "Ujian Prakarya dan Kewirausahaan (PKWU)",
   "total_soal": 30,
-  "data": [
+  "soal_list": [
     {
       "id": 1,
       "pertanyaan": "Suatu hasil kebudayaan yang tidak berbentuk benda dan biasanya merupakan hasil karya yang bersifat abstrak yang diwariskan disebut ...",
