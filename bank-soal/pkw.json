@@ -50,7 +50,7 @@
         "Man, Market, Money, Material, Machine, Miniatur",
         "Man, Money, Microwave, Material, Machine, Market",
         "Man, Money, Material, Method, Machine, Market",
-        "Man, Mother, Making, Material, Machine, Market"
+        "Man, Money, Material, Method, Machine, Market"
       ]
     },
     {
@@ -85,14 +85,12 @@
     },
     {
       "id": 16,
-      "pertanyaan": "Gambar diatas merupakan salah satu contoh kerajinan dari limbah ...",
-      "gambar": "pilihan_gambar_16.jpg",
+      "pertanyaan": "Contoh kerajinan dari limbah plastik yang dibentuk menjadi bunga merupakan pemanfaatan limbah ...",
       "pilihan": ["Plastik", "Kain perca", "Pelepah pisang", "Kertas", "Koran"]
     },
     {
       "id": 17,
-      "pertanyaan": "Gambar diatas merupakan salah satu contoh kerajinan dari limbah ...",
-      "gambar": "pilihan_gambar_17.jpg",
+      "pertanyaan": "Produk kerajinan yang dibuat dari potongan-potongan kain sisa jahitan disebut kerajinan ...",
       "pilihan": ["Plastik", "Kain perca", "Pelepah pisang", "Kertas", "Koran"]
     },
     {
@@ -117,12 +115,12 @@
     },
     {
       "id": 22,
-      "pertanyaan": "Bentuk promosi secara personal dengan presentasi lisan dalam suatu percakapan dengan calon pembeli yang ditujukan untuk menarik peminat pembeli merupakan jenis promosi ...",
+      "pertanyaan": "Bentuk promosi secara personal dengan presentasi lisan dalam suatu percakapan dengan calon pembeli merupakan jenis promosi ...",
       "pilihan": ["Periklanan", "Penjualan tatap muka", "Publisitas", "Promosi penjualan (sales)", "Pemasaran langsung"]
     },
     {
       "id": 23,
-      "pertanyaan": "Bentuk promosi yang dilakukan melalui media sosial, blog pribadi, dan onlineshop merupakan contoh bentuk strategi promosi secara ....",
+      "pertanyaan": "Bentuk promosi yang dilakukan melalui media sosial, blog pribadi, dan onlineshop merupakan strategi promosi secara ....",
       "pilihan": ["Promosi langsung", "Periklanan", "Online", "Sales", "Pribadi"]
     },
     {
@@ -152,6 +150,13 @@
     },
     {
       "id": 29,
-      "pertanyaan": "pongek patin. Makanan khas daerah diatas berasal dari daerah ....",
-      "gambar": "pilihan_gambar_29.jpg",
-      "pilihan": ["Riau", "Padang", "Lampung", "Medan
+      "pertanyaan": "Pongek patin merupakan makanan khas daerah yang berasal dari daerah ....",
+      "pilihan": ["Riau", "Padang", "Lampung", "Medan", "Palembang"]
+    },
+    {
+      "id": 30,
+      "pertanyaan": "Tahapan akhir dari sebuah proses produksi kerajinan adalah ...",
+      "pilihan": ["Pemasaran", "Evaluasi", "Pengemasan", "Perencanaan", "Distribusi"]
+    }
+  ]
+}
