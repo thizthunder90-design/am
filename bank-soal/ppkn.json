@@ -1,7 +1,7 @@
 {
   "judul": "Ujian Pendidikan Pancasila dan Kewarganegaraan (PPKn)",
   "total_soal": 30,
-  "data": [
+  "soal_list": [
     {
       "id": 1,
       "pertanyaan": "Badan penyelidikan yang dibentuk oleh pemerintah pendudukan jepang dengan tujuan untuk mempersiapkan kemerdekaan indonesia adalah...",
