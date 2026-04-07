@@ -1,7 +1,7 @@
 {
   "judul": "Ujian Sejarah Indonesia",
   "total_soal": 30,
-  "data": [
+  "soal_list": [
     {
       "id": 1,
       "pertanyaan": "Hasil perundingan antara APRIS dan KNIL. pada tanggal 18 Mei 1950mengalami kegagalan karena…..",
