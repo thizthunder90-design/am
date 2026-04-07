@@ -1,0 +1,206 @@
+{
+  "judul": "Ujian Sejarah Kebudayaan Islam (SKI)",
+  "total_soal": 35,
+  "data": [
+    {
+      "id": 1,
+      "pertanyaan": "Indonesia merupakan daerah agraris, sehingga sistem perekonomian di daerah ini bertumpu pada…",
+      "pilihan": ["Industri", "Pelayaran", "Perdagangan", "Kesenian"]
+    },
+    {
+      "id": 2,
+      "pertanyaan": "Sebelum masuknya Hindu dan Budha, masyarakat di Indonesia memiliki kepercayaan adanya kekuatan pada suatu benda yang dapat memberi manfaat atau mendatangkan bahaya, kepercayaan ini disebut…",
+      "pilihan": ["Animisme", "Dinamisme", "Paganisme", "Fanatisme"]
+    },
+    {
+      "id": 3,
+      "pertanyaan": "Dalam Hindu dikenal kasta dalam masyarakat. Kasta Brahmana terdiri dari kaum…",
+      "pilihan": [
+        "Rakyat jelata dan pekerja kasar",
+        "Prajurit dan bangsawan",
+        "Pendeta dan sarjana",
+        "Pedagang dan pejabat"
+      ]
+    },
+    {
+      "id": 4,
+      "pertanyaan": "Sebelum Islam datang, di Nusantara telah menerapkan sistem politik, pada kekuasan kerajaan…",
+      "pilihan": ["Sriwijaya", "Samudra pasai", "Demak", "Majapahit"]
+    },
+    {
+      "id": 5,
+      "pertanyaan": "Walisongo yang menyebarkan agama Islam melalui kesenian pewayangan yaitu….",
+      "pilihan": ["Sunan Giri", "Sunan Kalijaga", "Sunan Muria", "Sunan Bonang"]
+    },
+    {
+      "id": 6,
+      "pertanyaan": "Kusastraan pada saat itu tidak lepas dari para pujangga sebagai….",
+      "pilihan": [
+        "Penyimpan kitab suci",
+        "Penggubah dan pencipta karya sastra",
+        "Pemuka agma dalam kehidupan raja",
+        "Pemimpin bagi para Brahmana"
+      ]
+    },
+    {
+      "id": 7,
+      "pertanyaan": "Masuknya Islam melalui jalur utara mendorong penduduk Indonesia ke dalam Islam yang tampil dalam bentuk barunya dengan aliran….",
+      "pilihan": ["Filsafat", "Tasawuf", "Madzhab", "Sunni"]
+    },
+    {
+      "id": 8,
+      "pertanyaan": "Sekitar tahun 561 M, Islam masuk ke Indonesia melalui Champa sejak zaman Khalifah…",
+      "pilihan": ["Harun Ar-Rasyid", "Umar bin Khattab", "Usman bin Affan", "Muawiyah bin Abu Sufyan"]
+    },
+    {
+      "id": 9,
+      "pertanyaan": "Islam pertama kali memasuki Indonesia di wilayah…",
+      "pilihan": ["Sumatra Utara", "Aceh", "Kalimantan", "Maluku"]
+    },
+    {
+      "id": 10,
+      "pertanyaan": "Masuknya Islam ke Indonesia melalui beberapa jalur, yaitu….",
+      "pilihan": ["Utara, Tengah, Selatan", "Tengah, Barat, Timur", "Timur, Tengah, Barat", "Selatan, Tengah, Timur"]
+    },
+    {
+      "id": 11,
+      "pertanyaan": "Kepulauan Nusantara banyak dikunjungi pedagang internasional karena banyak menghasilkan…",
+      "pilihan": ["Beras", "Karet", "Sawit", "Rempah-rempah"]
+    },
+    {
+      "id": 12,
+      "pertanyaan": "Teori Gujarat menyatakan bahawa Islam masuk ke Indonesia pada abad…",
+      "pilihan": ["10", "11", "12", "13"]
+    },
+    {
+      "id": 13,
+      "pertanyaan": "Berikut yang termasuk jalur penyebaran Islam, kecuali…",
+      "pilihan": ["Pertanian", "Pendidikan", "Perdagangan", "Perkawinan"]
+    },
+    {
+      "id": 14,
+      "pertanyaan": "Proses masuknya Islam ke Indonesia tak terlepas dari para pedagang dari negara ini, kecuali…",
+      "pilihan": ["Yunani", "Gujarat", "Tiongkok", "Arab"]
+    },
+    {
+      "id": 15,
+      "pertanyaan": "Salah satu bukti persebaran Islam di Nusantara adalah makam Fatimah binti Maimun bin Hibatullah, ia diduga seorang putri yang berasal dari…",
+      "pilihan": ["Persia", "Jordan", "Maroko", "Pakistan"]
+    },
+    {
+      "id": 16,
+      "pertanyaan": "Teori masuknya Islam pada abad ke 7 didukung oleh berita dari para pedagang Arab yang pernah berkunjung ke Nusantara pada masa pemerintahan kerajaan…",
+      "pilihan": ["Sriwijaya", "Majapahit", "Kutai", "Mataram"]
+    },
+    {
+      "id": 17,
+      "pertanyaan": "Makam Fatimah binti Maimun memperlihatkan corak Islam, Makam tersebut ditemukan di daerah yang memiliki nama sama dengan daerah di Persia, yaitu…",
+      "pilihan": ["Leran", "Tokyo", "Islamabad", "Jeddah"]
+    },
+    {
+      "id": 18,
+      "pertanyaan": "Salah satu teori mengatakan bahwa Islam berasal dari Persia atau dengan kata lain orang Persia membawa Islam ke Indonesia yaitu adanya suku…di Persia",
+      "pilihan": ["Leran dan Jawi", "Banjar dan Madura", "Batak dan Minang", "Melayu dan Jawa"]
+    },
+    {
+      "id": 19,
+      "pertanyaan": "Berikut tokoh yang mendukung teori masuknya Islam ke Indonesia berasal dari Gujarat adalah…",
+      "pilihan": ["Buya Hamka", "Hasanuddin", "Snouck Hurgronje", "Nietszche"]
+    },
+    {
+      "id": 20,
+      "pertanyaan": "Tokoh yang mendukung masuknya Islam ke Indonesia berasal dari Arab adalah..",
+      "pilihan": ["Buya Hamka", "Hasanuddin", "Franz Kafka", "Van Basten"]
+    },
+    {
+      "id": 21,
+      "pertanyaan": "Saudagar muslim yang menyebarkan Islam di pesisir, antara lain datang dari berbagai negara berikut, kecuali…",
+      "pilihan": ["Arab", "Persia", "Gujarat", "Mesir"]
+    },
+    {
+      "id": 22,
+      "pertanyaan": "Persia sudah berubah nama menjadi negara…",
+      "pilihan": ["Pakistan", "Afganistan", "Iran", "Iraq"]
+    },
+    {
+      "id": 23,
+      "pertanyaan": "Berikut ini adalah cara-cara masuknya Islam ke Indonesia, kecuali….",
+      "pilihan": ["Perdagangan", "Peperangan", "Pendidikan", "Tasawuf"]
+    },
+    {
+      "id": 24,
+      "pertanyaan": "Berikut yang bukan strategi penyebaran Islam di Indonesia…",
+      "pilihan": ["Perkawinan", "Perdagangan", "Penjajahan", "Tasawuf"]
+    },
+    {
+      "id": 25,
+      "pertanyaan": "Yang bukan bukti sejarah masuknya Islam di Indonesia menurut teori Persia adalah…",
+      "pilihan": [
+        "Paham Syiah di awal masuknya Islam",
+        "Adanya Suku Leran dan Jawi di Persia",
+        "Naskah Tiongkok yang dicatat Pendeta I-Tsing",
+        "Kesamaan tradisi Persia dan Islam Indonesia"
+      ]
+    },
+    {
+      "id": 26,
+      "pertanyaan": "Pakar yang mendukung teori bahwa Islam yang ada di Indonesia berasal dari Persia adalah…",
+      "pilihan": ["Buya Hamka", "Snouck Hurgronje", "Hoesein Djajadiningrat", "Emma Goldman"]
+    },
+    {
+      "id": 27,
+      "pertanyaan": "Berikut kelompok yang menerima Islam, kecuali…",
+      "pilihan": ["Pedagang", "Bangsawan", "Wibu", "Saudagar"]
+    },
+    {
+      "id": 28,
+      "pertanyaan": "Berikut contoh strategi penyebaran Islam melalui jalur politik adalah…",
+      "pilihan": [
+        "Pernikahan para ulama dan masyarakat lokal",
+        "Penguasa yang masuk Islam",
+        "Pertunjukan seni gamelan dan wayang",
+        "Saudar muslim dari berbagai wilayah"
+      ]
+    },
+    {
+      "id": 29,
+      "pertanyaan": "Saudagar muslim datang ke Nusantara untuk berdagang sekaligus berdakwah, hal tersebut menunjukan Bahwa Islam masuk ke Indonesia melalui strategi…",
+      "pilihan": ["Politik", "Perniagaan", "Pendidikan", "Perkawinan"]
+    },
+    {
+      "id": 30,
+      "pertanyaan": "Para Ulama berdakwah dengan mendirikan lembaga pendidikan sebagai pusat kegiatan keagamaan, lembaga itu disebut…",
+      "pilihan": ["Laboratorium", "Pesantren", "Universitas", "Pendapa"]
+    },
+    {
+      "id": 31,
+      "pertanyaan": "Para penyebar agama Islam di Nusantara terutama di Jawa dikenal dengan sebutan…",
+      "pilihan": ["Wali santri", "Wali kelas", "Wali sanga", "Waliyullah"]
+    },
+    {
+      "id": 32,
+      "pertanyaan": "Ulama wali sanga pertama yang menyebarkan Islam di pulau Jawa adalah…",
+      "pilihan": ["Maulana Malik Ibrahim", "Raden Rahmat", "Raden Makhdum Ibrahim", "Maulana Ainul Yaqin"]
+    },
+    {
+      "id": 33,
+      "pertanyaan": "Saat maulana Malik Ibrahim tiba di Leran, masyarakat setempat menganut agama…",
+      "pilihan": ["Islam", "Kristen", "Hindu dan Buddha", "Katolik"]
+    },
+    {
+      "id": 34,
+      "pertanyaan": "Sunan Ampel pada masa kecilnya bernama…",
+      "pilihan": [
+        "Raden Ampel",
+        "Syarif Abdullah Umdatullah",
+        "Raden Patah",
+        "Sayyid Muhammad Ali Rahmatullah"
+      ]
+    },
+    {
+      "id": 35,
+      "pertanyaan": "Sunan Ampel meneybarkan Islam di daerah…",
+      "pilihan": ["Kudus", "Gresik", "Surabaya", "Jombang"]
+    }
+  ]
+}
