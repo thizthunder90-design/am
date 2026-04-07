@@ -1,7 +1,7 @@
 {
   "judul": "Ujian Bahasa Arab & Mahfuzhat",
   "total_soal": 35,
-  "data": [
+  "soal_list": [
     {
       "id": 1,
       "pertanyaan": "تَرْجِمْ اِلَى اللُّغَةِ الْإِنْدُوْنِسِيَّةِ \"هذَا مَكْتَبٌ\"",
