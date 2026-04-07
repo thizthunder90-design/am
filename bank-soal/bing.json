@@ -1,7 +1,7 @@
 {
   "judul": "Ujian Bahasa Inggris SMA - Materi Teks & Ungkapan",
   "total_soal": 40,
-  "data": [
+  "soal_list": [
     {
       "id": 1,
       "pertanyaan": "What is the primary social function of a descriptive text?",
