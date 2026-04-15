@@ -2,7 +2,7 @@
   "judul": "Bank Soal Sejarah Indonesia SMA (Kelas 10-12)",
   "kurikulum": "2013",
   "total_soal": 40,
-  "data": [
+  "soal_list": [
     {
       "id": 1,
       "kelas": 10,
